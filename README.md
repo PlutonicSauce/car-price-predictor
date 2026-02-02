@@ -93,10 +93,10 @@ You can also use Render or Heroku if you want.
 
 ## What I learned
 
-- Feature engineering is huge - car_age² helped capture non-linear depreciation
+- Feature engineering is huge and car_age helped capture non-linear depreciation
 - Random Forest worked better than linear models for this
-- Deploying ML models is different from training them - need to handle edge cases
-- Depreciation is tricky because it changes based on brand, mileage, and time
+- Deploying ML models is different from training them. You need to handle edge cases
+- Depreciation is pretty tricky because it changes based on brand, mileage, and time
 
 ## Future ideas
 
