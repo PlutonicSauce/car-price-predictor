@@ -1,0 +1,3001 @@
+make,model,year,mileage,fuel_type,transmission,price
+Tesla,Model 3,2024,35501,Electric,Automatic,32198.65
+Nissan,Altima,2013,166664,Gasoline,Automatic,2845.7
+Honda,Pilot,2010,194047,Gasoline,Automatic,1657.64
+Mazda,CX-9,2024,22576,Hybrid,Automatic,19589.12
+Tesla,Model 3,2018,80126,Electric,Automatic,12234.21
+Tesla,Model 3,2017,124104,Electric,Automatic,9842.4
+Mazda,CX-5,2021,71933,Gasoline,Automatic,9376.39
+Nissan,Altima,2025,20999,Gasoline,Manual,21467.89
+Hyundai,Elantra,2024,5912,Gasoline,Automatic,14845.53
+Nissan,Sentra,2012,131206,Hybrid,Automatic,2029.17
+Tesla,Model S,2014,180032,Electric,Manual,5958.21
+BMW,X3,2023,43890,Gasoline,Automatic,24666.4
+Mazda,CX-5,2022,49238,Gasoline,Automatic,13523.05
+BMW,X3,2016,161745,Gasoline,Automatic,7304.48
+Mercedes-Benz,GLE,2011,118449,Gasoline,Automatic,3518.93
+Chevrolet,Malibu,2020,56268,Gasoline,Manual,9590.26
+Hyundai,Elantra,2018,72579,Gasoline,Automatic,6510.42
+Mazda,CX-9,2018,79361,Gasoline,Automatic,6495.84
+Ford,F-150,2014,158484,Gasoline,Automatic,3831.92
+Ford,Mustang,2011,74957,Gasoline,Automatic,2156.33
+Nissan,Sentra,2026,6920,Gasoline,Automatic,26279.04
+Toyota,Camry,2015,160216,Gasoline,Automatic,3985.94
+Ford,Escape,2016,131516,Gasoline,Manual,4211.17
+Hyundai,Elantra,2019,94929,Diesel,Automatic,6721.23
+Honda,Civic,2025,14696,Hybrid,Automatic,20167.09
+Ford,Escape,2025,19938,Gasoline,Automatic,26869.59
+Chevrolet,Malibu,2012,190987,Hybrid,Automatic,2245.04
+Honda,Accord,2012,121248,Diesel,Automatic,2103.55
+Chevrolet,Tahoe,2017,124163,Gasoline,Automatic,5160.26
+Tesla,Model Y,2023,39139,Electric,Automatic,34236.45
+Honda,Civic,2010,192897,Gasoline,Automatic,1498.34
+Ford,Escape,2026,0,Hybrid,Automatic,34077.65
+Toyota,Tacoma,2012,125135,Gasoline,Automatic,2214.12
+Mazda,CX-9,2012,131646,Gasoline,Manual,1906.8
+Mazda,CX-5,2026,8894,Gasoline,Automatic,24098.41
+Nissan,Altima,2016,163157,Gasoline,Automatic,4458.37
+Ford,Explorer,2024,18178,Gasoline,Automatic,20189.46
+Mercedes-Benz,E-Class,2026,0,Gasoline,Automatic,50311.05
+BMW,X3,2013,142925,Gasoline,Automatic,4268.4
+Honda,Pilot,2019,102865,Gasoline,Automatic,6048.78
+BMW,5 Series,2018,87943,Hybrid,Automatic,10767.54
+Mercedes-Benz,GLE,2017,115853,Gasoline,Automatic,9994.48
+Tesla,Model S,2021,43391,Electric,Automatic,21003.6
+BMW,X3,2026,2999,Gasoline,Automatic,51724.14
+Mazda,CX-5,2014,134944,Gasoline,Manual,2959.55
+Nissan,Altima,2022,45874,Gasoline,Manual,13063.03
+Honda,CR-V,2010,284625,Hybrid,Automatic,1825.72
+Mazda,CX-9,2021,43256,Gasoline,Automatic,11242.92
+Tesla,Model 3,2017,145076,Electric,Automatic,9081.13
+Tesla,Model Y,2022,52990,Electric,Automatic,25345.08
+Nissan,Sentra,2026,1913,Gasoline,Automatic,28863.51
+BMW,X5,2026,4289,Gasoline,Automatic,50009.76
+Chevrolet,Tahoe,2022,49399,Gasoline,Manual,12500.73
+Tesla,Model Y,2024,41457,Electric,Automatic,40710.05
+Hyundai,Santa Fe,2022,60270,Diesel,Manual,12456.33
+Mazda,Mazda3,2015,137549,Gasoline,Automatic,3696.1
+BMW,3 Series,2014,152729,Hybrid,Manual,5187.82
+Tesla,Model 3,2022,46829,Electric,Automatic,28097.45
+Mercedes-Benz,GLC,2019,77628,Gasoline,Automatic,13521.16
+Hyundai,Santa Fe,2010,142805,Gasoline,Automatic,1247.23
+Toyota,Tacoma,2015,72402,Gasoline,Manual,4964.48
+Chevrolet,Equinox,2024,37503,Gasoline,Automatic,20218.8
+Tesla,Model 3,2020,74884,Electric,Automatic,17490.41
+Chevrolet,Malibu,2017,126829,Gasoline,Manual,6157.31
+Mercedes-Benz,GLC,2026,0,Gasoline,Automatic,48947.55
+Ford,F-150,2015,97589,Hybrid,Manual,3753.91
+Tesla,Model 3,2010,208280,Electric,Automatic,3371.2
+Hyundai,Tucson,2026,6189,Gasoline,Automatic,20805.9
+Mercedes-Benz,GLE,2026,1126,Hybrid,Automatic,58730.99
+Mazda,CX-5,2026,0,Gasoline,Automatic,23716.38
+Toyota,Camry,2017,72967,Gasoline,Automatic,6140.97
+Mercedes-Benz,GLC,2021,64247,Gasoline,Automatic,23928.54
+Ford,Explorer,2015,138950,Gasoline,Automatic,4082.28
+Ford,Explorer,2011,178151,Diesel,Automatic,2173.29
+Ford,F-150,2014,144090,Diesel,Automatic,2969.57
+BMW,5 Series,2015,63328,Gasoline,Automatic,6804.23
+Hyundai,Santa Fe,2025,11134,Gasoline,Manual,19050.02
+Honda,Civic,2014,91401,Gasoline,Automatic,3359.79
+Mazda,CX-5,2011,159046,Gasoline,Automatic,1806.69
+Mercedes-Benz,GLC,2020,84222,Diesel,Automatic,16395.06
+Nissan,Rogue,2023,29197,Gasoline,Automatic,12939.18
+Nissan,Sentra,2016,148360,Diesel,Automatic,4546.11
+Mercedes-Benz,GLC,2024,23318,Gasoline,Automatic,41222.77
+Mercedes-Benz,E-Class,2021,43495,Gasoline,Automatic,23993.74
+Honda,CR-V,2013,253671,Diesel,Automatic,2319.78
+Hyundai,Elantra,2015,143656,Gasoline,Automatic,3049.46
+Hyundai,Elantra,2015,113804,Hybrid,Automatic,3507.81
+Nissan,Sentra,2018,93009,Gasoline,Manual,5420.57
+Honda,Pilot,2020,77639,Gasoline,Automatic,9263.41
+Hyundai,Tucson,2024,26606,Diesel,Automatic,18611.3
+Chevrolet,Equinox,2010,210906,Diesel,Automatic,1509.34
+Chevrolet,Silverado,2020,47076,Gasoline,Automatic,10445.04
+Honda,Civic,2017,95548,Gasoline,Automatic,5570.29
+Nissan,Rogue,2012,191221,Diesel,Manual,1896.68
+Nissan,Sentra,2018,77589,Hybrid,Automatic,5302.89
+Nissan,Sentra,2018,117498,Diesel,Automatic,5218.39
+Mazda,CX-5,2013,179453,Gasoline,Automatic,2676.12
+Ford,F-150,2015,62784,Gasoline,Automatic,4571.16
+Honda,Accord,2017,106882,Gasoline,Automatic,5348.95
+Mazda,CX-9,2024,39150,Hybrid,Automatic,15832.48
+Toyota,Tacoma,2014,128052,Gasoline,Automatic,3180.46
+Mazda,Mazda3,2015,61300,Gasoline,Automatic,4097.8
+Nissan,Altima,2024,30117,Gasoline,Automatic,18027.46
+Mazda,CX-9,2014,98198,Gasoline,Automatic,3312.71
+Mazda,Mazda3,2017,174681,Gasoline,Manual,5442.17
+Chevrolet,Tahoe,2013,206355,Gasoline,Automatic,2449.32
+Nissan,Altima,2020,53558,Hybrid,Automatic,8189.87
+Hyundai,Elantra,2017,72325,Diesel,Automatic,5683.52
+Mazda,Mazda3,2012,192190,Hybrid,Automatic,2039.46
+Honda,CR-V,2026,413,Hybrid,Automatic,27628.82
+Chevrolet,Malibu,2010,234637,Gasoline,Automatic,1807.14
+Tesla,Model 3,2018,84014,Electric,Automatic,14314.88
+Toyota,Camry,2022,22091,Diesel,Automatic,13625.3
+Toyota,Tacoma,2025,10393,Diesel,Automatic,22563.9
+Toyota,Corolla,2015,121425,Gasoline,Automatic,4033.28
+Mazda,CX-5,2023,49359,Hybrid,Automatic,16682.55
+Nissan,Altima,2012,192664,Gasoline,Automatic,2329.94
+Ford,Explorer,2010,276604,Diesel,Manual,1837.2
+Chevrolet,Tahoe,2014,128783,Gasoline,Automatic,3431.92
+Toyota,Tacoma,2025,6722,Gasoline,Manual,24533.22
+Chevrolet,Equinox,2019,79813,Gasoline,Automatic,7676.02
+Hyundai,Tucson,2021,55961,Gasoline,Manual,9935.52
+Toyota,Corolla,2026,0,Gasoline,Automatic,24970.59
+Chevrolet,Malibu,2022,66993,Diesel,Automatic,15594.34
+Hyundai,Tucson,2011,273838,Diesel,Automatic,1431.15
+BMW,X3,2015,106305,Gasoline,Automatic,6772.5
+Toyota,Corolla,2023,33860,Gasoline,Automatic,15646.51
+Nissan,Sentra,2013,123209,Gasoline,Automatic,2638.32
+Mercedes-Benz,E-Class,2014,80208,Gasoline,Automatic,7468.12
+Toyota,RAV4,2022,47250,Gasoline,Automatic,13143.72
+Toyota,Camry,2020,66510,Gasoline,Automatic,8455.12
+Ford,Mustang,2015,79546,Gasoline,Manual,3873.36
+Mazda,Mazda3,2026,0,Hybrid,Automatic,28391.18
+Tesla,Model 3,2025,13803,Electric,Automatic,38707.17
+Mazda,Mazda3,2022,44854,Gasoline,Manual,12987.66
+Mercedes-Benz,E-Class,2016,132332,Hybrid,Manual,8595.46
+Chevrolet,Equinox,2012,204827,Gasoline,Automatic,2191.14
+Honda,CR-V,2014,59434,Gasoline,Automatic,3944.24
+Chevrolet,Silverado,2022,59828,Gasoline,Automatic,12214.84
+Mazda,CX-5,2022,56795,Diesel,Manual,12201.71
+Toyota,Tacoma,2021,75366,Hybrid,Automatic,10492.12
+Tesla,Model 3,2010,170422,Electric,Automatic,2936.18
+Chevrolet,Malibu,2014,143922,Gasoline,Automatic,3021.08
+Mazda,Mazda3,2014,133906,Hybrid,Manual,2929.69
+Honda,Civic,2016,127455,Gasoline,Automatic,3908.89
+Honda,Civic,2018,106214,Gasoline,Automatic,6714.11
+Toyota,Camry,2012,206789,Gasoline,Automatic,2295.95
+Toyota,RAV4,2012,134863,Gasoline,Automatic,2357.35
+Honda,CR-V,2018,56567,Gasoline,Automatic,7656.09
+Mazda,Mazda3,2024,38002,Gasoline,Automatic,17004.74
+Nissan,Sentra,2014,142486,Hybrid,Automatic,3308.76
+Toyota,Corolla,2017,114320,Hybrid,Automatic,5440.54
+Nissan,Sentra,2022,53210,Diesel,Automatic,14117.28
+Hyundai,Elantra,2020,74572,Gasoline,Manual,9698.15
+Hyundai,Santa Fe,2019,72055,Diesel,Automatic,7932.02
+Tesla,Model Y,2022,50525,Electric,Automatic,24071.39
+Nissan,Altima,2012,148228,Gasoline,Automatic,2355.72
+BMW,3 Series,2013,173103,Hybrid,Automatic,5177.09
+Toyota,Corolla,2010,173399,Gasoline,Automatic,1605.15
+Toyota,RAV4,2020,71412,Gasoline,Manual,9718.89
+Hyundai,Santa Fe,2024,32828,Gasoline,Automatic,17203.72
+Mercedes-Benz,GLC,2012,194812,Gasoline,Automatic,4382.95
+Hyundai,Elantra,2012,115246,Diesel,Automatic,1795.8
+Toyota,Camry,2021,55371,Gasoline,Automatic,10653.56
+BMW,X5,2024,21352,Gasoline,Automatic,31581.51
+Nissan,Rogue,2012,154505,Gasoline,Automatic,2206.42
+Chevrolet,Tahoe,2018,87882,Gasoline,Automatic,6368.21
+Nissan,Sentra,2022,40682,Gasoline,Automatic,14592.92
+Mercedes-Benz,GLE,2020,88271,Diesel,Automatic,17856.16
+Nissan,Altima,2026,0,Gasoline,Automatic,23740.73
+Toyota,Corolla,2017,84527,Gasoline,Automatic,4905.54
+Mercedes-Benz,GLC,2011,224131,Gasoline,Automatic,4364.26
+Ford,Explorer,2015,195071,Gasoline,Automatic,4540.6
+Nissan,Rogue,2024,29437,Diesel,Automatic,18441.54
+Hyundai,Tucson,2023,27717,Hybrid,Automatic,15852.36
+Chevrolet,Silverado,2017,108190,Gasoline,Automatic,4601.12
+Ford,Mustang,2014,106219,Gasoline,Automatic,2933.12
+Toyota,Highlander,2026,3235,Diesel,Automatic,26705.85
+Chevrolet,Tahoe,2026,2061,Gasoline,Automatic,29923.84
+Honda,Pilot,2015,95873,Gasoline,Automatic,4306.64
+Toyota,RAV4,2017,145036,Gasoline,Automatic,5207.85
+BMW,3 Series,2015,77281,Hybrid,Automatic,7204.41
+Hyundai,Tucson,2016,103528,Hybrid,Automatic,3957.73
+Toyota,Highlander,2013,156555,Gasoline,Automatic,2439.97
+Mazda,Mazda3,2019,67493,Gasoline,Automatic,8900.41
+Hyundai,Tucson,2020,93359,Gasoline,Automatic,8556.33
+Mercedes-Benz,GLE,2023,32997,Hybrid,Automatic,28186.06
+Mercedes-Benz,C-Class,2014,146400,Gasoline,Automatic,6220.89
+Honda,Civic,2016,135459,Gasoline,Automatic,3792.77
+Chevrolet,Tahoe,2019,71140,Gasoline,Automatic,7847.31
+Mercedes-Benz,C-Class,2024,22697,Diesel,Manual,39456.04
+Honda,Accord,2026,833,Diesel,Automatic,29393.63
+Chevrolet,Silverado,2010,216944,Gasoline,Automatic,1519.32
+Honda,Accord,2015,156489,Hybrid,Automatic,3170.54
+Hyundai,Santa Fe,2013,207175,Hybrid,Automatic,2600.91
+Hyundai,Santa Fe,2022,46827,Gasoline,Automatic,11170.7
+Mazda,CX-9,2024,26451,Gasoline,Automatic,17007.73
+Mercedes-Benz,E-Class,2020,106605,Gasoline,Automatic,15996.11
+Mazda,CX-5,2015,79042,Gasoline,Automatic,3823.24
+Honda,Pilot,2020,69412,Hybrid,Automatic,10833.13
+Mercedes-Benz,GLC,2011,192017,Gasoline,Automatic,4338.95
+Ford,Escape,2025,10365,Gasoline,Manual,26326.85
+Tesla,Model S,2021,54910,Electric,Automatic,19449.09
+Mazda,Mazda3,2019,84960,Gasoline,Automatic,6943.26
+Mazda,CX-9,2022,64393,Hybrid,Automatic,11670.32
+Mazda,CX-5,2019,81975,Gasoline,Automatic,6729.56
+Ford,Escape,2016,101190,Gasoline,Automatic,4847.75
+Toyota,RAV4,2021,56956,Gasoline,Automatic,12190.96
+Tesla,Model S,2019,92658,Electric,Automatic,13081.25
+Ford,Explorer,2012,79664,Diesel,Automatic,2542.33
+Ford,Escape,2015,81256,Gasoline,Automatic,4861.05
+Ford,F-150,2017,63085,Gasoline,Automatic,7190.87
+BMW,X5,2017,121101,Gasoline,Automatic,8712.52
+Mercedes-Benz,E-Class,2021,80157,Diesel,Automatic,18342.45
+Mazda,Mazda3,2022,67206,Gasoline,Automatic,12477.53
+Tesla,Model 3,2025,18319,Electric,Manual,38877.38
+Ford,Escape,2014,178971,Gasoline,Automatic,2996.9
+Mercedes-Benz,E-Class,2017,95566,Diesel,Automatic,11721.18
+Chevrolet,Silverado,2022,38354,Hybrid,Automatic,13416.45
+Chevrolet,Malibu,2013,177257,Gasoline,Automatic,2805.98
+Toyota,Corolla,2015,123358,Hybrid,Manual,4092.52
+Tesla,Model Y,2018,82862,Electric,Manual,12730.86
+Mazda,Mazda3,2011,182962,Gasoline,Automatic,1639.73
+Ford,Explorer,2018,113235,Gasoline,Automatic,6551.76
+Chevrolet,Silverado,2021,61375,Gasoline,Automatic,11890.78
+Mercedes-Benz,GLE,2020,105647,Gasoline,Automatic,17992.31
+Mazda,Mazda3,2011,253280,Gasoline,Automatic,1779.0
+Hyundai,Santa Fe,2018,83253,Gasoline,Automatic,5863.22
+Chevrolet,Equinox,2017,125750,Gasoline,Automatic,5417.11
+Tesla,Model Y,2014,144320,Electric,Automatic,5769.93
+Mercedes-Benz,E-Class,2016,150170,Gasoline,Automatic,8613.99
+Mercedes-Benz,E-Class,2024,38465,Gasoline,Automatic,35419.67
+Mazda,CX-5,2022,50712,Gasoline,Automatic,12598.97
+Chevrolet,Tahoe,2013,143574,Gasoline,Automatic,2901.01
+Mercedes-Benz,E-Class,2019,75148,Gasoline,Automatic,14143.38
+Mazda,CX-5,2017,163218,Gasoline,Manual,5015.16
+Toyota,Highlander,2022,50131,Gasoline,Automatic,11864.92
+Hyundai,Santa Fe,2020,94552,Gasoline,Automatic,7857.78
+Nissan,Rogue,2023,17416,Gasoline,Automatic,13083.58
+Mazda,CX-5,2024,26192,Gasoline,Automatic,16118.97
+Toyota,Highlander,2013,187148,Gasoline,Automatic,3088.92
+BMW,X5,2021,44505,Gasoline,Manual,20800.24
+Honda,CR-V,2019,94641,Gasoline,Automatic,7342.0
+Mazda,Mazda3,2021,62334,Gasoline,Automatic,11886.87
+Tesla,Model S,2026,0,Electric,Automatic,48381.64
+Nissan,Rogue,2017,74244,Gasoline,Automatic,6098.31
+Hyundai,Tucson,2022,46438,Diesel,Automatic,10777.79
+Ford,Explorer,2021,73143,Gasoline,Automatic,11767.25
+Ford,Explorer,2016,151083,Gasoline,Automatic,4807.26
+Nissan,Altima,2021,52612,Diesel,Automatic,11037.16
+Tesla,Model S,2011,230799,Electric,Automatic,3142.15
+Mazda,CX-5,2021,51467,Hybrid,Automatic,10293.99
+Ford,Explorer,2015,94562,Diesel,Manual,4468.33
+BMW,5 Series,2017,95303,Gasoline,Automatic,11042.01
+Ford,Escape,2014,209546,Gasoline,Automatic,3594.53
+Honda,CR-V,2026,1929,Gasoline,Automatic,30903.95
+BMW,X3,2013,51835,Gasoline,Automatic,5521.28
+Honda,CR-V,2026,3154,Hybrid,Manual,28154.78
+Toyota,Highlander,2025,8918,Hybrid,Automatic,24012.71
+Mazda,Mazda3,2019,78116,Gasoline,Manual,6695.98
+Mazda,CX-9,2014,132730,Diesel,Automatic,2943.51
+Mercedes-Benz,E-Class,2013,160626,Gasoline,Automatic,4881.31
+Hyundai,Santa Fe,2013,114023,Diesel,Manual,2231.69
+Mazda,Mazda3,2022,36964,Hybrid,Automatic,13232.51
+Hyundai,Elantra,2013,194133,Gasoline,Automatic,2483.27
+Chevrolet,Tahoe,2024,27083,Diesel,Automatic,20456.1
+BMW,5 Series,2014,106860,Gasoline,Automatic,6430.38
+Hyundai,Elantra,2018,75424,Gasoline,Automatic,6478.98
+Honda,Pilot,2020,73340,Gasoline,Automatic,9464.14
+Toyota,Corolla,2014,137908,Gasoline,Automatic,3229.64
+Nissan,Sentra,2017,95758,Hybrid,Automatic,5210.09
+Tesla,Model 3,2013,168907,Electric,Automatic,5685.93
+Mercedes-Benz,GLE,2023,25557,Hybrid,Automatic,27280.6
+Hyundai,Tucson,2012,175907,Gasoline,Automatic,2065.98
+Hyundai,Santa Fe,2020,66847,Gasoline,Automatic,8717.45
+BMW,X5,2018,113410,Gasoline,Automatic,11424.79
+Honda,CR-V,2025,8977,Gasoline,Manual,22599.82
+BMW,X5,2015,140511,Gasoline,Manual,6597.69
+BMW,3 Series,2022,48816,Gasoline,Automatic,26675.59
+Mazda,CX-5,2014,160238,Gasoline,Automatic,3391.83
+Honda,CR-V,2021,25133,Gasoline,Automatic,10717.91
+Mazda,Mazda3,2010,162812,Gasoline,Automatic,1659.71
+Hyundai,Santa Fe,2025,19314,Diesel,Automatic,17782.9
+Toyota,Highlander,2025,7669,Gasoline,Automatic,20163.13
+Chevrolet,Tahoe,2010,171446,Gasoline,Automatic,1729.17
+Mercedes-Benz,GLC,2012,154087,Diesel,Manual,4159.34
+Hyundai,Santa Fe,2022,55119,Hybrid,Automatic,10620.62
+Honda,Pilot,2023,45361,Gasoline,Automatic,17838.28
+Chevrolet,Silverado,2017,117915,Gasoline,Manual,5038.56
+Ford,Explorer,2019,104187,Hybrid,Automatic,7830.46
+Tesla,Model 3,2024,13858,Electric,Automatic,31254.51
+Toyota,Camry,2010,100029,Gasoline,Automatic,1563.39
+Hyundai,Santa Fe,2013,102908,Hybrid,Automatic,2343.19
+Toyota,Highlander,2012,200376,Gasoline,Automatic,2130.98
+BMW,X3,2021,67186,Diesel,Manual,21116.54
+Tesla,Model S,2017,81186,Electric,Automatic,10912.99
+Mazda,Mazda3,2017,109079,Diesel,Automatic,5072.62
+Chevrolet,Malibu,2021,91684,Hybrid,Automatic,11955.92
+Toyota,Camry,2026,0,Hybrid,Automatic,27744.99
+Hyundai,Elantra,2022,30708,Gasoline,Automatic,10754.73
+Mercedes-Benz,C-Class,2023,35512,Gasoline,Automatic,29105.43
+Mazda,CX-9,2018,76328,Gasoline,Automatic,5849.72
+Tesla,Model S,2018,91510,Electric,Manual,11206.63
+Nissan,Sentra,2021,69002,Gasoline,Automatic,10195.61
+Mazda,CX-9,2014,146141,Gasoline,Automatic,2855.53
+Chevrolet,Malibu,2014,131463,Diesel,Automatic,2884.39
+Hyundai,Santa Fe,2011,240973,Gasoline,Automatic,1430.72
+Honda,CR-V,2018,120310,Diesel,Automatic,6596.42
+Mercedes-Benz,GLC,2025,22455,Gasoline,Automatic,42671.67
+BMW,3 Series,2026,0,Diesel,Automatic,47827.78
+Honda,Pilot,2012,167379,Hybrid,Automatic,2037.54
+Ford,Explorer,2021,62039,Gasoline,Automatic,12043.96
+Hyundai,Tucson,2013,166538,Gasoline,Automatic,2422.88
+BMW,X5,2010,143557,Gasoline,Automatic,3061.1
+Toyota,Camry,2015,141519,Diesel,Automatic,3815.61
+Chevrolet,Silverado,2022,50426,Gasoline,Automatic,13003.29
+Mazda,CX-9,2015,131452,Gasoline,Manual,3079.9
+Mazda,Mazda3,2012,182581,Diesel,Manual,2001.92
+Chevrolet,Silverado,2022,49766,Gasoline,Automatic,13165.9
+Tesla,Model S,2012,118970,Electric,Automatic,3764.92
+BMW,X5,2020,40112,Gasoline,Automatic,17275.77
+Honda,CR-V,2013,171879,Gasoline,Automatic,2377.55
+BMW,X5,2014,231681,Gasoline,Manual,6324.68
+Mercedes-Benz,C-Class,2024,23230,Diesel,Automatic,41630.96
+Mercedes-Benz,C-Class,2025,10918,Gasoline,Automatic,43886.72
+Toyota,RAV4,2020,71379,Diesel,Manual,9807.74
+Ford,Explorer,2024,27781,Gasoline,Automatic,22566.25
+Toyota,Camry,2026,0,Gasoline,Automatic,24058.64
+Tesla,Model Y,2020,78819,Electric,Automatic,17990.06
+Honda,Civic,2012,210596,Gasoline,Automatic,2378.23
+Hyundai,Elantra,2010,201394,Diesel,Automatic,1382.47
+Honda,Accord,2023,13074,Gasoline,Automatic,13784.77
+Honda,Civic,2015,115614,Gasoline,Automatic,3839.18
+Honda,Accord,2022,37961,Hybrid,Automatic,12439.41
+Nissan,Rogue,2016,73113,Gasoline,Manual,4967.21
+BMW,X3,2026,2030,Gasoline,Automatic,50311.66
+Chevrolet,Tahoe,2023,20829,Gasoline,Automatic,17080.25
+Chevrolet,Silverado,2017,98464,Gasoline,Automatic,6042.09
+Hyundai,Elantra,2024,32892,Gasoline,Manual,16727.67
+Nissan,Altima,2015,154892,Gasoline,Automatic,3334.79
+Ford,F-150,2011,222915,Hybrid,Automatic,2354.34
+Nissan,Sentra,2014,171125,Diesel,Automatic,2638.31
+BMW,3 Series,2020,75788,Diesel,Manual,17147.3
+Hyundai,Elantra,2021,23470,Hybrid,Automatic,8852.82
+Ford,Escape,2018,124042,Hybrid,Automatic,6848.49
+Mercedes-Benz,GLE,2010,226889,Gasoline,Automatic,3689.29
+Chevrolet,Malibu,2012,206313,Gasoline,Automatic,2169.11
+Chevrolet,Silverado,2020,61391,Gasoline,Automatic,9576.25
+BMW,5 Series,2023,37709,Diesel,Automatic,32463.58
+Ford,F-150,2012,188667,Gasoline,Automatic,2439.9
+Chevrolet,Malibu,2015,130949,Gasoline,Automatic,3453.19
+Mercedes-Benz,C-Class,2019,101089,Gasoline,Automatic,12063.86
+BMW,3 Series,2010,155018,Gasoline,Automatic,3000.41
+BMW,X5,2022,59427,Gasoline,Automatic,22881.46
+Ford,F-150,2018,102781,Gasoline,Automatic,6876.52
+Chevrolet,Malibu,2017,109717,Hybrid,Automatic,5156.98
+Mazda,CX-9,2019,55423,Hybrid,Automatic,8801.19
+Toyota,Camry,2024,24927,Gasoline,Manual,20226.5
+Honda,Accord,2026,3865,Gasoline,Automatic,26316.7
+Mercedes-Benz,GLC,2011,172039,Gasoline,Automatic,3583.8
+Mercedes-Benz,E-Class,2023,23760,Gasoline,Automatic,31270.63
+Toyota,Camry,2025,12955,Gasoline,Automatic,19771.76
+Chevrolet,Equinox,2025,13076,Gasoline,Automatic,22914.39
+Honda,CR-V,2015,137577,Gasoline,Automatic,4056.93
+Honda,Civic,2020,80859,Hybrid,Automatic,9754.3
+Chevrolet,Equinox,2010,262218,Hybrid,Automatic,1906.19
+Hyundai,Elantra,2019,78816,Gasoline,Automatic,5754.72
+Mazda,CX-5,2017,95400,Gasoline,Automatic,5831.72
+Mazda,Mazda3,2011,157384,Gasoline,Automatic,2045.05
+Toyota,RAV4,2023,37621,Gasoline,Automatic,18136.94
+Mazda,Mazda3,2019,97518,Gasoline,Manual,6455.39
+Nissan,Altima,2018,101463,Gasoline,Automatic,5696.2
+Mazda,CX-9,2022,55898,Hybrid,Manual,12465.11
+Chevrolet,Equinox,2019,91278,Gasoline,Automatic,7556.49
+Tesla,Model Y,2023,39648,Electric,Automatic,33364.66
+Nissan,Sentra,2013,200147,Gasoline,Automatic,2798.42
+Tesla,Model 3,2022,43490,Electric,Automatic,29622.23
+Tesla,Model S,2015,129972,Electric,Manual,6118.35
+Chevrolet,Tahoe,2021,64446,Diesel,Automatic,11829.44
+Honda,Accord,2014,177987,Gasoline,Automatic,3442.9
+Mercedes-Benz,GLE,2016,137405,Gasoline,Automatic,8352.42
+Tesla,Model S,2019,69173,Electric,Automatic,16331.17
+Mazda,CX-5,2026,3964,Diesel,Automatic,22899.62
+Toyota,Camry,2013,156347,Gasoline,Automatic,2381.86
+Mercedes-Benz,C-Class,2024,35145,Hybrid,Automatic,40845.34
+Hyundai,Elantra,2015,150398,Diesel,Automatic,3643.94
+Toyota,Camry,2012,205304,Gasoline,Manual,1967.83
+Chevrolet,Equinox,2017,127364,Diesel,Automatic,5468.59
+Ford,Mustang,2010,279522,Hybrid,Automatic,1942.41
+Ford,Explorer,2021,64793,Diesel,Automatic,12998.07
+Honda,Pilot,2014,134262,Hybrid,Manual,3516.61
+Ford,Mustang,2025,8710,Gasoline,Automatic,21778.28
+Toyota,Camry,2014,129015,Gasoline,Automatic,2981.43
+Hyundai,Santa Fe,2014,149728,Diesel,Automatic,2416.58
+Tesla,Model S,2019,92291,Electric,Automatic,14866.44
+Hyundai,Elantra,2018,91090,Gasoline,Automatic,5691.2
+Ford,Escape,2011,216250,Hybrid,Automatic,1830.44
+Mercedes-Benz,GLE,2018,96672,Gasoline,Automatic,12071.44
+Honda,Accord,2012,200290,Gasoline,Automatic,2275.47
+Chevrolet,Equinox,2011,171713,Gasoline,Automatic,2136.12
+Toyota,Camry,2022,32197,Gasoline,Manual,13339.73
+Mazda,CX-5,2025,22453,Diesel,Automatic,23233.96
+BMW,X3,2024,13346,Diesel,Automatic,34563.31
+Toyota,RAV4,2018,110514,Gasoline,Automatic,6794.99
+Chevrolet,Equinox,2010,154114,Gasoline,Automatic,1701.41
+Ford,Mustang,2010,165354,Hybrid,Automatic,1945.13
+Ford,Escape,2022,48939,Gasoline,Automatic,16895.28
+Nissan,Sentra,2023,41103,Gasoline,Automatic,13985.9
+Toyota,Tacoma,2018,118798,Gasoline,Automatic,6102.75
+Honda,Pilot,2020,66405,Gasoline,Automatic,9012.0
+Tesla,Model 3,2020,86194,Electric,Automatic,18610.65
+Mercedes-Benz,E-Class,2010,263837,Hybrid,Automatic,3483.23
+Chevrolet,Equinox,2012,167525,Gasoline,Automatic,2557.73
+Mazda,Mazda3,2022,53311,Hybrid,Automatic,12215.94
+Mazda,CX-5,2016,92383,Hybrid,Automatic,4869.51
+Tesla,Model Y,2018,110259,Electric,Automatic,12748.81
+Ford,Mustang,2018,102735,Gasoline,Automatic,6009.26
+Tesla,Model 3,2026,2053,Electric,Automatic,57384.61
+Mercedes-Benz,E-Class,2010,135649,Diesel,Manual,2896.07
+Ford,Escape,2011,291367,Gasoline,Automatic,2027.97
+Ford,Mustang,2024,34472,Hybrid,Automatic,21953.65
+Toyota,RAV4,2012,218885,Gasoline,Automatic,2241.24
+Mercedes-Benz,C-Class,2011,187758,Hybrid,Automatic,4397.56
+Toyota,Tacoma,2014,176511,Diesel,Manual,3450.5
+Toyota,RAV4,2012,257994,Gasoline,Automatic,1963.63
+Hyundai,Elantra,2025,9589,Gasoline,Automatic,19260.84
+Ford,Mustang,2018,98953,Gasoline,Automatic,7722.91
+Ford,Escape,2025,7549,Diesel,Automatic,24328.21
+Toyota,Tacoma,2011,193209,Gasoline,Manual,1688.37
+Ford,Explorer,2012,107964,Gasoline,Automatic,2440.01
+Chevrolet,Equinox,2020,71958,Diesel,Automatic,9902.51
+Honda,Civic,2024,21728,Gasoline,Automatic,18476.07
+Tesla,Model Y,2026,7532,Electric,Automatic,50375.89
+Mercedes-Benz,C-Class,2026,0,Gasoline,Automatic,60817.65
+BMW,5 Series,2019,59776,Diesel,Automatic,15331.67
+Hyundai,Elantra,2011,217495,Gasoline,Automatic,1464.35
+Honda,Accord,2021,22357,Hybrid,Automatic,11442.24
+Hyundai,Santa Fe,2012,177983,Gasoline,Automatic,1790.22
+Mazda,CX-5,2022,62956,Gasoline,Automatic,14006.4
+Tesla,Model S,2015,157450,Electric,Automatic,6327.67
+Nissan,Altima,2014,134482,Gasoline,Automatic,3106.72
+Mercedes-Benz,C-Class,2023,36694,Hybrid,Manual,34893.49
+Honda,Pilot,2020,87130,Hybrid,Automatic,9883.57
+Mazda,CX-9,2022,71512,Gasoline,Automatic,14541.03
+BMW,X3,2020,58995,Gasoline,Automatic,14963.3
+Ford,Escape,2014,158200,Gasoline,Manual,3676.73
+Honda,Accord,2020,111097,Hybrid,Automatic,7832.35
+BMW,X3,2014,187011,Diesel,Automatic,4878.01
+Honda,CR-V,2020,65640,Gasoline,Automatic,10011.4
+Mazda,CX-5,2010,259507,Gasoline,Automatic,1523.65
+Toyota,Tacoma,2023,47362,Gasoline,Automatic,17654.21
+Mercedes-Benz,GLC,2022,45140,Gasoline,Manual,27695.88
+Nissan,Sentra,2017,117271,Gasoline,Automatic,4957.5
+Nissan,Sentra,2018,106177,Hybrid,Automatic,6258.48
+Chevrolet,Tahoe,2016,53286,Gasoline,Manual,5060.86
+Honda,Accord,2016,96687,Gasoline,Automatic,4051.72
+Chevrolet,Equinox,2014,156115,Gasoline,Automatic,2813.63
+Tesla,Model S,2023,27616,Electric,Automatic,33508.76
+Toyota,Highlander,2022,45107,Gasoline,Manual,12332.3
+Tesla,Model Y,2011,208243,Electric,Automatic,3309.03
+Mercedes-Benz,E-Class,2017,73213,Gasoline,Automatic,13339.87
+Toyota,Corolla,2019,58939,Gasoline,Automatic,8567.87
+Nissan,Altima,2024,19848,Diesel,Manual,15111.93
+BMW,5 Series,2022,55891,Gasoline,Automatic,23308.18
+Ford,Escape,2025,600,Diesel,Automatic,21814.22
+Toyota,Camry,2014,206619,Gasoline,Manual,3093.28
+Tesla,Model 3,2022,39302,Electric,Automatic,23491.35
+Ford,Escape,2012,184411,Gasoline,Manual,2814.19
+Nissan,Rogue,2015,169626,Gasoline,Automatic,3540.04
+BMW,5 Series,2018,90907,Gasoline,Automatic,12561.08
+Mazda,CX-5,2026,3444,Gasoline,Automatic,24839.51
+Toyota,Corolla,2017,79375,Gasoline,Manual,5561.69
+Toyota,Highlander,2025,19152,Gasoline,Automatic,25324.36
+Honda,Civic,2023,34449,Gasoline,Automatic,14858.84
+Nissan,Sentra,2024,28561,Gasoline,Automatic,15213.17
+Toyota,Camry,2018,90537,Gasoline,Automatic,6086.15
+Toyota,Tacoma,2023,40450,Gasoline,Automatic,14025.99
+Tesla,Model S,2026,0,Electric,Manual,58107.44
+Nissan,Rogue,2015,183306,Gasoline,Automatic,2990.06
+Ford,Mustang,2017,105935,Gasoline,Automatic,5254.54
+Honda,Accord,2014,158595,Gasoline,Automatic,3499.51
+Chevrolet,Malibu,2026,7363,Hybrid,Automatic,27607.76
+Nissan,Sentra,2010,207919,Hybrid,Automatic,1404.73
+Hyundai,Santa Fe,2025,13655,Gasoline,Automatic,21580.22
+Ford,Mustang,2019,93176,Gasoline,Automatic,7813.49
+Ford,Mustang,2025,18806,Hybrid,Automatic,25563.27
+Tesla,Model S,2021,58917,Electric,Automatic,20538.93
+Hyundai,Tucson,2012,123459,Diesel,Automatic,2112.24
+Toyota,Highlander,2015,143186,Gasoline,Automatic,3897.2
+Nissan,Altima,2014,128547,Gasoline,Automatic,3030.89
+BMW,X5,2012,252245,Hybrid,Automatic,3858.21
+Toyota,RAV4,2014,116422,Gasoline,Automatic,3564.45
+Honda,Civic,2017,108883,Gasoline,Automatic,4511.42
+Nissan,Sentra,2018,80111,Gasoline,Automatic,6177.97
+Mercedes-Benz,GLE,2014,96274,Gasoline,Automatic,7431.58
+Toyota,RAV4,2022,44239,Gasoline,Automatic,12336.89
+Mercedes-Benz,C-Class,2025,15378,Gasoline,Automatic,48070.96
+Mercedes-Benz,C-Class,2022,23620,Hybrid,Automatic,30537.67
+Toyota,Camry,2011,176223,Gasoline,Automatic,2048.55
+Honda,Pilot,2026,0,Gasoline,Automatic,23306.73
+Ford,F-150,2012,187763,Gasoline,Automatic,2699.31
+Toyota,RAV4,2010,266826,Gasoline,Automatic,1552.5
+Chevrolet,Tahoe,2025,6939,Hybrid,Automatic,21330.41
+Nissan,Sentra,2020,50641,Diesel,Automatic,9131.09
+Tesla,Model Y,2025,13585,Electric,Automatic,44488.5
+Tesla,Model Y,2020,81205,Electric,Automatic,19535.21
+Chevrolet,Silverado,2015,151238,Gasoline,Automatic,3659.28
+Chevrolet,Malibu,2025,17412,Diesel,Automatic,24569.0
+Chevrolet,Silverado,2018,105010,Diesel,Automatic,5624.62
+Mercedes-Benz,GLE,2020,97525,Hybrid,Automatic,17743.78
+Honda,Civic,2018,96029,Gasoline,Manual,6898.54
+Honda,Civic,2025,14820,Diesel,Automatic,20566.73
+Hyundai,Elantra,2023,27097,Gasoline,Automatic,15245.96
+Mercedes-Benz,C-Class,2016,106253,Hybrid,Manual,8453.61
+Mercedes-Benz,GLC,2020,69022,Hybrid,Automatic,22139.64
+Hyundai,Santa Fe,2024,23690,Gasoline,Automatic,13902.64
+Mazda,CX-9,2024,25502,Gasoline,Automatic,15296.24
+Toyota,Tacoma,2026,0,Hybrid,Automatic,27580.49
+BMW,5 Series,2025,9380,Hybrid,Automatic,42303.05
+Chevrolet,Equinox,2023,24236,Gasoline,Automatic,18827.76
+Chevrolet,Silverado,2015,88844,Gasoline,Automatic,4614.76
+Ford,Explorer,2011,197944,Gasoline,Manual,2345.37
+Chevrolet,Silverado,2016,125147,Hybrid,Automatic,4075.72
+Chevrolet,Malibu,2014,157864,Gasoline,Automatic,3072.95
+Honda,Civic,2019,74398,Gasoline,Automatic,7784.25
+Ford,F-150,2011,93864,Gasoline,Automatic,2269.64
+Tesla,Model 3,2020,58188,Electric,Automatic,19322.32
+Honda,Pilot,2026,0,Diesel,Automatic,29961.06
+Ford,Mustang,2020,68317,Gasoline,Automatic,10978.46
+Honda,Pilot,2015,154283,Gasoline,Automatic,3779.7
+BMW,5 Series,2025,9547,Diesel,Automatic,45503.28
+Mazda,Mazda3,2011,133818,Gasoline,Automatic,1984.18
+Chevrolet,Equinox,2011,233915,Gasoline,Automatic,2126.22
+Honda,Civic,2024,29797,Gasoline,Automatic,15988.22
+BMW,5 Series,2023,40942,Gasoline,Manual,32829.29
+Mercedes-Benz,E-Class,2025,12134,Gasoline,Automatic,40747.99
+BMW,X5,2017,98342,Gasoline,Automatic,11126.72
+Tesla,Model Y,2016,124862,Electric,Manual,8217.85
+Honda,Civic,2022,55373,Gasoline,Automatic,14821.89
+BMW,X3,2012,109715,Gasoline,Automatic,4498.4
+Chevrolet,Equinox,2014,113128,Gasoline,Automatic,3406.07
+Hyundai,Santa Fe,2010,160428,Gasoline,Manual,1401.71
+Mercedes-Benz,E-Class,2025,15387,Gasoline,Automatic,46277.1
+Mercedes-Benz,GLE,2025,8326,Gasoline,Automatic,46553.17
+Chevrolet,Silverado,2016,125413,Diesel,Automatic,4138.11
+Hyundai,Tucson,2024,32020,Gasoline,Automatic,18589.2
+Ford,Mustang,2020,84815,Gasoline,Automatic,11194.48
+Tesla,Model Y,2020,94245,Electric,Automatic,17233.07
+Mercedes-Benz,E-Class,2015,102263,Hybrid,Automatic,6558.36
+Nissan,Sentra,2020,93937,Gasoline,Manual,8566.43
+BMW,X5,2025,15070,Gasoline,Automatic,42644.3
+Mazda,CX-9,2018,81829,Gasoline,Manual,5909.74
+Mercedes-Benz,C-Class,2010,132076,Gasoline,Manual,3219.75
+Chevrolet,Silverado,2022,19696,Gasoline,Automatic,14881.3
+Mercedes-Benz,GLE,2019,72412,Gasoline,Automatic,15412.07
+Honda,Accord,2010,173746,Gasoline,Automatic,1463.73
+Mazda,Mazda3,2016,151151,Gasoline,Automatic,4467.24
+Honda,Pilot,2020,88204,Gasoline,Automatic,7874.22
+Chevrolet,Silverado,2026,1302,Gasoline,Automatic,26396.71
+Mercedes-Benz,GLC,2011,231449,Diesel,Automatic,4351.95
+Toyota,Corolla,2022,58602,Diesel,Automatic,13437.21
+BMW,5 Series,2019,112545,Hybrid,Automatic,14532.51
+BMW,X5,2010,103645,Gasoline,Automatic,2602.02
+Honda,CR-V,2016,117007,Gasoline,Automatic,3676.31
+Mazda,CX-9,2013,126938,Gasoline,Automatic,2302.21
+Mercedes-Benz,E-Class,2025,12273,Gasoline,Automatic,43714.03
+Mazda,Mazda3,2014,197185,Gasoline,Automatic,3106.43
+Tesla,Model 3,2024,23410,Electric,Automatic,36959.68
+Mercedes-Benz,C-Class,2012,211846,Gasoline,Automatic,3927.75
+Nissan,Sentra,2025,15925,Gasoline,Manual,17983.86
+Tesla,Model Y,2011,181204,Electric,Automatic,3186.83
+Nissan,Altima,2021,77356,Gasoline,Automatic,10560.67
+BMW,X3,2022,42342,Gasoline,Automatic,21075.75
+Nissan,Sentra,2024,29662,Gasoline,Automatic,20271.22
+Ford,Mustang,2017,122568,Gasoline,Automatic,5007.66
+Chevrolet,Malibu,2024,19692,Gasoline,Automatic,21386.14
+Honda,CR-V,2020,68217,Gasoline,Manual,10246.03
+Nissan,Altima,2010,207197,Gasoline,Automatic,1467.6
+Tesla,Model S,2010,215246,Electric,Manual,2722.01
+Mazda,CX-9,2011,165610,Gasoline,Automatic,1854.33
+Mercedes-Benz,GLE,2025,16226,Gasoline,Automatic,42077.78
+Ford,Escape,2020,93531,Hybrid,Automatic,9044.02
+BMW,3 Series,2016,190847,Gasoline,Automatic,6685.73
+Mazda,CX-9,2025,9304,Gasoline,Automatic,22648.56
+Mazda,Mazda3,2022,22654,Hybrid,Automatic,13517.3
+Honda,Civic,2018,51676,Diesel,Automatic,7100.68
+Nissan,Sentra,2012,137538,Gasoline,Automatic,2228.73
+Hyundai,Elantra,2026,5371,Hybrid,Automatic,26233.16
+Ford,F-150,2025,4598,Gasoline,Automatic,21704.44
+Nissan,Sentra,2011,263686,Gasoline,Automatic,1997.69
+Tesla,Model S,2019,104445,Electric,Automatic,11569.35
+Hyundai,Santa Fe,2024,28444,Gasoline,Automatic,15174.32
+Ford,F-150,2014,219533,Gasoline,Automatic,3855.97
+Mazda,Mazda3,2019,74073,Gasoline,Automatic,6802.42
+BMW,X3,2012,144687,Gasoline,Manual,3508.42
+Tesla,Model Y,2016,121577,Electric,Manual,7825.46
+Ford,F-150,2021,61303,Gasoline,Automatic,12028.13
+Ford,Mustang,2020,99045,Gasoline,Automatic,9118.56
+Nissan,Altima,2013,136764,Diesel,Automatic,2633.82
+Chevrolet,Equinox,2026,0,Gasoline,Automatic,27407.4
+Chevrolet,Equinox,2019,100802,Hybrid,Automatic,6932.46
+Mercedes-Benz,GLE,2015,100713,Gasoline,Automatic,7386.45
+Ford,Mustang,2011,178703,Gasoline,Automatic,1930.22
+Nissan,Sentra,2025,12319,Gasoline,Automatic,22309.94
+Nissan,Rogue,2013,220145,Gasoline,Manual,2861.48
+Mercedes-Benz,GLC,2021,65165,Gasoline,Automatic,22291.58
+BMW,3 Series,2026,0,Diesel,Automatic,43640.21
+Chevrolet,Malibu,2025,16098,Hybrid,Automatic,20503.63
+Honda,Accord,2023,30331,Gasoline,Manual,14356.3
+Ford,Mustang,2024,26098,Hybrid,Manual,18695.69
+Honda,Accord,2024,9523,Gasoline,Automatic,20452.57
+Hyundai,Tucson,2023,35124,Gasoline,Automatic,13548.2
+BMW,5 Series,2012,134631,Gasoline,Automatic,4595.67
+Tesla,Model Y,2015,157994,Electric,Automatic,6011.78
+Ford,F-150,2014,123918,Gasoline,Automatic,3838.82
+Mercedes-Benz,E-Class,2011,185281,Hybrid,Automatic,3404.43
+Chevrolet,Silverado,2020,92594,Gasoline,Automatic,10657.59
+Honda,CR-V,2019,93420,Gasoline,Automatic,8032.29
+Tesla,Model 3,2019,92692,Electric,Automatic,12597.36
+Honda,Accord,2013,157085,Hybrid,Automatic,2414.6
+Toyota,Highlander,2023,43789,Gasoline,Automatic,17925.86
+Mazda,CX-9,2015,162572,Gasoline,Automatic,3210.46
+Nissan,Sentra,2016,120432,Gasoline,Automatic,3943.72
+Mercedes-Benz,GLC,2018,126073,Gasoline,Automatic,13765.66
+Mercedes-Benz,E-Class,2024,23134,Gasoline,Automatic,32581.41
+Ford,Mustang,2010,207207,Gasoline,Manual,1646.75
+BMW,X5,2021,34218,Gasoline,Automatic,22757.74
+Toyota,Camry,2016,96368,Gasoline,Automatic,4620.4
+Tesla,Model S,2011,152451,Electric,Automatic,4017.99
+Hyundai,Elantra,2024,19349,Gasoline,Automatic,14066.92
+Mazda,Mazda3,2016,152347,Hybrid,Automatic,4348.0
+Honda,CR-V,2010,307054,Gasoline,Automatic,1732.76
+Ford,Explorer,2011,237476,Diesel,Automatic,2220.13
+Tesla,Model 3,2010,286130,Electric,Manual,3248.49
+Mazda,CX-5,2013,96348,Gasoline,Manual,2850.77
+Ford,Escape,2021,88272,Gasoline,Automatic,10502.7
+Honda,Accord,2011,183260,Gasoline,Automatic,1837.25
+Mazda,Mazda3,2020,71681,Gasoline,Automatic,8067.82
+Nissan,Rogue,2010,190583,Gasoline,Automatic,1741.83
+BMW,5 Series,2025,20079,Gasoline,Automatic,37014.53
+Mazda,Mazda3,2026,0,Hybrid,Automatic,25002.24
+Toyota,Tacoma,2013,194265,Gasoline,Automatic,2679.88
+BMW,X3,2023,38104,Gasoline,Automatic,32126.28
+Toyota,Highlander,2010,102489,Diesel,Automatic,1829.35
+Nissan,Altima,2016,126705,Gasoline,Automatic,4028.59
+Hyundai,Tucson,2025,6968,Gasoline,Automatic,19086.49
+Tesla,Model 3,2023,24355,Electric,Automatic,32794.54
+Chevrolet,Equinox,2012,167069,Gasoline,Manual,2402.17
+Nissan,Rogue,2011,196633,Gasoline,Automatic,1556.46
+Tesla,Model S,2022,61836,Electric,Automatic,23241.34
+Ford,Explorer,2021,73965,Gasoline,Automatic,14169.56
+Mercedes-Benz,C-Class,2013,138509,Diesel,Automatic,5150.09
+Tesla,Model S,2015,145193,Electric,Automatic,6763.41
+BMW,X3,2024,15493,Diesel,Automatic,35026.5
+Mercedes-Benz,C-Class,2017,115630,Hybrid,Automatic,9993.63
+Tesla,Model Y,2019,88879,Electric,Automatic,12690.16
+Mazda,Mazda3,2026,2717,Gasoline,Automatic,23461.8
+Honda,Accord,2013,118130,Gasoline,Automatic,2363.81
+Ford,Explorer,2021,101663,Gasoline,Automatic,9682.72
+Chevrolet,Tahoe,2017,99668,Gasoline,Manual,6252.16
+Mercedes-Benz,C-Class,2021,67288,Hybrid,Automatic,21782.31
+Mercedes-Benz,E-Class,2021,70525,Gasoline,Automatic,23819.38
+Mercedes-Benz,GLE,2019,65424,Gasoline,Automatic,16383.37
+Toyota,RAV4,2021,46224,Gasoline,Automatic,10156.3
+Mazda,Mazda3,2020,70648,Gasoline,Automatic,9835.63
+Tesla,Model 3,2011,148657,Electric,Automatic,3633.47
+Honda,Civic,2023,39162,Hybrid,Automatic,15157.68
+Toyota,RAV4,2011,255944,Gasoline,Automatic,1930.7
+Ford,Mustang,2025,12443,Gasoline,Automatic,26972.17
+BMW,5 Series,2022,31763,Gasoline,Automatic,26156.22
+Honda,CR-V,2021,60401,Gasoline,Automatic,11894.74
+Mazda,CX-5,2021,58261,Diesel,Automatic,12094.98
+BMW,X3,2019,68197,Gasoline,Automatic,14829.03
+Tesla,Model S,2024,23908,Electric,Automatic,32950.42
+Mazda,Mazda3,2014,144174,Gasoline,Automatic,3266.86
+Tesla,Model S,2025,15381,Electric,Automatic,36015.22
+Mazda,Mazda3,2025,9232,Gasoline,Automatic,21556.2
+Ford,F-150,2011,189603,Gasoline,Manual,1955.34
+Toyota,Camry,2017,76583,Gasoline,Automatic,6381.25
+Honda,Pilot,2017,72295,Gasoline,Automatic,6133.67
+BMW,5 Series,2020,88741,Gasoline,Automatic,15896.28
+Mazda,Mazda3,2011,122294,Gasoline,Automatic,1575.71
+Ford,Mustang,2019,104186,Gasoline,Automatic,7890.73
+Tesla,Model Y,2026,6359,Electric,Automatic,50713.08
+Nissan,Sentra,2020,88064,Diesel,Automatic,9249.32
+Chevrolet,Tahoe,2021,83512,Gasoline,Manual,12802.29
+Toyota,Highlander,2013,147851,Diesel,Automatic,2346.41
+BMW,3 Series,2024,31517,Gasoline,Automatic,30384.94
+Chevrolet,Tahoe,2022,42290,Diesel,Automatic,14062.75
+Hyundai,Elantra,2016,121911,Diesel,Manual,3269.89
+Nissan,Altima,2026,0,Gasoline,Automatic,28140.99
+Hyundai,Tucson,2017,96435,Diesel,Automatic,5191.44
+Toyota,Tacoma,2020,54442,Gasoline,Manual,11113.59
+Mazda,CX-9,2025,14837,Gasoline,Automatic,23663.36
+Nissan,Altima,2024,13238,Gasoline,Manual,15319.54
+BMW,X3,2018,134633,Gasoline,Automatic,9412.67
+Honda,Civic,2025,13671,Gasoline,Manual,18400.07
+Honda,CR-V,2016,184852,Hybrid,Automatic,3645.28
+Honda,CR-V,2013,128512,Hybrid,Manual,2405.28
+Tesla,Model 3,2013,253747,Electric,Automatic,5174.13
+BMW,5 Series,2019,107969,Gasoline,Automatic,12112.0
+Hyundai,Santa Fe,2012,95100,Diesel,Automatic,1959.09
+Toyota,Corolla,2024,20534,Gasoline,Automatic,21009.48
+Honda,CR-V,2016,111820,Gasoline,Manual,4456.6
+Chevrolet,Malibu,2015,141871,Diesel,Automatic,3998.37
+Honda,Civic,2023,41376,Hybrid,Automatic,14767.94
+Mercedes-Benz,GLC,2025,8984,Gasoline,Automatic,43881.46
+BMW,X5,2019,45642,Gasoline,Manual,13777.36
+Hyundai,Santa Fe,2016,107199,Gasoline,Automatic,3452.23
+Mercedes-Benz,E-Class,2014,89531,Gasoline,Manual,5905.62
+Toyota,Tacoma,2011,159397,Gasoline,Automatic,1904.57
+Mazda,Mazda3,2022,24322,Hybrid,Manual,13923.97
+Hyundai,Elantra,2017,90841,Gasoline,Automatic,4223.39
+Mercedes-Benz,C-Class,2013,139695,Diesel,Automatic,5174.9
+Chevrolet,Tahoe,2020,74443,Gasoline,Manual,11270.12
+Nissan,Altima,2016,160538,Hybrid,Automatic,4404.32
+Ford,Explorer,2014,209222,Gasoline,Automatic,3633.44
+Ford,Escape,2020,37191,Hybrid,Automatic,11136.04
+Honda,Accord,2025,8161,Hybrid,Manual,22945.38
+Mercedes-Benz,E-Class,2011,195483,Gasoline,Automatic,3843.06
+Toyota,Highlander,2010,262021,Gasoline,Automatic,1454.38
+Ford,Explorer,2019,65999,Hybrid,Automatic,7974.13
+Mercedes-Benz,GLC,2011,188814,Gasoline,Automatic,4016.04
+BMW,X3,2022,63781,Gasoline,Automatic,22275.52
+Tesla,Model Y,2024,12718,Electric,Manual,37092.88
+Mazda,CX-9,2018,84076,Gasoline,Automatic,6323.92
+Toyota,Corolla,2020,88296,Hybrid,Manual,7951.36
+Honda,CR-V,2010,339607,Gasoline,Automatic,1724.97
+Chevrolet,Equinox,2011,208721,Gasoline,Automatic,1982.17
+Mercedes-Benz,C-Class,2019,61770,Hybrid,Automatic,18655.01
+Ford,Mustang,2014,187878,Gasoline,Automatic,3176.35
+Nissan,Altima,2024,22612,Gasoline,Manual,19752.97
+Nissan,Sentra,2020,73272,Diesel,Automatic,9011.17
+Hyundai,Santa Fe,2017,108499,Gasoline,Automatic,4995.53
+BMW,X5,2017,108157,Gasoline,Automatic,8047.59
+Mazda,CX-5,2025,12711,Gasoline,Manual,20154.73
+Mercedes-Benz,GLE,2025,17246,Gasoline,Automatic,45271.77
+Nissan,Altima,2026,9246,Diesel,Automatic,23705.88
+Chevrolet,Silverado,2023,41542,Gasoline,Automatic,16826.54
+Hyundai,Tucson,2012,103965,Diesel,Automatic,2068.12
+Honda,Pilot,2014,167272,Gasoline,Automatic,3009.73
+BMW,X5,2022,35094,Diesel,Automatic,22388.76
+Mazda,Mazda3,2010,220091,Gasoline,Manual,1578.68
+Honda,CR-V,2010,158735,Gasoline,Automatic,1836.74
+Honda,Accord,2016,121501,Gasoline,Manual,3865.51
+Honda,Civic,2016,119921,Gasoline,Automatic,4279.13
+Nissan,Sentra,2025,15541,Gasoline,Automatic,20882.75
+BMW,X5,2020,87492,Gasoline,Automatic,14888.92
+Honda,Accord,2025,23864,Gasoline,Automatic,22434.2
+Tesla,Model 3,2026,4726,Electric,Automatic,60587.33
+BMW,5 Series,2025,11039,Gasoline,Automatic,44473.13
+Chevrolet,Tahoe,2016,94244,Gasoline,Manual,5615.23
+Mazda,Mazda3,2026,0,Gasoline,Manual,27038.79
+Hyundai,Santa Fe,2015,172714,Gasoline,Automatic,2957.59
+Ford,Explorer,2019,81041,Diesel,Manual,7606.55
+Chevrolet,Equinox,2023,29771,Gasoline,Automatic,17416.6
+BMW,X3,2022,39347,Gasoline,Automatic,23431.56
+Hyundai,Tucson,2011,181784,Gasoline,Automatic,1921.83
+Tesla,Model S,2018,130689,Electric,Automatic,10625.02
+BMW,5 Series,2019,110046,Gasoline,Automatic,13217.76
+Tesla,Model S,2015,79606,Electric,Automatic,7960.39
+Nissan,Altima,2015,152469,Hybrid,Automatic,3589.66
+Tesla,Model Y,2013,144984,Electric,Automatic,5468.68
+Nissan,Rogue,2024,27588,Diesel,Automatic,15073.72
+Nissan,Rogue,2019,105722,Gasoline,Manual,6206.29
+Tesla,Model S,2021,38113,Electric,Automatic,22566.95
+BMW,5 Series,2024,30507,Gasoline,Automatic,30673.58
+Mazda,Mazda3,2016,34798,Gasoline,Automatic,5350.89
+Honda,Accord,2019,105465,Gasoline,Automatic,6849.55
+Mazda,CX-5,2023,38635,Gasoline,Automatic,15221.59
+Tesla,Model S,2017,110632,Electric,Automatic,10599.4
+Hyundai,Santa Fe,2011,165037,Hybrid,Automatic,1743.17
+Ford,Explorer,2016,133946,Gasoline,Automatic,4158.64
+Hyundai,Tucson,2014,193459,Gasoline,Automatic,2517.2
+Mercedes-Benz,GLC,2019,82955,Gasoline,Automatic,14348.51
+Nissan,Sentra,2011,225443,Gasoline,Automatic,1975.09
+Hyundai,Elantra,2012,202444,Gasoline,Automatic,1745.73
+Mazda,CX-9,2015,113922,Gasoline,Automatic,3678.29
+Mazda,CX-9,2021,54800,Gasoline,Manual,9710.67
+BMW,X3,2014,235902,Gasoline,Automatic,6410.72
+Tesla,Model 3,2011,182729,Electric,Automatic,4191.64
+BMW,3 Series,2015,106991,Diesel,Automatic,6275.79
+Ford,F-150,2010,197873,Gasoline,Automatic,2029.2
+BMW,5 Series,2016,139928,Diesel,Manual,7800.6
+Nissan,Rogue,2010,193224,Gasoline,Automatic,1506.42
+Mazda,CX-9,2023,37934,Gasoline,Automatic,13233.17
+Tesla,Model Y,2022,42350,Electric,Automatic,24540.29
+Mazda,CX-5,2026,0,Gasoline,Automatic,25620.02
+Mazda,CX-5,2023,29818,Gasoline,Automatic,14403.53
+Mazda,CX-5,2016,149676,Gasoline,Automatic,4161.56
+Hyundai,Elantra,2026,11957,Gasoline,Manual,25966.81
+Mazda,Mazda3,2026,0,Gasoline,Automatic,24881.16
+Toyota,Tacoma,2020,43342,Gasoline,Automatic,10712.81
+Honda,Civic,2015,177003,Gasoline,Automatic,3294.7
+Honda,CR-V,2024,31170,Gasoline,Automatic,20127.62
+Nissan,Sentra,2019,78317,Gasoline,Automatic,6402.37
+Mercedes-Benz,GLC,2023,39058,Gasoline,Manual,29549.26
+Mazda,CX-5,2012,212223,Hybrid,Automatic,2283.52
+Ford,Escape,2024,11745,Diesel,Automatic,17814.2
+Honda,Pilot,2024,37229,Gasoline,Automatic,18540.92
+Nissan,Rogue,2017,117956,Gasoline,Automatic,4799.39
+Ford,F-150,2012,184913,Gasoline,Automatic,2470.43
+Tesla,Model 3,2019,71856,Electric,Automatic,14280.94
+Honda,CR-V,2022,29863,Gasoline,Automatic,12479.63
+Nissan,Sentra,2026,6800,Gasoline,Automatic,23641.98
+Honda,CR-V,2026,0,Gasoline,Automatic,23077.14
+Mercedes-Benz,GLC,2015,117867,Gasoline,Automatic,8467.24
+Mercedes-Benz,E-Class,2010,200293,Gasoline,Manual,3288.33
+Mazda,CX-9,2019,60639,Gasoline,Automatic,7836.51
+BMW,X5,2013,199840,Diesel,Automatic,4596.18
+Mazda,Mazda3,2014,171843,Gasoline,Automatic,2608.75
+BMW,5 Series,2015,166653,Hybrid,Automatic,5979.68
+Mazda,CX-5,2025,0,Gasoline,Automatic,19024.8
+Honda,Accord,2018,117168,Gasoline,Automatic,6274.45
+Hyundai,Santa Fe,2016,99900,Gasoline,Automatic,4152.5
+BMW,X3,2024,22332,Gasoline,Automatic,37729.78
+Mercedes-Benz,E-Class,2020,83552,Hybrid,Automatic,18847.17
+Toyota,Corolla,2011,250918,Diesel,Automatic,2135.11
+Toyota,RAV4,2010,137372,Gasoline,Automatic,1456.22
+Hyundai,Santa Fe,2012,204373,Diesel,Automatic,1687.69
+Nissan,Sentra,2020,54936,Gasoline,Automatic,7882.13
+Honda,Pilot,2024,26640,Gasoline,Automatic,17090.07
+Hyundai,Elantra,2026,8178,Gasoline,Automatic,24850.34
+Hyundai,Elantra,2010,181750,Gasoline,Automatic,1346.68
+Mazda,Mazda3,2026,15564,Gasoline,Automatic,23412.25
+Nissan,Rogue,2013,170781,Gasoline,Automatic,2617.01
+Tesla,Model S,2020,57302,Electric,Manual,16916.64
+Tesla,Model S,2016,67068,Electric,Manual,10293.05
+Chevrolet,Silverado,2021,49214,Gasoline,Automatic,11590.17
+Nissan,Sentra,2010,220514,Gasoline,Manual,1735.41
+Hyundai,Elantra,2022,55297,Gasoline,Automatic,10895.03
+Tesla,Model S,2015,140453,Electric,Automatic,7775.14
+Mercedes-Benz,E-Class,2017,146114,Gasoline,Manual,9512.08
+Nissan,Sentra,2019,109785,Diesel,Automatic,7588.62
+Ford,Escape,2017,101567,Hybrid,Automatic,5312.38
+Tesla,Model 3,2024,15283,Electric,Automatic,40378.53
+Honda,CR-V,2015,132767,Gasoline,Automatic,3545.29
+BMW,5 Series,2025,14130,Gasoline,Automatic,44842.39
+Nissan,Altima,2021,59427,Gasoline,Automatic,12337.93
+Mercedes-Benz,E-Class,2017,145443,Hybrid,Automatic,8856.93
+Mercedes-Benz,GLE,2011,177351,Gasoline,Automatic,4098.67
+Mercedes-Benz,GLE,2011,264700,Hybrid,Automatic,3568.46
+Toyota,Highlander,2019,112301,Gasoline,Automatic,7727.61
+Toyota,Highlander,2017,107719,Gasoline,Automatic,4713.25
+Nissan,Rogue,2025,12629,Gasoline,Automatic,22085.35
+Tesla,Model 3,2026,0,Electric,Automatic,57242.66
+Tesla,Model 3,2016,111716,Electric,Automatic,9083.44
+Chevrolet,Tahoe,2022,57451,Gasoline,Automatic,15724.52
+Tesla,Model S,2022,41864,Electric,Automatic,27786.73
+Chevrolet,Equinox,2011,185149,Hybrid,Automatic,2169.78
+Tesla,Model Y,2017,119166,Electric,Manual,11034.4
+Mazda,CX-9,2016,125508,Gasoline,Automatic,4246.6
+Mercedes-Benz,C-Class,2014,142294,Hybrid,Automatic,6581.54
+Mercedes-Benz,E-Class,2019,40080,Gasoline,Automatic,14147.69
+Honda,Civic,2023,31206,Gasoline,Automatic,17391.69
+Toyota,Tacoma,2011,129582,Gasoline,Automatic,1992.02
+BMW,X3,2016,134934,Gasoline,Automatic,7957.42
+Hyundai,Santa Fe,2010,53981,Gasoline,Automatic,1570.02
+Hyundai,Tucson,2012,209552,Diesel,Automatic,1746.76
+Toyota,Camry,2020,35707,Gasoline,Automatic,11130.49
+Tesla,Model S,2022,47867,Electric,Automatic,27207.47
+Hyundai,Elantra,2024,34775,Gasoline,Automatic,16246.92
+Mazda,Mazda3,2023,37627,Gasoline,Automatic,15927.55
+Chevrolet,Tahoe,2010,184553,Gasoline,Automatic,1674.6
+Honda,Accord,2024,31121,Hybrid,Automatic,17867.58
+Chevrolet,Tahoe,2019,54129,Gasoline,Automatic,8563.28
+Chevrolet,Malibu,2020,51612,Gasoline,Automatic,10517.19
+Toyota,RAV4,2011,234546,Gasoline,Automatic,2210.7
+Chevrolet,Malibu,2010,170242,Diesel,Automatic,1496.92
+Tesla,Model 3,2025,11613,Electric,Automatic,42589.49
+Toyota,Camry,2020,68540,Gasoline,Automatic,9559.3
+Ford,Escape,2019,73832,Gasoline,Automatic,9219.61
+Mazda,CX-9,2010,243179,Gasoline,Automatic,1658.12
+Chevrolet,Equinox,2018,120733,Diesel,Automatic,5837.29
+Nissan,Altima,2013,42648,Gasoline,Automatic,2526.0
+Mercedes-Benz,GLC,2025,5765,Gasoline,Automatic,38396.96
+Ford,Mustang,2014,144393,Diesel,Automatic,3464.69
+Honda,Accord,2024,13837,Hybrid,Automatic,16492.7
+Chevrolet,Silverado,2022,45275,Hybrid,Automatic,16361.62
+BMW,3 Series,2024,18119,Gasoline,Automatic,28625.42
+Hyundai,Santa Fe,2018,78331,Gasoline,Automatic,4922.85
+Honda,Civic,2023,59809,Gasoline,Automatic,15659.09
+Chevrolet,Malibu,2025,5224,Gasoline,Automatic,22875.78
+Honda,Accord,2019,73975,Gasoline,Automatic,7595.11
+Chevrolet,Malibu,2018,55201,Gasoline,Automatic,6559.52
+BMW,X5,2024,18765,Gasoline,Automatic,29727.26
+Mazda,CX-9,2026,7944,Gasoline,Automatic,28137.16
+Toyota,RAV4,2025,8371,Gasoline,Manual,24815.86
+Hyundai,Tucson,2021,66788,Hybrid,Automatic,10957.94
+Honda,Pilot,2019,97736,Gasoline,Automatic,8473.13
+BMW,5 Series,2024,22275,Gasoline,Automatic,34582.47
+Honda,Accord,2011,157521,Gasoline,Automatic,1644.43
+Mazda,CX-9,2025,11999,Gasoline,Automatic,20850.97
+Hyundai,Santa Fe,2016,64774,Gasoline,Automatic,4551.2
+Ford,F-150,2022,43779,Gasoline,Automatic,14642.98
+Mercedes-Benz,GLE,2017,139865,Gasoline,Manual,8987.4
+Toyota,RAV4,2011,197089,Gasoline,Automatic,2106.95
+Toyota,Corolla,2017,66561,Gasoline,Automatic,6366.32
+Ford,Escape,2026,0,Gasoline,Manual,26127.22
+Chevrolet,Equinox,2024,28981,Gasoline,Automatic,17346.93
+BMW,X5,2013,237742,Gasoline,Automatic,5106.7
+Mazda,CX-5,2019,76453,Gasoline,Manual,7163.37
+Mazda,Mazda3,2011,91364,Diesel,Manual,2068.67
+Chevrolet,Equinox,2010,168383,Gasoline,Manual,1474.63
+Honda,Civic,2020,68601,Diesel,Automatic,9701.24
+BMW,3 Series,2020,36270,Hybrid,Manual,19524.62
+Tesla,Model Y,2010,184524,Electric,Automatic,2737.07
+Mercedes-Benz,E-Class,2021,81685,Diesel,Automatic,18207.24
+Honda,Accord,2010,172995,Gasoline,Automatic,1438.97
+Chevrolet,Silverado,2024,26789,Gasoline,Manual,19154.97
+Honda,CR-V,2019,101511,Gasoline,Automatic,7612.58
+Tesla,Model S,2024,16216,Electric,Automatic,39198.97
+Tesla,Model Y,2011,209512,Electric,Automatic,4086.96
+Nissan,Sentra,2022,48512,Gasoline,Automatic,10893.83
+Hyundai,Tucson,2013,230227,Gasoline,Automatic,2157.7
+BMW,X3,2021,75510,Gasoline,Manual,16611.95
+Ford,Escape,2026,1589,Gasoline,Automatic,28224.11
+Ford,Explorer,2018,70775,Diesel,Automatic,8616.22
+Mazda,Mazda3,2025,13256,Gasoline,Automatic,20101.74
+Honda,CR-V,2019,68351,Gasoline,Automatic,7106.36
+Mazda,Mazda3,2010,206451,Gasoline,Automatic,1501.25
+Honda,Pilot,2022,69935,Gasoline,Automatic,11637.22
+Chevrolet,Tahoe,2010,171264,Gasoline,Automatic,1486.79
+Mercedes-Benz,GLC,2026,0,Gasoline,Automatic,55462.78
+Tesla,Model Y,2014,141759,Electric,Automatic,6039.15
+Nissan,Sentra,2018,100567,Gasoline,Automatic,5810.51
+Mazda,CX-5,2010,182287,Gasoline,Manual,1443.73
+Mazda,CX-5,2016,146035,Gasoline,Automatic,3537.75
+Hyundai,Santa Fe,2024,22839,Gasoline,Automatic,17641.79
+Toyota,Highlander,2011,212590,Gasoline,Automatic,1847.8
+BMW,X5,2011,49613,Gasoline,Automatic,3620.43
+Mazda,Mazda3,2022,47146,Diesel,Automatic,11244.58
+Nissan,Rogue,2021,30606,Hybrid,Automatic,10254.49
+Chevrolet,Malibu,2012,101998,Gasoline,Automatic,2427.09
+Hyundai,Tucson,2010,211318,Gasoline,Automatic,1539.45
+Nissan,Rogue,2024,18735,Gasoline,Manual,16001.71
+Tesla,Model S,2016,113764,Electric,Manual,9320.21
+Tesla,Model 3,2017,121080,Electric,Automatic,8631.24
+Toyota,Highlander,2016,101812,Gasoline,Manual,5034.51
+Hyundai,Tucson,2013,86425,Gasoline,Automatic,2712.04
+Mazda,Mazda3,2012,134084,Diesel,Manual,2316.88
+Tesla,Model Y,2014,146902,Electric,Manual,5400.68
+Nissan,Altima,2010,136288,Gasoline,Manual,1768.22
+BMW,3 Series,2018,74571,Gasoline,Automatic,13859.83
+Mercedes-Benz,C-Class,2024,20504,Gasoline,Manual,33205.44
+Honda,Pilot,2016,105188,Diesel,Manual,4455.38
+Hyundai,Tucson,2022,47097,Gasoline,Automatic,11949.96
+Nissan,Altima,2024,15561,Hybrid,Automatic,15368.8
+Toyota,Corolla,2019,93913,Gasoline,Manual,8475.58
+Toyota,Highlander,2023,39476,Gasoline,Manual,17800.75
+Hyundai,Tucson,2013,111773,Gasoline,Automatic,2157.04
+Chevrolet,Malibu,2025,19682,Hybrid,Automatic,23423.32
+Hyundai,Elantra,2024,24005,Gasoline,Automatic,14925.83
+Hyundai,Santa Fe,2022,63652,Gasoline,Automatic,10475.96
+Ford,F-150,2015,191776,Hybrid,Automatic,3464.65
+Chevrolet,Tahoe,2025,11769,Diesel,Automatic,21350.03
+Toyota,Highlander,2013,105539,Diesel,Automatic,2997.24
+Honda,Accord,2021,41617,Gasoline,Automatic,10137.46
+Chevrolet,Silverado,2016,111536,Gasoline,Manual,4651.28
+Honda,Accord,2020,80618,Gasoline,Automatic,9404.02
+BMW,X3,2025,12793,Gasoline,Automatic,40460.2
+Mercedes-Benz,E-Class,2014,171716,Gasoline,Automatic,5453.49
+Tesla,Model Y,2013,91065,Electric,Automatic,5503.18
+Honda,CR-V,2012,133742,Gasoline,Automatic,2163.74
+Ford,F-150,2013,224172,Gasoline,Manual,3078.44
+Toyota,RAV4,2021,67209,Hybrid,Automatic,10062.39
+Mazda,CX-5,2013,216665,Hybrid,Automatic,2773.14
+Hyundai,Santa Fe,2013,125727,Gasoline,Automatic,2159.73
+Nissan,Sentra,2018,86713,Hybrid,Manual,5804.19
+Toyota,Camry,2023,41696,Hybrid,Automatic,17800.81
+Tesla,Model 3,2010,199261,Electric,Automatic,3133.7
+Mazda,CX-5,2018,97653,Gasoline,Automatic,6023.16
+Tesla,Model 3,2022,47444,Electric,Manual,26713.24
+Tesla,Model S,2022,48207,Electric,Manual,22659.19
+Tesla,Model 3,2014,137328,Electric,Manual,5604.97
+Mercedes-Benz,E-Class,2010,103582,Gasoline,Manual,3597.28
+BMW,3 Series,2019,96280,Gasoline,Automatic,13764.26
+Ford,Escape,2023,46584,Gasoline,Automatic,16962.88
+BMW,X3,2024,17298,Gasoline,Automatic,30587.64
+Nissan,Rogue,2014,97346,Gasoline,Automatic,3672.26
+Mazda,Mazda3,2015,78776,Hybrid,Automatic,3321.25
+Honda,Accord,2013,165679,Gasoline,Automatic,2644.92
+Chevrolet,Malibu,2023,30703,Diesel,Automatic,18743.77
+Nissan,Altima,2015,118590,Hybrid,Automatic,3696.6
+Chevrolet,Equinox,2020,78748,Gasoline,Automatic,8053.53
+Hyundai,Santa Fe,2026,0,Gasoline,Automatic,24780.12
+Mercedes-Benz,C-Class,2014,164891,Gasoline,Manual,5713.02
+Ford,Mustang,2014,108718,Diesel,Automatic,3838.25
+Hyundai,Santa Fe,2025,14759,Diesel,Automatic,18023.94
+Hyundai,Tucson,2025,3535,Diesel,Manual,18843.07
+Nissan,Altima,2021,62878,Gasoline,Automatic,12127.07
+Hyundai,Tucson,2016,104605,Gasoline,Manual,4163.14
+Ford,Explorer,2016,144612,Gasoline,Automatic,4654.15
+Hyundai,Tucson,2014,157636,Gasoline,Automatic,2583.23
+Honda,Pilot,2020,86237,Diesel,Automatic,9265.37
+Hyundai,Santa Fe,2016,144766,Gasoline,Automatic,3974.15
+Ford,Escape,2011,172515,Diesel,Automatic,1984.71
+Nissan,Sentra,2013,218397,Hybrid,Automatic,2177.92
+Ford,Explorer,2016,174437,Diesel,Automatic,4402.2
+Toyota,Highlander,2015,158014,Diesel,Automatic,4178.59
+Toyota,Camry,2020,98877,Gasoline,Automatic,10506.36
+BMW,5 Series,2023,48056,Gasoline,Automatic,28435.21
+Hyundai,Elantra,2022,29151,Gasoline,Automatic,13397.63
+Mercedes-Benz,E-Class,2011,191689,Gasoline,Manual,3273.22
+Mercedes-Benz,GLE,2011,211037,Gasoline,Automatic,3429.78
+Nissan,Altima,2011,186896,Hybrid,Automatic,1907.06
+Nissan,Altima,2018,81334,Gasoline,Manual,5451.09
+Hyundai,Elantra,2015,154952,Gasoline,Manual,3590.66
+Chevrolet,Tahoe,2024,20936,Hybrid,Manual,22574.94
+Honda,Pilot,2022,57470,Diesel,Automatic,12566.45
+Mazda,CX-9,2019,104032,Hybrid,Automatic,6578.99
+Nissan,Altima,2021,27183,Hybrid,Automatic,11122.96
+Ford,F-150,2010,278406,Diesel,Automatic,2015.57
+Tesla,Model 3,2021,47064,Electric,Automatic,21744.39
+Mazda,Mazda3,2024,30589,Gasoline,Automatic,16211.27
+Toyota,RAV4,2010,85906,Gasoline,Automatic,1882.98
+Honda,Civic,2011,248015,Gasoline,Manual,2138.23
+Hyundai,Elantra,2025,4253,Gasoline,Manual,17231.73
+Toyota,RAV4,2014,51321,Gasoline,Automatic,3334.37
+Nissan,Sentra,2022,63412,Gasoline,Automatic,10910.0
+Mazda,Mazda3,2016,104573,Gasoline,Automatic,3985.07
+Nissan,Altima,2020,50555,Hybrid,Automatic,8802.21
+Hyundai,Santa Fe,2017,131677,Gasoline,Automatic,4942.35
+Honda,Pilot,2013,93907,Diesel,Automatic,2837.3
+Ford,Explorer,2022,44757,Gasoline,Automatic,14297.52
+Toyota,Camry,2012,134129,Diesel,Automatic,2295.45
+BMW,X5,2012,110076,Gasoline,Automatic,3513.12
+Ford,F-150,2025,17052,Gasoline,Manual,23372.96
+Ford,Explorer,2010,246307,Diesel,Automatic,1767.5
+Chevrolet,Malibu,2010,212697,Gasoline,Automatic,1626.56
+Ford,F-150,2024,24441,Hybrid,Automatic,20064.05
+Ford,Explorer,2022,31824,Gasoline,Automatic,15362.49
+Hyundai,Elantra,2026,5558,Gasoline,Automatic,20968.66
+Nissan,Rogue,2012,197594,Gasoline,Automatic,2446.65
+BMW,X3,2014,100752,Hybrid,Automatic,6024.32
+Mercedes-Benz,GLC,2014,162844,Gasoline,Automatic,6788.12
+Ford,F-150,2017,125128,Gasoline,Automatic,5250.03
+Hyundai,Tucson,2011,121621,Gasoline,Automatic,1795.66
+Honda,Accord,2020,41840,Diesel,Automatic,10140.42
+Honda,Civic,2023,50732,Gasoline,Automatic,16880.57
+Honda,Accord,2019,68877,Gasoline,Automatic,8364.32
+Hyundai,Santa Fe,2023,44177,Gasoline,Automatic,13365.15
+Hyundai,Elantra,2023,33807,Diesel,Automatic,12010.75
+Toyota,Corolla,2024,23410,Diesel,Automatic,18877.83
+Mercedes-Benz,C-Class,2021,81238,Gasoline,Automatic,22035.89
+Mercedes-Benz,GLE,2016,83059,Hybrid,Automatic,10685.62
+Hyundai,Tucson,2016,92189,Gasoline,Automatic,3986.77
+Mazda,CX-5,2018,103857,Gasoline,Automatic,5644.1
+Tesla,Model S,2026,4230,Electric,Manual,51975.43
+Ford,F-150,2015,131827,Gasoline,Manual,4055.16
+Ford,Escape,2019,71930,Gasoline,Automatic,10377.45
+Hyundai,Santa Fe,2013,102118,Gasoline,Automatic,2060.54
+Mercedes-Benz,GLC,2019,72259,Gasoline,Automatic,15311.07
+Mercedes-Benz,C-Class,2025,7471,Gasoline,Automatic,41139.51
+Mazda,Mazda3,2013,181238,Gasoline,Manual,2419.48
+Mercedes-Benz,C-Class,2013,220546,Gasoline,Manual,5184.97
+Ford,Mustang,2015,193101,Gasoline,Automatic,4355.12
+Hyundai,Santa Fe,2013,137075,Diesel,Automatic,2253.34
+BMW,X3,2011,260655,Hybrid,Automatic,2960.58
+Ford,Mustang,2012,123606,Gasoline,Automatic,2769.65
+Toyota,Camry,2020,55904,Gasoline,Manual,9999.11
+Mazda,CX-9,2015,72853,Gasoline,Automatic,3869.79
+Nissan,Altima,2025,13275,Gasoline,Automatic,19271.74
+Toyota,Camry,2011,190562,Hybrid,Manual,2190.44
+Toyota,Highlander,2025,13745,Diesel,Automatic,20714.65
+Toyota,Corolla,2012,183987,Diesel,Automatic,1959.85
+Nissan,Altima,2016,138673,Gasoline,Automatic,4344.05
+BMW,5 Series,2013,195864,Diesel,Automatic,5052.62
+Ford,F-150,2014,173618,Diesel,Manual,3903.86
+Honda,Accord,2013,196259,Gasoline,Manual,2700.65
+BMW,X5,2021,71683,Gasoline,Automatic,18240.25
+Tesla,Model 3,2019,94665,Electric,Automatic,12605.84
+Toyota,Camry,2022,50044,Diesel,Automatic,11767.05
+BMW,5 Series,2013,180878,Gasoline,Automatic,4110.38
+Hyundai,Elantra,2016,163221,Gasoline,Automatic,3877.75
+Mercedes-Benz,E-Class,2025,0,Gasoline,Automatic,37785.05
+Honda,CR-V,2012,187339,Hybrid,Automatic,1974.04
+Nissan,Altima,2023,31026,Gasoline,Automatic,15292.29
+Nissan,Sentra,2024,35121,Diesel,Automatic,19195.93
+Chevrolet,Tahoe,2020,82982,Gasoline,Automatic,8404.79
+Tesla,Model Y,2010,229946,Electric,Automatic,3106.12
+BMW,5 Series,2025,8960,Gasoline,Automatic,39966.61
+Mercedes-Benz,GLC,2025,3472,Gasoline,Automatic,43304.79
+Toyota,RAV4,2010,284260,Gasoline,Automatic,1647.67
+Honda,Accord,2020,71963,Gasoline,Automatic,8637.16
+Ford,Explorer,2021,69728,Gasoline,Automatic,11744.45
+Ford,Mustang,2016,101094,Gasoline,Automatic,4523.44
+Nissan,Sentra,2014,171620,Gasoline,Automatic,2918.23
+Chevrolet,Malibu,2016,98281,Gasoline,Automatic,4712.38
+Ford,Explorer,2017,150950,Gasoline,Automatic,5147.97
+Mazda,CX-9,2015,115206,Gasoline,Manual,3280.91
+Toyota,Tacoma,2020,22841,Gasoline,Automatic,10617.95
+Chevrolet,Equinox,2024,15531,Gasoline,Automatic,17824.86
+Toyota,Camry,2025,12111,Gasoline,Automatic,25209.03
+Nissan,Sentra,2012,153221,Diesel,Automatic,2303.63
+Mercedes-Benz,GLC,2023,30240,Gasoline,Automatic,29120.87
+Honda,Pilot,2021,80007,Gasoline,Automatic,9301.69
+Mercedes-Benz,C-Class,2022,40995,Gasoline,Automatic,24076.71
+Nissan,Altima,2018,77580,Diesel,Automatic,6076.87
+Toyota,Highlander,2011,181442,Gasoline,Automatic,1912.41
+Mercedes-Benz,GLE,2019,115673,Diesel,Automatic,13513.65
+Nissan,Altima,2026,0,Diesel,Automatic,24590.67
+Hyundai,Elantra,2012,217291,Gasoline,Automatic,1770.0
+Mercedes-Benz,GLC,2019,81064,Diesel,Automatic,15886.05
+Tesla,Model S,2012,229664,Electric,Automatic,4111.65
+Chevrolet,Silverado,2011,194966,Gasoline,Automatic,2123.38
+Tesla,Model Y,2025,16488,Electric,Automatic,37116.59
+Toyota,Tacoma,2024,29669,Gasoline,Automatic,20593.85
+Hyundai,Elantra,2018,117140,Gasoline,Automatic,5889.52
+BMW,3 Series,2020,48043,Gasoline,Automatic,20202.74
+Mercedes-Benz,GLC,2021,51509,Gasoline,Automatic,25621.22
+Toyota,Camry,2011,191586,Gasoline,Automatic,1668.82
+Chevrolet,Tahoe,2022,59903,Gasoline,Automatic,14335.41
+Ford,Explorer,2019,88532,Gasoline,Automatic,8297.58
+Mazda,Mazda3,2024,10085,Gasoline,Manual,17120.35
+Mercedes-Benz,GLE,2024,20779,Diesel,Automatic,42853.68
+Honda,Pilot,2011,159698,Gasoline,Automatic,1868.31
+Mazda,CX-5,2010,211332,Diesel,Automatic,1751.55
+Mazda,CX-9,2022,52118,Gasoline,Automatic,12030.37
+Tesla,Model 3,2021,81631,Electric,Manual,20282.84
+Honda,Accord,2013,101358,Gasoline,Manual,2559.63
+Mercedes-Benz,GLC,2017,115852,Gasoline,Automatic,9338.39
+Chevrolet,Equinox,2011,296332,Gasoline,Automatic,2272.49
+Toyota,Corolla,2013,108776,Gasoline,Automatic,2321.93
+Toyota,Highlander,2011,178999,Gasoline,Manual,2009.26
+Chevrolet,Tahoe,2012,77541,Gasoline,Automatic,2695.3
+BMW,3 Series,2024,20803,Gasoline,Automatic,35853.48
+BMW,X3,2019,113535,Diesel,Manual,13959.99
+Ford,F-150,2026,0,Gasoline,Automatic,32190.0
+Nissan,Altima,2016,31442,Gasoline,Automatic,4510.59
+Ford,Explorer,2023,29816,Gasoline,Automatic,15516.96
+Ford,F-150,2012,177411,Diesel,Automatic,2671.65
+Mercedes-Benz,E-Class,2012,132122,Gasoline,Automatic,3870.19
+BMW,5 Series,2020,85277,Gasoline,Automatic,14565.47
+BMW,X3,2016,103320,Gasoline,Automatic,7420.05
+BMW,3 Series,2023,35638,Gasoline,Manual,26970.4
+Ford,Explorer,2017,105435,Gasoline,Manual,5574.19
+Mazda,CX-5,2024,16334,Diesel,Automatic,16826.02
+Tesla,Model Y,2023,33342,Electric,Automatic,30719.23
+Honda,Pilot,2025,4205,Diesel,Automatic,22601.95
+Chevrolet,Silverado,2024,20710,Gasoline,Automatic,22635.43
+Nissan,Sentra,2015,158670,Gasoline,Automatic,3232.33
+Ford,Escape,2015,154890,Gasoline,Automatic,4117.72
+BMW,3 Series,2018,123960,Gasoline,Manual,9233.68
+Honda,Civic,2019,77885,Gasoline,Manual,7427.93
+Tesla,Model 3,2018,97296,Electric,Manual,12159.16
+Hyundai,Tucson,2016,136578,Diesel,Automatic,4033.56
+BMW,X3,2017,164617,Gasoline,Manual,8164.87
+Honda,Civic,2016,108334,Gasoline,Automatic,4361.08
+Mazda,Mazda3,2010,200804,Gasoline,Automatic,1340.98
+Hyundai,Santa Fe,2013,142445,Diesel,Manual,2317.1
+Tesla,Model 3,2018,49240,Electric,Automatic,12885.21
+Chevrolet,Tahoe,2025,23079,Gasoline,Automatic,26585.44
+Honda,CR-V,2017,151600,Gasoline,Manual,5512.01
+Hyundai,Elantra,2015,170111,Gasoline,Automatic,3136.72
+Tesla,Model Y,2015,174537,Electric,Automatic,6194.92
+Nissan,Altima,2011,161024,Diesel,Automatic,1661.68
+BMW,X3,2022,45917,Gasoline,Automatic,20710.29
+Tesla,Model Y,2014,94012,Electric,Automatic,7059.02
+Hyundai,Santa Fe,2026,2987,Gasoline,Automatic,21238.41
+Toyota,Tacoma,2010,102482,Diesel,Automatic,1579.81
+Hyundai,Elantra,2025,14255,Gasoline,Automatic,21133.76
+Honda,Civic,2026,0,Gasoline,Automatic,28012.03
+BMW,3 Series,2022,70229,Gasoline,Automatic,23156.22
+Toyota,Camry,2018,160740,Gasoline,Automatic,5341.85
+Toyota,Camry,2022,48653,Gasoline,Automatic,12900.23
+Mazda,CX-9,2013,153176,Gasoline,Automatic,2224.02
+Tesla,Model 3,2016,154678,Electric,Automatic,9147.43
+Chevrolet,Malibu,2022,54657,Diesel,Automatic,16319.22
+Nissan,Altima,2011,255843,Gasoline,Automatic,1780.1
+Mazda,CX-5,2017,119772,Gasoline,Automatic,4926.82
+Toyota,Tacoma,2015,103771,Gasoline,Manual,4099.14
+Nissan,Sentra,2015,124726,Gasoline,Automatic,3884.42
+BMW,X3,2016,134778,Gasoline,Manual,8276.84
+Mercedes-Benz,GLE,2022,58137,Gasoline,Automatic,26203.08
+BMW,X5,2019,96089,Hybrid,Automatic,12034.79
+Tesla,Model Y,2013,168823,Electric,Automatic,4532.1
+Tesla,Model Y,2025,7496,Electric,Automatic,38725.41
+Tesla,Model Y,2021,39628,Electric,Automatic,21888.51
+Ford,Explorer,2017,66145,Gasoline,Automatic,7285.79
+Toyota,Tacoma,2020,96562,Diesel,Manual,8443.32
+BMW,X5,2023,40222,Gasoline,Automatic,27090.91
+Honda,Pilot,2019,120959,Gasoline,Automatic,6731.61
+Honda,Accord,2016,129464,Gasoline,Automatic,3830.35
+Mazda,CX-9,2014,100323,Gasoline,Automatic,3343.23
+Nissan,Altima,2012,182812,Gasoline,Automatic,2000.14
+Tesla,Model Y,2014,201601,Electric,Automatic,6171.08
+Nissan,Altima,2025,8750,Gasoline,Automatic,23868.7
+BMW,3 Series,2022,71313,Diesel,Automatic,22174.56
+Nissan,Rogue,2025,23256,Hybrid,Automatic,21419.59
+Ford,F-150,2023,53912,Diesel,Automatic,19467.19
+Hyundai,Elantra,2022,32446,Gasoline,Automatic,12816.63
+Mazda,CX-9,2013,90191,Hybrid,Manual,2642.41
+Mercedes-Benz,GLE,2021,50185,Gasoline,Automatic,21063.25
+Ford,Mustang,2020,73574,Gasoline,Automatic,10375.72
+Honda,Civic,2012,120324,Gasoline,Automatic,2012.63
+BMW,3 Series,2023,34270,Gasoline,Automatic,26930.01
+Ford,Mustang,2015,145368,Gasoline,Automatic,4024.59
+Ford,Mustang,2024,23969,Diesel,Automatic,23198.76
+Mazda,CX-5,2017,165726,Gasoline,Automatic,4580.84
+Chevrolet,Tahoe,2026,0,Diesel,Automatic,32012.97
+Chevrolet,Silverado,2023,41386,Gasoline,Automatic,19120.6
+Honda,Civic,2025,14232,Hybrid,Automatic,20078.0
+BMW,X3,2017,114903,Hybrid,Automatic,8535.59
+BMW,5 Series,2020,88701,Gasoline,Automatic,17550.84
+Nissan,Sentra,2022,40884,Hybrid,Automatic,12500.66
+Mercedes-Benz,C-Class,2025,13039,Gasoline,Automatic,46582.95
+Toyota,RAV4,2014,158122,Hybrid,Automatic,3148.91
+Chevrolet,Tahoe,2018,109492,Hybrid,Automatic,6033.01
+Tesla,Model 3,2018,89985,Electric,Manual,13155.9
+Tesla,Model S,2015,127179,Electric,Automatic,7710.43
+Honda,Accord,2019,115592,Gasoline,Automatic,7700.63
+Nissan,Sentra,2021,56745,Hybrid,Automatic,9267.74
+Hyundai,Santa Fe,2016,127695,Hybrid,Manual,3514.6
+Mazda,CX-5,2016,120426,Diesel,Automatic,4259.32
+Tesla,Model 3,2026,0,Electric,Automatic,47736.84
+Ford,Escape,2026,0,Gasoline,Automatic,26281.77
+Mercedes-Benz,C-Class,2026,0,Hybrid,Automatic,59457.17
+Mercedes-Benz,E-Class,2022,36839,Hybrid,Automatic,31063.36
+BMW,X5,2025,14439,Diesel,Automatic,41989.56
+Mercedes-Benz,C-Class,2025,10413,Gasoline,Automatic,46841.13
+Mercedes-Benz,E-Class,2023,35464,Gasoline,Automatic,28460.79
+Hyundai,Tucson,2025,11548,Gasoline,Automatic,21338.53
+Toyota,Camry,2019,80596,Gasoline,Automatic,7209.62
+Ford,F-150,2013,184379,Gasoline,Automatic,2571.8
+Toyota,Highlander,2015,194692,Gasoline,Automatic,3606.38
+Mazda,CX-9,2012,195171,Diesel,Manual,2216.97
+Toyota,Highlander,2025,19080,Gasoline,Automatic,20177.91
+BMW,3 Series,2016,184905,Gasoline,Manual,8919.85
+Toyota,Tacoma,2023,27780,Gasoline,Automatic,14534.73
+Honda,CR-V,2026,2342,Gasoline,Automatic,27238.43
+Chevrolet,Malibu,2022,56099,Gasoline,Automatic,14079.66
+Honda,Civic,2011,223700,Gasoline,Automatic,1962.84
+Hyundai,Santa Fe,2025,10108,Gasoline,Automatic,19021.79
+Honda,Pilot,2014,165756,Gasoline,Manual,3287.52
+Honda,Civic,2010,187665,Gasoline,Automatic,1763.94
+Nissan,Altima,2021,29239,Gasoline,Automatic,12131.33
+Nissan,Altima,2024,17724,Gasoline,Automatic,17044.32
+Mercedes-Benz,E-Class,2024,15172,Gasoline,Automatic,33292.82
+Honda,Accord,2013,198966,Gasoline,Automatic,2798.8
+Toyota,Tacoma,2023,40842,Diesel,Automatic,16136.53
+Hyundai,Elantra,2024,30652,Gasoline,Automatic,17297.8
+Nissan,Altima,2020,58427,Gasoline,Manual,9016.09
+Ford,Escape,2022,51370,Diesel,Automatic,13560.8
+Chevrolet,Silverado,2017,116859,Gasoline,Automatic,5028.83
+Ford,F-150,2012,179504,Diesel,Automatic,2239.43
+Nissan,Rogue,2011,160794,Gasoline,Automatic,1833.73
+Tesla,Model 3,2014,112595,Electric,Automatic,5512.4
+BMW,X5,2024,33070,Gasoline,Automatic,31262.23
+Hyundai,Tucson,2026,0,Diesel,Automatic,25426.14
+Mazda,CX-5,2013,180083,Gasoline,Automatic,2385.76
+Tesla,Model 3,2026,0,Electric,Automatic,45039.53
+Nissan,Altima,2012,75875,Diesel,Automatic,2349.75
+Nissan,Sentra,2020,46167,Gasoline,Automatic,9704.99
+Mercedes-Benz,GLE,2023,25643,Gasoline,Automatic,31043.78
+Mazda,Mazda3,2014,147835,Diesel,Automatic,2975.17
+BMW,X5,2023,26944,Gasoline,Automatic,25442.7
+Chevrolet,Tahoe,2020,76625,Diesel,Automatic,9767.66
+Tesla,Model S,2014,102136,Electric,Automatic,5873.45
+Hyundai,Elantra,2025,14848,Gasoline,Automatic,21682.67
+BMW,5 Series,2013,197832,Gasoline,Manual,4425.19
+Toyota,Camry,2025,14493,Gasoline,Automatic,23455.48
+Honda,CR-V,2020,61752,Gasoline,Automatic,8926.64
+BMW,X3,2016,175730,Hybrid,Automatic,8066.13
+Toyota,Tacoma,2021,56077,Gasoline,Automatic,12250.23
+BMW,X3,2017,97096,Gasoline,Automatic,8482.83
+Hyundai,Tucson,2015,102309,Gasoline,Automatic,3667.45
+Honda,Accord,2013,84064,Gasoline,Automatic,2415.98
+Hyundai,Tucson,2017,99151,Hybrid,Automatic,4123.28
+Mazda,CX-5,2013,211750,Hybrid,Automatic,2887.87
+Chevrolet,Equinox,2021,28827,Gasoline,Automatic,12905.51
+BMW,5 Series,2013,183458,Diesel,Manual,5493.96
+Chevrolet,Malibu,2021,71349,Gasoline,Automatic,10318.62
+Tesla,Model 3,2021,77188,Electric,Automatic,17720.63
+Nissan,Sentra,2022,38664,Gasoline,Automatic,13408.06
+Mazda,CX-5,2016,99346,Gasoline,Automatic,4046.44
+Honda,Pilot,2022,15122,Diesel,Automatic,13561.87
+Nissan,Rogue,2015,150153,Gasoline,Automatic,3889.33
+Chevrolet,Equinox,2025,10216,Gasoline,Automatic,24723.59
+Chevrolet,Tahoe,2022,65378,Diesel,Automatic,12209.33
+Ford,Escape,2015,178755,Gasoline,Automatic,3567.57
+Nissan,Sentra,2011,212327,Gasoline,Automatic,1555.58
+Toyota,Tacoma,2012,250466,Gasoline,Automatic,2171.75
+Toyota,Camry,2016,98847,Gasoline,Automatic,5309.43
+Toyota,Highlander,2022,31716,Gasoline,Automatic,13803.6
+Honda,Civic,2024,28229,Gasoline,Automatic,18045.22
+Mazda,CX-5,2014,171682,Hybrid,Automatic,2836.52
+BMW,3 Series,2016,98929,Gasoline,Automatic,9277.7
+Tesla,Model 3,2014,146265,Electric,Automatic,5814.9
+Tesla,Model S,2013,230753,Electric,Automatic,5801.35
+Mercedes-Benz,GLE,2012,112780,Gasoline,Automatic,4454.56
+Toyota,Corolla,2024,23670,Hybrid,Manual,21591.6
+BMW,3 Series,2017,142216,Gasoline,Manual,9863.09
+Ford,Explorer,2023,35378,Diesel,Automatic,19348.36
+Chevrolet,Silverado,2017,94047,Gasoline,Automatic,5921.09
+BMW,3 Series,2023,26478,Gasoline,Manual,24389.93
+Honda,CR-V,2025,21787,Gasoline,Manual,24048.36
+Toyota,Corolla,2020,87353,Hybrid,Automatic,10496.88
+Toyota,RAV4,2023,51467,Gasoline,Automatic,13760.98
+Ford,Escape,2025,16396,Gasoline,Automatic,21385.82
+Mazda,Mazda3,2025,18615,Gasoline,Automatic,22065.42
+Mercedes-Benz,GLE,2022,54625,Diesel,Manual,24526.11
+Mercedes-Benz,E-Class,2013,138506,Gasoline,Manual,5460.98
+Hyundai,Santa Fe,2024,28527,Gasoline,Automatic,14180.91
+Toyota,Highlander,2021,65989,Gasoline,Automatic,12467.54
+Toyota,Highlander,2026,3537,Gasoline,Automatic,25574.79
+Chevrolet,Malibu,2024,15934,Gasoline,Automatic,18317.2
+Ford,Mustang,2024,18430,Gasoline,Automatic,21089.07
+BMW,X5,2011,199190,Diesel,Automatic,3792.48
+Nissan,Rogue,2023,22195,Gasoline,Automatic,13329.71
+Chevrolet,Silverado,2023,61265,Gasoline,Automatic,18897.26
+Chevrolet,Malibu,2013,104164,Gasoline,Automatic,2796.53
+BMW,X5,2025,7884,Gasoline,Automatic,43497.35
+Ford,Escape,2026,0,Gasoline,Automatic,30170.01
+Ford,F-150,2018,29875,Hybrid,Automatic,8131.56
+Nissan,Rogue,2017,43586,Gasoline,Automatic,6332.73
+Tesla,Model S,2024,23980,Electric,Automatic,37308.57
+Toyota,Highlander,2017,101558,Diesel,Manual,5448.45
+Tesla,Model S,2020,57957,Electric,Automatic,16828.34
+Hyundai,Santa Fe,2025,12980,Gasoline,Automatic,19605.43
+Tesla,Model 3,2015,90075,Electric,Automatic,7172.32
+Mazda,CX-9,2014,143423,Diesel,Automatic,2686.79
+Chevrolet,Tahoe,2014,212923,Gasoline,Manual,2888.01
+Honda,Pilot,2010,185380,Gasoline,Automatic,1608.6
+Hyundai,Tucson,2014,139221,Hybrid,Automatic,3077.15
+Hyundai,Tucson,2023,52194,Gasoline,Manual,15216.56
+Ford,Escape,2014,81481,Gasoline,Automatic,3619.93
+BMW,5 Series,2014,122864,Gasoline,Automatic,5808.05
+Mercedes-Benz,GLE,2025,384,Hybrid,Automatic,38838.8
+Hyundai,Elantra,2015,135872,Gasoline,Automatic,2738.0
+Mercedes-Benz,E-Class,2012,185087,Gasoline,Automatic,4845.38
+Nissan,Sentra,2012,138939,Diesel,Automatic,1846.81
+Mazda,CX-5,2018,109705,Gasoline,Automatic,4954.23
+Toyota,Tacoma,2026,0,Diesel,Manual,24300.85
+Toyota,Camry,2024,15465,Gasoline,Automatic,18089.61
+Ford,Explorer,2021,53615,Gasoline,Automatic,13876.73
+Mercedes-Benz,E-Class,2018,102653,Hybrid,Automatic,11946.75
+Mazda,CX-5,2011,116853,Gasoline,Automatic,1800.8
+Hyundai,Santa Fe,2014,130756,Gasoline,Automatic,3042.49
+Nissan,Sentra,2016,109968,Gasoline,Automatic,3906.01
+Chevrolet,Malibu,2025,13523,Hybrid,Automatic,22954.9
+Ford,Explorer,2024,21716,Gasoline,Automatic,17643.7
+Ford,Escape,2019,94634,Hybrid,Automatic,7404.25
+BMW,3 Series,2021,94451,Gasoline,Automatic,20418.41
+Hyundai,Elantra,2017,10594,Gasoline,Automatic,4696.37
+Toyota,Corolla,2020,59927,Gasoline,Automatic,8907.25
+Tesla,Model 3,2022,43526,Electric,Automatic,26359.64
+Mazda,CX-9,2024,37983,Gasoline,Automatic,18983.4
+BMW,3 Series,2015,169332,Diesel,Automatic,6222.47
+Hyundai,Tucson,2020,66746,Gasoline,Automatic,9344.01
+Mazda,CX-5,2015,114870,Gasoline,Automatic,3996.35
+Honda,Pilot,2022,47654,Gasoline,Automatic,11851.78
+Mercedes-Benz,C-Class,2022,73586,Gasoline,Manual,30356.93
+Mercedes-Benz,GLC,2024,20334,Gasoline,Automatic,39449.28
+Ford,Mustang,2026,0,Hybrid,Automatic,32229.66
+Tesla,Model 3,2020,71694,Electric,Automatic,20630.81
+Mazda,Mazda3,2019,120850,Gasoline,Automatic,7162.45
+Mercedes-Benz,GLE,2026,261,Diesel,Automatic,61298.26
+BMW,X5,2026,0,Gasoline,Automatic,51286.14
+Mercedes-Benz,GLE,2022,60893,Gasoline,Manual,26472.46
+Honda,CR-V,2012,239337,Hybrid,Automatic,2269.07
+Nissan,Sentra,2025,15644,Gasoline,Manual,21374.85
+Mercedes-Benz,GLE,2020,46125,Gasoline,Automatic,19491.35
+Ford,F-150,2023,39640,Gasoline,Automatic,17391.45
+Honda,Civic,2017,131580,Gasoline,Manual,5138.45
+Honda,Accord,2023,22792,Gasoline,Automatic,15368.44
+Mercedes-Benz,GLE,2010,230943,Gasoline,Automatic,3244.66
+Toyota,Tacoma,2015,144338,Gasoline,Automatic,3853.84
+Mazda,Mazda3,2018,110142,Gasoline,Automatic,4972.48
+Chevrolet,Tahoe,2022,27154,Hybrid,Automatic,16226.12
+Mercedes-Benz,GLC,2023,42418,Diesel,Automatic,30343.0
+Chevrolet,Silverado,2013,147079,Gasoline,Automatic,2404.26
+Tesla,Model Y,2026,6214,Electric,Automatic,53191.06
+BMW,X5,2014,177639,Gasoline,Manual,5999.91
+Chevrolet,Equinox,2020,89498,Gasoline,Manual,8659.18
+Honda,Accord,2018,28281,Hybrid,Automatic,6638.41
+Mazda,CX-9,2016,195646,Gasoline,Automatic,3818.14
+Mazda,CX-5,2019,94783,Diesel,Automatic,7545.13
+Mazda,CX-5,2018,59169,Gasoline,Automatic,5814.93
+Tesla,Model S,2017,121717,Electric,Automatic,8868.35
+Tesla,Model Y,2018,93885,Electric,Automatic,12293.12
+Toyota,Tacoma,2019,74789,Diesel,Manual,7362.02
+Tesla,Model Y,2013,140217,Electric,Automatic,5845.6
+BMW,X3,2016,151085,Gasoline,Automatic,7367.62
+Hyundai,Tucson,2023,39267,Gasoline,Automatic,15743.06
+Mazda,Mazda3,2019,105270,Gasoline,Automatic,6412.89
+Nissan,Altima,2010,131813,Hybrid,Automatic,1595.63
+Hyundai,Elantra,2022,54779,Gasoline,Automatic,10607.6
+Chevrolet,Silverado,2019,79746,Gasoline,Automatic,8851.38
+Hyundai,Elantra,2019,118380,Gasoline,Automatic,6425.66
+BMW,3 Series,2023,30459,Gasoline,Manual,32703.81
+Toyota,RAV4,2016,96504,Hybrid,Automatic,5488.61
+Mercedes-Benz,C-Class,2014,169795,Diesel,Automatic,6150.69
+Honda,Pilot,2012,116016,Gasoline,Automatic,2041.53
+BMW,5 Series,2018,118200,Gasoline,Automatic,10275.51
+Mercedes-Benz,GLC,2023,51713,Gasoline,Automatic,36054.65
+Tesla,Model S,2011,187271,Electric,Automatic,3491.96
+Hyundai,Santa Fe,2012,194020,Gasoline,Manual,2091.75
+Nissan,Rogue,2011,163141,Gasoline,Automatic,1901.55
+Hyundai,Elantra,2022,54869,Gasoline,Automatic,11307.97
+BMW,5 Series,2023,24659,Diesel,Automatic,27767.18
+Mazda,Mazda3,2014,178451,Hybrid,Automatic,2959.49
+Hyundai,Tucson,2014,134927,Gasoline,Automatic,2946.93
+Chevrolet,Equinox,2011,133942,Gasoline,Automatic,2219.21
+Honda,CR-V,2022,61916,Gasoline,Automatic,15252.2
+Tesla,Model Y,2019,69806,Electric,Automatic,15477.26
+Chevrolet,Silverado,2012,220920,Gasoline,Automatic,2066.3
+Chevrolet,Silverado,2011,143234,Gasoline,Automatic,2235.03
+Nissan,Altima,2018,82968,Gasoline,Automatic,6668.03
+Chevrolet,Tahoe,2015,101788,Gasoline,Manual,3478.93
+Tesla,Model S,2022,37283,Electric,Manual,28734.81
+Honda,Accord,2016,123481,Gasoline,Manual,4480.25
+Chevrolet,Silverado,2012,132060,Gasoline,Automatic,2444.78
+Tesla,Model Y,2015,132658,Electric,Automatic,6667.88
+Honda,CR-V,2026,0,Hybrid,Automatic,25060.5
+Hyundai,Elantra,2020,60555,Diesel,Automatic,8250.25
+BMW,X5,2011,214246,Gasoline,Automatic,3539.04
+Tesla,Model Y,2026,4192,Electric,Automatic,59730.41
+Chevrolet,Tahoe,2023,55205,Gasoline,Manual,16042.35
+Nissan,Sentra,2014,113448,Gasoline,Automatic,3185.04
+Ford,Explorer,2014,151222,Gasoline,Automatic,3507.25
+Mazda,CX-9,2012,158155,Hybrid,Automatic,2116.0
+BMW,X3,2019,85065,Gasoline,Automatic,11819.3
+Chevrolet,Silverado,2024,31037,Gasoline,Automatic,16776.52
+Mazda,CX-5,2022,52548,Gasoline,Manual,13828.85
+Mazda,CX-9,2018,125585,Gasoline,Automatic,5508.52
+Nissan,Altima,2022,48053,Diesel,Manual,12185.04
+Chevrolet,Silverado,2017,118126,Diesel,Automatic,5955.87
+Mercedes-Benz,GLC,2014,104497,Gasoline,Automatic,5741.31
+Toyota,Tacoma,2013,209350,Gasoline,Automatic,2905.96
+Ford,F-150,2024,25456,Diesel,Automatic,22878.17
+Honda,CR-V,2017,142076,Diesel,Automatic,4569.77
+Ford,Escape,2023,44773,Hybrid,Automatic,19290.7
+Mercedes-Benz,GLC,2015,95558,Gasoline,Automatic,8920.47
+Mazda,Mazda3,2013,155087,Gasoline,Automatic,2441.85
+BMW,X5,2013,153288,Gasoline,Automatic,5346.43
+BMW,5 Series,2018,58371,Hybrid,Automatic,11888.03
+Ford,Mustang,2015,93397,Gasoline,Manual,4592.38
+Mazda,CX-9,2015,130103,Gasoline,Manual,3850.67
+BMW,X5,2020,42066,Diesel,Automatic,19906.14
+Honda,Civic,2013,114521,Gasoline,Automatic,2816.67
+Nissan,Rogue,2023,28049,Diesel,Automatic,17028.08
+Mazda,CX-5,2019,53903,Gasoline,Automatic,7079.14
+Ford,Explorer,2018,129851,Gasoline,Automatic,6024.99
+Mazda,CX-5,2018,115376,Gasoline,Automatic,5876.19
+Mercedes-Benz,GLC,2013,192040,Gasoline,Automatic,5512.9
+BMW,5 Series,2010,211180,Hybrid,Automatic,2700.7
+Mercedes-Benz,C-Class,2021,80860,Gasoline,Automatic,19538.04
+Toyota,Tacoma,2017,105121,Gasoline,Automatic,5178.22
+Nissan,Sentra,2022,40953,Gasoline,Automatic,14056.3
+Ford,Explorer,2024,798,Gasoline,Automatic,17458.23
+BMW,3 Series,2022,53974,Gasoline,Automatic,26889.04
+Toyota,RAV4,2024,25713,Gasoline,Manual,19441.2
+Hyundai,Santa Fe,2017,77676,Gasoline,Automatic,4724.23
+Chevrolet,Equinox,2021,47253,Hybrid,Automatic,10838.55
+Mazda,CX-9,2025,11742,Gasoline,Automatic,19206.38
+Tesla,Model Y,2023,35964,Electric,Manual,31742.79
+Mazda,CX-5,2016,105453,Gasoline,Automatic,4592.11
+Honda,Pilot,2020,67209,Gasoline,Automatic,9034.27
+Mercedes-Benz,C-Class,2011,117691,Gasoline,Automatic,3293.69
+Chevrolet,Silverado,2019,112932,Diesel,Automatic,6452.45
+Nissan,Altima,2012,137686,Gasoline,Manual,2203.6
+Honda,CR-V,2014,110199,Diesel,Automatic,3373.27
+Toyota,Tacoma,2013,129295,Gasoline,Automatic,2446.85
+Mazda,CX-5,2017,157394,Diesel,Automatic,4261.81
+Hyundai,Elantra,2014,160289,Diesel,Automatic,2411.95
+Tesla,Model S,2017,148935,Electric,Automatic,10542.08
+Mercedes-Benz,GLC,2024,16245,Gasoline,Automatic,38272.5
+Mazda,CX-5,2014,172454,Gasoline,Automatic,2929.31
+Chevrolet,Malibu,2021,32144,Gasoline,Automatic,12926.93
+Toyota,Tacoma,2013,114902,Hybrid,Automatic,2800.82
+Mazda,CX-9,2022,66037,Gasoline,Automatic,13494.18
+Chevrolet,Silverado,2022,61014,Gasoline,Automatic,14801.27
+Tesla,Model Y,2018,36243,Electric,Automatic,13202.82
+Nissan,Rogue,2018,82652,Gasoline,Automatic,6308.57
+BMW,X3,2024,23526,Gasoline,Automatic,29414.96
+Nissan,Altima,2013,123146,Gasoline,Automatic,2747.33
+Honda,Civic,2010,118808,Hybrid,Manual,1741.34
+Mercedes-Benz,GLC,2014,125722,Gasoline,Automatic,7002.22
+Hyundai,Santa Fe,2024,23902,Gasoline,Automatic,15827.98
+Nissan,Rogue,2013,103288,Gasoline,Automatic,2245.19
+Tesla,Model 3,2018,102757,Electric,Automatic,10689.78
+Mazda,CX-5,2025,13766,Gasoline,Automatic,21051.44
+Mazda,Mazda3,2026,5660,Diesel,Automatic,25135.16
+BMW,X3,2013,84541,Gasoline,Automatic,5155.01
+BMW,3 Series,2025,6366,Hybrid,Automatic,34986.25
+Mercedes-Benz,GLE,2010,242464,Gasoline,Automatic,3707.06
+Mazda,Mazda3,2016,117218,Gasoline,Automatic,3945.3
+Tesla,Model 3,2014,163937,Electric,Automatic,5496.81
+Honda,Accord,2010,116633,Gasoline,Automatic,1827.0
+Toyota,Highlander,2019,73387,Hybrid,Manual,8464.3
+Chevrolet,Tahoe,2013,81263,Gasoline,Automatic,2691.51
+Mazda,Mazda3,2016,133056,Diesel,Automatic,4226.34
+BMW,5 Series,2017,71359,Gasoline,Automatic,9446.04
+Mercedes-Benz,GLE,2020,54922,Diesel,Automatic,19192.97
+Nissan,Sentra,2016,70447,Gasoline,Automatic,4128.64
+Tesla,Model S,2014,200278,Electric,Automatic,5187.36
+Chevrolet,Equinox,2017,133032,Gasoline,Automatic,5974.48
+Chevrolet,Equinox,2019,75146,Gasoline,Automatic,8862.45
+Honda,CR-V,2022,55515,Hybrid,Automatic,11624.47
+Ford,Mustang,2019,80074,Hybrid,Automatic,8456.82
+Hyundai,Santa Fe,2016,91909,Gasoline,Automatic,4029.95
+Honda,Pilot,2019,97182,Diesel,Automatic,6646.41
+Nissan,Rogue,2017,150552,Gasoline,Automatic,4604.35
+Chevrolet,Silverado,2019,72408,Hybrid,Automatic,8564.34
+Toyota,Corolla,2018,112365,Hybrid,Automatic,6644.23
+Mazda,CX-5,2013,180359,Gasoline,Automatic,2246.61
+Toyota,Camry,2026,0,Gasoline,Automatic,28661.23
+Nissan,Altima,2011,173485,Diesel,Automatic,1987.53
+Mercedes-Benz,E-Class,2021,52578,Gasoline,Automatic,23455.73
+Nissan,Rogue,2018,94213,Hybrid,Automatic,6075.88
+Tesla,Model Y,2019,62179,Electric,Automatic,18079.04
+Honda,Pilot,2010,244277,Gasoline,Automatic,1559.96
+Hyundai,Elantra,2010,150994,Gasoline,Automatic,1282.05
+Mazda,Mazda3,2012,184659,Gasoline,Automatic,2135.48
+BMW,3 Series,2013,177942,Diesel,Manual,4728.48
+Ford,F-150,2010,211339,Gasoline,Automatic,1918.07
+Toyota,Camry,2010,177833,Gasoline,Manual,1671.85
+Tesla,Model Y,2020,45830,Electric,Automatic,19495.83
+Toyota,Corolla,2024,27144,Diesel,Manual,17047.9
+Ford,Escape,2024,17629,Gasoline,Manual,21489.73
+Hyundai,Elantra,2021,74316,Hybrid,Automatic,9811.62
+Hyundai,Elantra,2026,0,Hybrid,Automatic,23832.93
+Mazda,Mazda3,2013,132876,Gasoline,Automatic,2813.49
+Mercedes-Benz,GLC,2013,192337,Gasoline,Automatic,5824.89
+Nissan,Altima,2025,12375,Gasoline,Automatic,22609.05
+BMW,3 Series,2014,128035,Gasoline,Manual,5124.16
+Honda,Accord,2019,98360,Gasoline,Automatic,6957.63
+Nissan,Rogue,2026,3748,Hybrid,Automatic,29143.41
+Ford,Mustang,2017,122790,Hybrid,Automatic,5664.65
+Nissan,Rogue,2020,87623,Hybrid,Automatic,9278.1
+Toyota,RAV4,2013,187647,Diesel,Automatic,2671.24
+Toyota,Tacoma,2017,87517,Gasoline,Automatic,4783.41
+Chevrolet,Equinox,2023,32345,Gasoline,Automatic,17065.63
+Honda,CR-V,2024,19257,Diesel,Automatic,18142.58
+Chevrolet,Tahoe,2020,60815,Gasoline,Manual,10853.46
+Mazda,CX-9,2021,50450,Gasoline,Automatic,12019.2
+BMW,X5,2021,38927,Diesel,Automatic,19543.47
+Chevrolet,Malibu,2022,45651,Gasoline,Automatic,14527.94
+Nissan,Sentra,2022,31491,Diesel,Automatic,11215.77
+Mazda,CX-5,2021,52041,Hybrid,Manual,11920.46
+Nissan,Sentra,2022,35923,Gasoline,Automatic,10933.35
+Ford,F-150,2011,164157,Gasoline,Automatic,2008.53
+BMW,3 Series,2010,195584,Gasoline,Manual,2587.53
+Toyota,Tacoma,2019,95066,Hybrid,Automatic,8568.66
+Toyota,Highlander,2011,216687,Gasoline,Automatic,1746.48
+Nissan,Sentra,2017,60800,Hybrid,Automatic,5517.81
+Chevrolet,Equinox,2014,178746,Diesel,Automatic,2835.83
+Mercedes-Benz,GLE,2016,97674,Gasoline,Manual,9882.11
+Toyota,Corolla,2012,175032,Diesel,Automatic,2597.38
+Mazda,CX-5,2025,7362,Gasoline,Automatic,18769.17
+Mercedes-Benz,GLE,2025,9474,Diesel,Automatic,43312.17
+Ford,Mustang,2010,245703,Gasoline,Manual,1805.3
+Ford,Mustang,2011,198505,Gasoline,Automatic,1797.2
+Chevrolet,Silverado,2025,12367,Gasoline,Automatic,23361.35
+Mazda,Mazda3,2023,48616,Gasoline,Automatic,15318.53
+Mazda,CX-5,2014,129676,Gasoline,Automatic,3113.27
+Ford,Mustang,2015,140439,Gasoline,Automatic,3710.08
+Hyundai,Santa Fe,2021,79772,Gasoline,Automatic,7927.17
+Toyota,Camry,2011,171665,Gasoline,Automatic,2035.51
+Ford,F-150,2019,96612,Gasoline,Automatic,9259.39
+Chevrolet,Malibu,2010,178943,Gasoline,Automatic,1903.33
+Ford,F-150,2019,83464,Diesel,Automatic,9127.05
+Hyundai,Tucson,2022,59036,Gasoline,Automatic,13127.04
+Mercedes-Benz,C-Class,2010,184867,Hybrid,Automatic,3231.28
+Honda,Accord,2013,109808,Hybrid,Automatic,2399.83
+Mazda,Mazda3,2010,153518,Gasoline,Automatic,1671.63
+BMW,3 Series,2012,159930,Gasoline,Automatic,3766.49
+Toyota,Tacoma,2016,127923,Gasoline,Automatic,3766.56
+Tesla,Model S,2019,107749,Electric,Automatic,12449.12
+Chevrolet,Silverado,2025,16128,Gasoline,Automatic,22260.76
+Nissan,Sentra,2025,12889,Gasoline,Automatic,20883.58
+Toyota,Highlander,2014,148949,Diesel,Automatic,3196.03
+Tesla,Model 3,2016,98225,Electric,Automatic,10257.51
+Chevrolet,Malibu,2017,97874,Gasoline,Automatic,5494.1
+Toyota,Tacoma,2014,83282,Gasoline,Automatic,3457.92
+Ford,Explorer,2018,69824,Gasoline,Automatic,7809.05
+Mercedes-Benz,E-Class,2024,32593,Gasoline,Automatic,32714.0
+Toyota,Camry,2018,102666,Gasoline,Automatic,6054.52
+Chevrolet,Malibu,2023,36879,Hybrid,Automatic,14514.08
+Hyundai,Elantra,2013,162386,Gasoline,Automatic,1979.52
+Hyundai,Santa Fe,2010,159528,Gasoline,Automatic,1349.78
+Mercedes-Benz,E-Class,2013,207564,Hybrid,Automatic,5740.2
+Tesla,Model 3,2021,74684,Electric,Automatic,19850.91
+Hyundai,Elantra,2020,85806,Hybrid,Automatic,7169.81
+Ford,Escape,2016,127063,Diesel,Automatic,4554.43
+Toyota,RAV4,2019,87286,Gasoline,Automatic,8684.52
+Toyota,RAV4,2021,67700,Gasoline,Automatic,12133.77
+Honda,CR-V,2018,135303,Gasoline,Automatic,6556.42
+BMW,X5,2024,23203,Gasoline,Manual,37638.49
+Nissan,Sentra,2011,172079,Gasoline,Automatic,1901.26
+Tesla,Model 3,2024,17998,Electric,Automatic,35909.33
+Tesla,Model S,2022,38453,Electric,Automatic,27200.71
+Honda,Pilot,2010,209605,Gasoline,Automatic,1678.95
+Toyota,RAV4,2019,86976,Gasoline,Automatic,8448.99
+Nissan,Rogue,2020,86018,Gasoline,Automatic,7605.97
+Nissan,Altima,2018,129165,Hybrid,Automatic,6435.45
+Chevrolet,Silverado,2025,14220,Gasoline,Automatic,23390.0
+Tesla,Model Y,2019,77071,Electric,Automatic,14444.1
+Toyota,Camry,2013,172429,Gasoline,Manual,2974.36
+Nissan,Altima,2014,89307,Diesel,Automatic,3117.0
+Honda,Accord,2013,133825,Gasoline,Automatic,2314.15
+Chevrolet,Tahoe,2024,12354,Gasoline,Automatic,16769.78
+Honda,Pilot,2010,169865,Hybrid,Automatic,1435.64
+Mercedes-Benz,C-Class,2019,127340,Gasoline,Automatic,16161.84
+Honda,Civic,2019,47661,Hybrid,Automatic,7572.66
+Mazda,CX-9,2022,41074,Gasoline,Automatic,14683.38
+Tesla,Model Y,2011,180057,Electric,Automatic,4012.19
+Chevrolet,Tahoe,2010,67490,Gasoline,Automatic,2186.05
+Nissan,Sentra,2012,121136,Gasoline,Automatic,2170.53
+Chevrolet,Equinox,2018,76107,Gasoline,Automatic,6374.55
+Honda,CR-V,2025,10240,Gasoline,Automatic,21643.96
+Mazda,Mazda3,2014,140571,Gasoline,Automatic,3066.09
+Chevrolet,Malibu,2023,43811,Diesel,Automatic,15187.08
+Honda,Accord,2025,14899,Hybrid,Automatic,21705.88
+Tesla,Model S,2023,43493,Electric,Manual,29069.17
+Ford,Explorer,2014,157572,Diesel,Manual,3233.82
+Tesla,Model 3,2013,152877,Electric,Automatic,4959.47
+Chevrolet,Silverado,2022,67602,Gasoline,Automatic,12446.86
+BMW,5 Series,2015,116015,Gasoline,Automatic,6910.95
+Chevrolet,Equinox,2017,116414,Gasoline,Manual,5055.08
+Mazda,CX-9,2014,176589,Gasoline,Automatic,2735.58
+BMW,3 Series,2012,201011,Hybrid,Automatic,4558.79
+Mercedes-Benz,E-Class,2023,25764,Gasoline,Automatic,30720.38
+BMW,X3,2014,132674,Diesel,Manual,4909.34
+BMW,X5,2023,43440,Gasoline,Automatic,27973.79
+Mazda,CX-5,2016,111984,Gasoline,Automatic,3821.49
+Ford,Mustang,2013,199786,Gasoline,Automatic,3246.04
+Mercedes-Benz,GLE,2020,93153,Hybrid,Automatic,19720.03
+BMW,X3,2018,123603,Gasoline,Automatic,10530.53
+Chevrolet,Malibu,2018,152696,Gasoline,Automatic,5984.26
+Chevrolet,Tahoe,2020,59080,Diesel,Automatic,10021.89
+Hyundai,Elantra,2019,94890,Gasoline,Automatic,7372.09
+Mazda,Mazda3,2010,112887,Gasoline,Automatic,1718.65
+Mercedes-Benz,GLE,2015,151582,Gasoline,Automatic,6417.26
+Mercedes-Benz,C-Class,2014,162330,Diesel,Automatic,6978.07
+BMW,5 Series,2023,48554,Gasoline,Automatic,28793.57
+Chevrolet,Malibu,2023,37665,Gasoline,Manual,17063.14
+Hyundai,Tucson,2013,116661,Diesel,Manual,2068.56
+Hyundai,Santa Fe,2019,106020,Gasoline,Manual,5565.99
+Nissan,Sentra,2023,16613,Gasoline,Automatic,13190.47
+Mercedes-Benz,C-Class,2026,255,Diesel,Automatic,49595.41
+Hyundai,Elantra,2012,145567,Gasoline,Automatic,1806.29
+Nissan,Sentra,2011,255365,Hybrid,Automatic,1547.49
+Tesla,Model Y,2023,23455,Electric,Manual,28216.12
+Nissan,Rogue,2016,101190,Gasoline,Automatic,3693.52
+Tesla,Model 3,2014,171935,Electric,Automatic,6309.96
+Honda,Pilot,2010,204029,Gasoline,Automatic,1729.73
+Nissan,Sentra,2021,41560,Gasoline,Automatic,11139.78
+Ford,F-150,2015,93338,Gasoline,Automatic,4495.8
+Tesla,Model 3,2024,22655,Electric,Automatic,38004.81
+Ford,Mustang,2011,138648,Diesel,Manual,2042.19
+Ford,Mustang,2010,147857,Gasoline,Automatic,1744.98
+Toyota,Tacoma,2023,34498,Gasoline,Automatic,16653.32
+Nissan,Altima,2013,160014,Hybrid,Automatic,2524.4
+Mercedes-Benz,GLE,2025,7791,Hybrid,Automatic,47492.24
+Honda,Pilot,2015,104915,Hybrid,Automatic,3750.55
+Chevrolet,Equinox,2012,174617,Gasoline,Automatic,2198.15
+Ford,F-150,2013,143670,Gasoline,Manual,3236.07
+Honda,Pilot,2025,16062,Gasoline,Automatic,20605.0
+Mercedes-Benz,GLC,2015,154644,Gasoline,Automatic,6996.96
+Nissan,Altima,2017,105165,Diesel,Automatic,5292.56
+Hyundai,Elantra,2010,323424,Hybrid,Automatic,1341.25
+Chevrolet,Tahoe,2011,195858,Hybrid,Automatic,1885.76
+Hyundai,Santa Fe,2011,201095,Gasoline,Manual,1614.33
+Honda,Pilot,2010,271231,Diesel,Automatic,1791.52
+Hyundai,Elantra,2019,111184,Gasoline,Automatic,5925.89
+Mercedes-Benz,E-Class,2024,37398,Diesel,Manual,34578.32
+Chevrolet,Malibu,2024,33730,Gasoline,Automatic,19919.49
+Honda,CR-V,2014,103116,Gasoline,Automatic,3308.09
+Hyundai,Santa Fe,2011,194083,Gasoline,Automatic,1853.02
+BMW,X5,2021,43967,Gasoline,Automatic,21103.81
+Mercedes-Benz,C-Class,2024,23706,Gasoline,Automatic,36570.84
+Ford,Mustang,2016,112571,Hybrid,Automatic,4474.36
+Mercedes-Benz,E-Class,2010,168614,Gasoline,Manual,2945.31
+Tesla,Model Y,2017,127092,Electric,Automatic,9227.8
+Ford,Mustang,2023,28948,Gasoline,Automatic,19630.1
+Nissan,Rogue,2013,157010,Gasoline,Automatic,2733.37
+Chevrolet,Malibu,2025,19102,Hybrid,Automatic,21222.22
+Ford,Escape,2022,46615,Diesel,Manual,13749.14
+Chevrolet,Tahoe,2014,182685,Hybrid,Automatic,3348.46
+Mercedes-Benz,GLC,2021,66076,Gasoline,Automatic,21316.51
+Mercedes-Benz,GLC,2026,0,Diesel,Automatic,58734.89
+Toyota,Highlander,2020,80454,Diesel,Automatic,9540.86
+Hyundai,Tucson,2015,134415,Hybrid,Automatic,3693.83
+Mercedes-Benz,E-Class,2021,54822,Gasoline,Automatic,22402.03
+Mazda,CX-9,2022,54328,Gasoline,Automatic,14362.97
+BMW,3 Series,2026,0,Hybrid,Automatic,54206.98
+Mazda,CX-9,2017,107347,Gasoline,Automatic,5109.38
+Ford,Mustang,2015,88419,Gasoline,Automatic,3833.57
+Nissan,Rogue,2018,90074,Gasoline,Automatic,6624.51
+Toyota,Tacoma,2019,68766,Gasoline,Automatic,8617.7
+Chevrolet,Malibu,2017,121260,Gasoline,Automatic,6036.76
+Toyota,Highlander,2024,37351,Gasoline,Automatic,17226.3
+Honda,Accord,2014,115007,Gasoline,Automatic,3481.97
+Hyundai,Santa Fe,2025,13994,Gasoline,Automatic,18339.74
+Mazda,CX-5,2019,49190,Gasoline,Automatic,7371.95
+Nissan,Sentra,2026,0,Gasoline,Automatic,26480.73
+Honda,Accord,2020,85243,Diesel,Automatic,8519.72
+Ford,Explorer,2022,49644,Hybrid,Manual,14014.0
+Mercedes-Benz,E-Class,2026,0,Gasoline,Automatic,60774.6
+Chevrolet,Equinox,2011,197702,Gasoline,Automatic,1783.15
+Toyota,Corolla,2024,28854,Diesel,Automatic,21069.68
+Mazda,CX-9,2018,92525,Gasoline,Automatic,6759.61
+Toyota,Highlander,2017,113901,Gasoline,Automatic,5733.04
+BMW,5 Series,2019,95208,Gasoline,Automatic,15698.73
+Toyota,Camry,2023,36134,Diesel,Automatic,15388.13
+Toyota,RAV4,2016,115491,Gasoline,Automatic,4028.26
+Tesla,Model Y,2018,82128,Electric,Automatic,13268.46
+Mercedes-Benz,GLC,2012,142358,Gasoline,Automatic,4809.71
+Tesla,Model S,2019,63390,Electric,Manual,14374.9
+BMW,3 Series,2014,168758,Diesel,Automatic,5742.35
+Toyota,Corolla,2017,125999,Gasoline,Automatic,5828.83
+Tesla,Model S,2025,5047,Electric,Automatic,44495.55
+Toyota,Tacoma,2025,23293,Gasoline,Manual,25302.39
+Chevrolet,Silverado,2025,9172,Gasoline,Automatic,20597.77
+Hyundai,Elantra,2025,13349,Gasoline,Manual,18321.74
+Mazda,CX-9,2015,69252,Gasoline,Manual,3705.18
+Tesla,Model S,2017,75114,Electric,Automatic,9176.63
+Hyundai,Tucson,2017,135822,Gasoline,Automatic,4449.32
+Honda,Civic,2026,3562,Gasoline,Automatic,25834.95
+Honda,Pilot,2013,171143,Diesel,Automatic,2712.03
+Tesla,Model 3,2013,174212,Electric,Manual,4697.41
+Hyundai,Elantra,2011,186563,Gasoline,Automatic,1674.22
+Toyota,RAV4,2022,35558,Gasoline,Automatic,11956.34
+Tesla,Model S,2015,155578,Electric,Automatic,7176.71
+Toyota,Corolla,2017,83758,Gasoline,Automatic,5866.57
+Tesla,Model Y,2021,65851,Electric,Automatic,23952.65
+Toyota,Camry,2015,135882,Gasoline,Automatic,3722.45
+BMW,X3,2022,52401,Gasoline,Manual,26485.56
+Honda,Accord,2024,36805,Gasoline,Manual,17125.9
+BMW,5 Series,2023,36506,Diesel,Manual,28058.29
+Ford,Mustang,2019,66842,Gasoline,Automatic,9393.43
+Honda,Accord,2024,23712,Diesel,Automatic,20526.53
+Honda,CR-V,2015,171325,Gasoline,Automatic,3647.04
+Chevrolet,Silverado,2011,125852,Gasoline,Automatic,1925.6
+Nissan,Altima,2013,106153,Diesel,Automatic,2878.9
+Mercedes-Benz,E-Class,2012,252145,Gasoline,Automatic,5004.93
+BMW,5 Series,2018,135959,Gasoline,Manual,9477.81
+BMW,X3,2012,190362,Gasoline,Automatic,3606.98
+Honda,Accord,2016,128722,Hybrid,Automatic,4546.6
+Hyundai,Santa Fe,2011,189593,Diesel,Automatic,1865.53
+Ford,Escape,2022,34421,Hybrid,Manual,13355.2
+Toyota,Corolla,2020,82967,Gasoline,Automatic,10169.33
+Honda,CR-V,2010,230832,Diesel,Automatic,1815.81
+Ford,Mustang,2014,193636,Gasoline,Automatic,3311.02
+Ford,Escape,2019,77392,Gasoline,Automatic,8089.27
+Tesla,Model 3,2016,137958,Electric,Manual,7430.9
+Ford,Explorer,2020,101694,Gasoline,Automatic,10396.22
+Mercedes-Benz,GLE,2024,30652,Hybrid,Automatic,36337.12
+Hyundai,Elantra,2025,3304,Hybrid,Manual,18951.71
+Mercedes-Benz,E-Class,2020,48781,Gasoline,Automatic,19933.72
+Nissan,Altima,2015,119202,Gasoline,Automatic,3672.6
+Honda,CR-V,2018,91018,Diesel,Manual,7325.73
+Toyota,Highlander,2017,99465,Gasoline,Automatic,5275.52
+Chevrolet,Malibu,2016,144725,Gasoline,Automatic,5077.59
+Nissan,Rogue,2018,132371,Diesel,Automatic,5582.26
+Mazda,Mazda3,2014,120372,Gasoline,Automatic,2853.3
+Honda,Pilot,2025,18109,Hybrid,Automatic,24017.15
+Toyota,Tacoma,2025,13544,Gasoline,Automatic,20396.09
+Tesla,Model 3,2022,88717,Electric,Automatic,20803.04
+BMW,X5,2023,28875,Gasoline,Automatic,31918.14
+Honda,CR-V,2026,1004,Gasoline,Automatic,24402.76
+Nissan,Altima,2025,11487,Gasoline,Automatic,22441.24
+Mazda,CX-5,2015,119142,Gasoline,Automatic,3034.84
+Toyota,RAV4,2020,101310,Gasoline,Manual,9662.72
+Nissan,Rogue,2025,3033,Gasoline,Automatic,19012.14
+Chevrolet,Malibu,2026,3604,Gasoline,Manual,32951.14
+BMW,X5,2023,28085,Gasoline,Automatic,32529.51
+Ford,F-150,2023,28683,Gasoline,Automatic,15512.9
+Honda,CR-V,2014,160295,Gasoline,Automatic,3025.86
+Nissan,Sentra,2011,133375,Gasoline,Automatic,1857.72
+Toyota,RAV4,2025,15911,Diesel,Manual,19991.57
+Hyundai,Tucson,2015,136488,Gasoline,Automatic,3105.71
+Toyota,Highlander,2019,62137,Gasoline,Automatic,7453.01
+Chevrolet,Equinox,2026,0,Gasoline,Automatic,25387.41
+Toyota,Tacoma,2026,0,Gasoline,Automatic,31162.48
+Honda,Pilot,2023,38161,Hybrid,Automatic,13436.6
+Hyundai,Tucson,2023,21723,Gasoline,Automatic,15571.99
+Honda,Pilot,2018,62397,Gasoline,Automatic,7241.65
+Chevrolet,Silverado,2013,154808,Gasoline,Automatic,2796.98
+Ford,Mustang,2013,114648,Gasoline,Manual,2810.89
+Mazda,CX-9,2025,10747,Gasoline,Automatic,23792.79
+Toyota,Corolla,2016,87584,Gasoline,Automatic,4817.76
+Hyundai,Santa Fe,2016,104659,Gasoline,Automatic,3394.76
+Chevrolet,Silverado,2017,115163,Gasoline,Automatic,5046.46
+Nissan,Rogue,2017,139783,Gasoline,Automatic,4759.92
+Mercedes-Benz,GLE,2024,38123,Gasoline,Automatic,34046.1
+Mazda,CX-9,2017,110649,Gasoline,Automatic,4244.57
+BMW,5 Series,2025,8774,Diesel,Automatic,37131.06
+Chevrolet,Malibu,2025,22557,Gasoline,Manual,20575.21
+Honda,Civic,2017,176049,Gasoline,Automatic,5317.95
+Mercedes-Benz,C-Class,2026,0,Diesel,Automatic,62017.94
+Mercedes-Benz,GLC,2011,151126,Gasoline,Automatic,3311.94
+BMW,X5,2015,132430,Gasoline,Automatic,6248.63
+Honda,CR-V,2017,141766,Gasoline,Manual,4478.72
+Honda,CR-V,2010,156160,Hybrid,Automatic,1568.9
+Tesla,Model 3,2025,7739,Electric,Automatic,40348.3
+Tesla,Model S,2010,137202,Electric,Automatic,3280.73
+Mercedes-Benz,GLC,2014,92562,Gasoline,Automatic,7578.14
+Hyundai,Santa Fe,2019,53931,Gasoline,Automatic,6401.04
+Nissan,Altima,2025,18671,Gasoline,Automatic,22931.62
+Nissan,Rogue,2010,133403,Gasoline,Manual,1509.37
+BMW,5 Series,2019,93130,Gasoline,Automatic,14146.18
+Nissan,Rogue,2010,186138,Gasoline,Automatic,1767.57
+BMW,3 Series,2024,34741,Gasoline,Automatic,34404.45
+Tesla,Model S,2011,158339,Electric,Automatic,3376.31
+Mazda,Mazda3,2019,109056,Hybrid,Automatic,6816.77
+Mercedes-Benz,C-Class,2014,155210,Gasoline,Automatic,5606.75
+Hyundai,Tucson,2018,77439,Gasoline,Automatic,6361.34
+Nissan,Altima,2014,154454,Gasoline,Automatic,3013.79
+BMW,5 Series,2026,0,Gasoline,Manual,48750.39
+Tesla,Model 3,2020,87735,Electric,Automatic,17478.49
+Honda,CR-V,2026,8693,Gasoline,Automatic,27510.15
+Nissan,Altima,2024,24361,Gasoline,Automatic,15973.15
+BMW,X5,2026,0,Gasoline,Automatic,50431.12
+Nissan,Altima,2018,106680,Diesel,Automatic,5333.65
+Ford,Escape,2015,97768,Gasoline,Automatic,4245.3
+Nissan,Rogue,2015,94431,Gasoline,Automatic,4316.63
+Honda,Civic,2020,64335,Gasoline,Automatic,10962.4
+Tesla,Model Y,2026,0,Electric,Automatic,53134.26
+Toyota,Corolla,2022,29028,Gasoline,Automatic,14036.31
+Mercedes-Benz,GLE,2015,79693,Gasoline,Automatic,8352.02
+BMW,X3,2018,84521,Diesel,Automatic,12872.28
+Ford,Mustang,2019,115324,Gasoline,Automatic,8115.84
+Honda,Civic,2011,91276,Hybrid,Automatic,1951.85
+Tesla,Model S,2015,123695,Electric,Automatic,6172.2
+Hyundai,Santa Fe,2013,183700,Gasoline,Automatic,2274.99
+Ford,Escape,2016,23170,Diesel,Automatic,5800.37
+Chevrolet,Malibu,2010,223754,Gasoline,Manual,1860.45
+Tesla,Model S,2023,40969,Electric,Manual,34418.72
+Hyundai,Tucson,2020,77924,Gasoline,Automatic,8140.06
+Nissan,Altima,2026,4889,Gasoline,Automatic,27597.34
+Nissan,Sentra,2018,60138,Gasoline,Automatic,6833.48
+Chevrolet,Malibu,2017,110667,Gasoline,Manual,5989.75
+Hyundai,Santa Fe,2017,103464,Hybrid,Automatic,4921.49
+Hyundai,Elantra,2021,62735,Gasoline,Automatic,9816.9
+Tesla,Model S,2013,123441,Electric,Automatic,5620.24
+Ford,F-150,2022,37168,Gasoline,Automatic,13355.26
+Nissan,Rogue,2018,136916,Gasoline,Automatic,6480.53
+Hyundai,Santa Fe,2012,117494,Gasoline,Automatic,1993.09
+Ford,F-150,2025,0,Hybrid,Automatic,24984.39
+Tesla,Model 3,2021,70291,Electric,Automatic,23531.92
+Tesla,Model S,2013,199953,Electric,Manual,4908.12
+Tesla,Model S,2026,0,Electric,Automatic,47294.13
+Honda,Civic,2021,53256,Gasoline,Manual,11540.78
+Toyota,Highlander,2015,163336,Gasoline,Manual,4094.5
+Nissan,Altima,2013,104314,Gasoline,Automatic,2482.02
+Mercedes-Benz,GLE,2020,73762,Gasoline,Automatic,16830.5
+Hyundai,Santa Fe,2026,2029,Gasoline,Automatic,27522.64
+Ford,Explorer,2014,184013,Gasoline,Manual,3746.69
+Honda,CR-V,2020,47604,Gasoline,Automatic,9731.36
+BMW,X3,2019,93047,Diesel,Automatic,13188.01
+Mercedes-Benz,GLE,2025,9066,Gasoline,Automatic,49632.61
+Chevrolet,Tahoe,2016,98744,Diesel,Automatic,4245.15
+Honda,Pilot,2016,118526,Gasoline,Automatic,4393.46
+Tesla,Model 3,2025,8787,Electric,Automatic,46392.86
+Ford,Mustang,2016,124742,Gasoline,Automatic,4555.7
+Ford,Mustang,2021,52715,Gasoline,Automatic,11954.83
+Hyundai,Tucson,2020,72433,Gasoline,Automatic,8065.65
+Chevrolet,Equinox,2019,52291,Hybrid,Automatic,8866.03
+Toyota,Tacoma,2010,214848,Gasoline,Automatic,1511.05
+Hyundai,Tucson,2017,92088,Gasoline,Manual,4582.89
+Tesla,Model 3,2024,34063,Electric,Automatic,36377.65
+Mazda,CX-9,2011,163755,Hybrid,Automatic,1751.33
+Chevrolet,Equinox,2012,145813,Gasoline,Automatic,2280.87
+Mercedes-Benz,GLE,2011,186480,Gasoline,Automatic,3780.51
+Tesla,Model Y,2010,167391,Electric,Automatic,3498.88
+Tesla,Model S,2026,901,Electric,Automatic,46518.41
+Honda,Pilot,2011,165406,Gasoline,Manual,2134.97
+BMW,5 Series,2014,101600,Gasoline,Automatic,5658.08
+Ford,F-150,2020,82484,Hybrid,Automatic,9761.62
+Toyota,RAV4,2022,33188,Gasoline,Automatic,15487.89
+Tesla,Model Y,2025,15324,Electric,Automatic,44516.78
+Mercedes-Benz,GLE,2012,134933,Diesel,Manual,4192.23
+Honda,Pilot,2025,6622,Gasoline,Automatic,23276.04
+Mazda,Mazda3,2011,233978,Gasoline,Automatic,1755.25
+Chevrolet,Silverado,2015,95973,Gasoline,Automatic,3778.89
+Honda,Accord,2022,44240,Gasoline,Manual,14774.09
+Ford,Escape,2023,33002,Gasoline,Automatic,19913.71
+Mazda,CX-9,2020,94438,Hybrid,Manual,8227.21
+Nissan,Sentra,2010,173974,Gasoline,Automatic,1707.94
+Tesla,Model Y,2016,103559,Electric,Automatic,8758.03
+Chevrolet,Tahoe,2022,49053,Gasoline,Automatic,14007.31
+Honda,Civic,2017,70407,Gasoline,Automatic,6555.49
+Tesla,Model 3,2021,47127,Electric,Automatic,23367.51
+Toyota,Tacoma,2011,218511,Hybrid,Automatic,1952.35
+BMW,X5,2025,9060,Gasoline,Automatic,43593.02
+Chevrolet,Equinox,2021,13860,Gasoline,Manual,11282.14
+Tesla,Model Y,2019,60313,Electric,Automatic,16641.57
+Honda,Accord,2019,75123,Gasoline,Automatic,8090.64
+Chevrolet,Silverado,2016,104344,Gasoline,Automatic,4648.87
+Tesla,Model S,2020,72666,Electric,Automatic,21316.54
+Ford,Mustang,2016,133490,Gasoline,Automatic,4418.86
+Tesla,Model Y,2023,34779,Electric,Automatic,34310.7
+Toyota,Camry,2026,0,Hybrid,Automatic,30369.65
+Nissan,Altima,2019,61275,Hybrid,Manual,7115.14
+Tesla,Model 3,2025,980,Electric,Automatic,39380.53
+Chevrolet,Malibu,2019,80947,Gasoline,Automatic,9170.85
+Hyundai,Tucson,2016,146674,Gasoline,Automatic,3329.62
+Honda,Civic,2018,128625,Gasoline,Automatic,5768.77
+BMW,5 Series,2024,31507,Gasoline,Automatic,37422.64
+Chevrolet,Malibu,2025,20007,Gasoline,Automatic,19987.49
+Chevrolet,Malibu,2014,146367,Gasoline,Automatic,3284.7
+Chevrolet,Equinox,2014,146491,Gasoline,Automatic,3536.18
+Honda,CR-V,2026,0,Hybrid,Manual,30074.46
+Nissan,Sentra,2011,217459,Gasoline,Automatic,2049.22
+Hyundai,Elantra,2020,45820,Hybrid,Automatic,9566.14
+Hyundai,Elantra,2015,177844,Gasoline,Automatic,2767.57
+Tesla,Model 3,2022,57761,Electric,Automatic,23039.84
+Tesla,Model Y,2017,128431,Electric,Automatic,10526.66
+Chevrolet,Tahoe,2021,38648,Gasoline,Automatic,12138.46
+Mazda,CX-5,2018,97663,Gasoline,Automatic,6001.51
+Chevrolet,Malibu,2020,75386,Gasoline,Manual,9940.81
+Chevrolet,Equinox,2025,12212,Hybrid,Automatic,21219.78
+Hyundai,Santa Fe,2018,101046,Gasoline,Automatic,5102.08
+Toyota,RAV4,2017,81838,Gasoline,Automatic,4845.33
+Honda,Civic,2016,148916,Gasoline,Automatic,3933.98
+Tesla,Model 3,2017,100524,Electric,Manual,10330.1
+Nissan,Altima,2013,122166,Hybrid,Automatic,2291.22
+Hyundai,Tucson,2022,43601,Hybrid,Automatic,11194.05
+Honda,Accord,2022,47192,Gasoline,Automatic,11581.4
+Tesla,Model Y,2011,183681,Electric,Automatic,3213.1
+Chevrolet,Malibu,2024,25522,Gasoline,Automatic,18218.44
+Toyota,Highlander,2022,67231,Gasoline,Automatic,12720.86
+Chevrolet,Silverado,2023,24924,Gasoline,Automatic,17174.15
+Mazda,CX-5,2023,29968,Hybrid,Automatic,16555.81
+Ford,Escape,2013,99836,Gasoline,Automatic,2799.2
+Toyota,Camry,2014,70942,Gasoline,Automatic,3354.87
+Tesla,Model 3,2015,153400,Electric,Automatic,7298.26
+Honda,Pilot,2021,68334,Gasoline,Automatic,12209.33
+Tesla,Model S,2014,179551,Electric,Automatic,6708.29
+Toyota,Tacoma,2017,164137,Gasoline,Automatic,5563.49
+Tesla,Model Y,2020,94564,Electric,Automatic,16291.21
+Nissan,Sentra,2017,70249,Gasoline,Automatic,5924.36
+Ford,Mustang,2021,59692,Gasoline,Manual,11393.0
+Chevrolet,Tahoe,2020,85977,Gasoline,Automatic,10771.44
+Toyota,Camry,2013,156847,Hybrid,Automatic,2717.64
+Toyota,Camry,2018,80561,Gasoline,Manual,5820.81
+Chevrolet,Tahoe,2010,235032,Gasoline,Automatic,1797.79
+Ford,Explorer,2013,182164,Gasoline,Automatic,2514.76
+Hyundai,Santa Fe,2011,222988,Gasoline,Automatic,1772.44
+Hyundai,Santa Fe,2011,85000,Gasoline,Manual,1965.56
+BMW,X3,2023,32158,Gasoline,Automatic,31749.38
+Honda,Civic,2010,174040,Gasoline,Automatic,1749.11
+Toyota,Corolla,2018,88445,Hybrid,Automatic,5701.15
+Nissan,Rogue,2025,16202,Gasoline,Manual,18999.7
+Chevrolet,Tahoe,2013,161343,Gasoline,Automatic,2922.37
+Mercedes-Benz,E-Class,2024,25494,Gasoline,Manual,36282.27
+Ford,Mustang,2022,42075,Gasoline,Automatic,14996.08
+Mercedes-Benz,E-Class,2011,40464,Gasoline,Manual,4410.35
+BMW,5 Series,2019,83754,Gasoline,Automatic,13796.05
+Toyota,Highlander,2011,229344,Gasoline,Manual,2230.51
+Ford,Mustang,2016,87075,Diesel,Automatic,5853.0
+Toyota,Camry,2025,18907,Hybrid,Automatic,23776.15
+Mazda,Mazda3,2021,16451,Gasoline,Automatic,12381.79
+Nissan,Rogue,2022,36492,Gasoline,Automatic,12304.98
+Ford,Mustang,2015,177812,Diesel,Manual,3516.09
+BMW,X3,2013,109241,Gasoline,Automatic,4467.81
+Toyota,Corolla,2025,0,Gasoline,Automatic,25619.91
+Mercedes-Benz,GLC,2012,169492,Gasoline,Automatic,4432.44
+Chevrolet,Silverado,2018,115028,Gasoline,Automatic,7095.86
+Chevrolet,Equinox,2026,0,Gasoline,Manual,25499.21
+Chevrolet,Malibu,2021,73083,Hybrid,Automatic,12545.3
+BMW,X5,2017,100549,Gasoline,Automatic,9003.24
+BMW,3 Series,2022,62572,Hybrid,Automatic,23755.99
+BMW,X5,2025,14294,Gasoline,Automatic,35996.63
+Toyota,Tacoma,2023,37832,Gasoline,Automatic,17797.2
+Chevrolet,Silverado,2019,82358,Gasoline,Automatic,8625.5
+Ford,Mustang,2019,94270,Hybrid,Automatic,9028.99
+Toyota,Highlander,2013,168242,Hybrid,Automatic,3049.77
+Toyota,Corolla,2023,49136,Hybrid,Automatic,18601.33
+Toyota,Tacoma,2013,181530,Gasoline,Manual,2585.59
+Hyundai,Elantra,2018,127118,Gasoline,Automatic,5908.64
+Honda,Accord,2025,11355,Gasoline,Automatic,23267.34
+Hyundai,Santa Fe,2026,1737,Gasoline,Automatic,21614.12
+Hyundai,Tucson,2011,131378,Hybrid,Automatic,1589.44
+Hyundai,Santa Fe,2025,2670,Gasoline,Automatic,18587.5
+Tesla,Model S,2019,103200,Electric,Automatic,13802.05
+Ford,Explorer,2011,143262,Gasoline,Automatic,2204.17
+Mercedes-Benz,E-Class,2010,212158,Gasoline,Automatic,3245.59
+Chevrolet,Silverado,2010,190367,Gasoline,Automatic,1560.77
+Honda,Pilot,2025,11796,Gasoline,Automatic,21103.74
+Honda,CR-V,2013,163571,Gasoline,Automatic,2880.59
+Mercedes-Benz,GLC,2026,0,Gasoline,Manual,49218.36
+Nissan,Altima,2017,51115,Diesel,Automatic,5981.43
+Tesla,Model S,2010,261848,Electric,Automatic,2884.34
+Mazda,CX-9,2024,12360,Gasoline,Automatic,17981.35
+BMW,X3,2017,96412,Gasoline,Automatic,8826.52
+Honda,Accord,2026,0,Hybrid,Automatic,27902.62
+Nissan,Rogue,2025,10044,Hybrid,Automatic,23093.28
+Nissan,Altima,2025,12173,Gasoline,Automatic,20535.08
+Hyundai,Tucson,2012,80175,Gasoline,Automatic,2448.76
+Mercedes-Benz,C-Class,2015,125755,Gasoline,Automatic,8290.02
+Chevrolet,Tahoe,2017,101032,Gasoline,Automatic,5596.82
+Tesla,Model S,2010,228501,Electric,Automatic,3396.1
+Mercedes-Benz,GLE,2019,66271,Diesel,Automatic,18852.64
+Hyundai,Tucson,2017,115297,Diesel,Automatic,4867.39
+Hyundai,Tucson,2017,117508,Gasoline,Automatic,4323.55
+Tesla,Model 3,2017,86813,Electric,Automatic,10354.3
+Toyota,Camry,2012,177954,Diesel,Automatic,2218.57
+Hyundai,Tucson,2024,31143,Gasoline,Automatic,15704.7
+Chevrolet,Silverado,2020,88124,Gasoline,Automatic,10315.87
+Ford,Escape,2015,136951,Hybrid,Automatic,3731.3
+Mercedes-Benz,GLE,2013,188256,Hybrid,Automatic,5634.75
+Chevrolet,Tahoe,2012,189685,Diesel,Automatic,2200.02
+Mazda,CX-5,2022,63538,Gasoline,Automatic,13690.7
+Tesla,Model 3,2014,132424,Electric,Automatic,6781.26
+Mazda,CX-9,2023,44837,Gasoline,Manual,13656.87
+Honda,Pilot,2010,185287,Gasoline,Automatic,1484.62
+Hyundai,Tucson,2010,196711,Gasoline,Automatic,1300.69
+Nissan,Altima,2019,84433,Gasoline,Automatic,7564.39
+Honda,CR-V,2025,7300,Gasoline,Automatic,21355.94
+Ford,Mustang,2019,124210,Gasoline,Automatic,7640.64
+BMW,X3,2015,159285,Gasoline,Automatic,7029.65
+Mazda,CX-5,2013,159264,Diesel,Automatic,2679.52
+Mazda,Mazda3,2015,121626,Gasoline,Manual,3666.61
+Chevrolet,Tahoe,2015,115323,Hybrid,Automatic,4072.44
+Honda,CR-V,2026,2535,Gasoline,Automatic,24870.04
+Nissan,Sentra,2024,17675,Gasoline,Manual,19309.32
+Toyota,Tacoma,2010,185794,Gasoline,Automatic,1821.69
+Honda,Civic,2019,98999,Gasoline,Automatic,7833.72
+Hyundai,Elantra,2014,127691,Gasoline,Manual,2584.11
+Ford,Explorer,2020,90000,Diesel,Manual,8674.0
+Hyundai,Santa Fe,2015,144988,Gasoline,Automatic,3006.01
+Nissan,Rogue,2018,142316,Gasoline,Manual,5597.67
+Honda,CR-V,2010,225974,Gasoline,Automatic,1744.85
+Chevrolet,Tahoe,2017,109037,Gasoline,Manual,5672.92
+Ford,F-150,2023,51233,Gasoline,Automatic,18687.79
+Honda,Accord,2017,82714,Gasoline,Automatic,4666.03
+Honda,Civic,2023,41222,Gasoline,Automatic,16913.18
+BMW,3 Series,2012,221080,Gasoline,Automatic,4569.61
+Ford,Escape,2013,193855,Gasoline,Automatic,3236.09
+Toyota,Highlander,2015,141739,Gasoline,Automatic,3467.92
+Tesla,Model Y,2024,25878,Electric,Automatic,33026.62
+Tesla,Model Y,2023,30046,Electric,Automatic,31854.5
+Hyundai,Santa Fe,2025,12407,Diesel,Automatic,17470.97
+Hyundai,Elantra,2012,209963,Gasoline,Automatic,2061.29
+Toyota,Corolla,2018,70032,Gasoline,Automatic,6407.65
+Hyundai,Tucson,2021,53609,Gasoline,Manual,10703.73
+Honda,Accord,2025,13531,Gasoline,Automatic,22573.01
+Mercedes-Benz,GLC,2014,164131,Gasoline,Automatic,5661.34
+Chevrolet,Silverado,2013,129931,Gasoline,Automatic,2860.15
+Toyota,Tacoma,2022,38216,Gasoline,Automatic,12924.38
+Ford,Mustang,2020,64368,Gasoline,Automatic,11166.87
+Tesla,Model 3,2013,173205,Electric,Automatic,5013.6
+Nissan,Altima,2013,100044,Gasoline,Automatic,2541.17
+Mazda,CX-5,2025,15517,Gasoline,Manual,22655.61
+Tesla,Model 3,2023,36718,Electric,Automatic,30626.69
+BMW,X3,2023,45370,Diesel,Automatic,27989.8
+Nissan,Altima,2019,63447,Gasoline,Automatic,6975.42
+Toyota,Corolla,2016,96685,Hybrid,Automatic,5188.0
+Hyundai,Santa Fe,2015,100117,Gasoline,Automatic,2767.44
+Ford,Escape,2015,74549,Gasoline,Manual,4075.58
+Hyundai,Santa Fe,2022,45783,Hybrid,Automatic,11459.85
+Toyota,Corolla,2018,112377,Diesel,Automatic,6448.12
+BMW,3 Series,2012,146784,Gasoline,Automatic,4288.38
+BMW,X3,2022,40110,Gasoline,Automatic,26583.26
+Mercedes-Benz,GLE,2011,192248,Gasoline,Automatic,3522.44
+BMW,X5,2010,76518,Diesel,Manual,2710.09
+Mercedes-Benz,C-Class,2021,73966,Gasoline,Automatic,20746.92
+Toyota,Camry,2014,167590,Gasoline,Automatic,3392.44
+Ford,F-150,2024,32176,Hybrid,Automatic,21202.73
+Toyota,RAV4,2014,161373,Gasoline,Automatic,2785.79
+Mercedes-Benz,E-Class,2010,273986,Gasoline,Automatic,3181.11
+Hyundai,Elantra,2018,98280,Gasoline,Automatic,5562.7
+Hyundai,Santa Fe,2015,111881,Gasoline,Manual,2796.13
+Nissan,Altima,2011,231604,Gasoline,Automatic,1604.16
+Hyundai,Elantra,2013,146627,Gasoline,Manual,2078.83
+Chevrolet,Equinox,2013,182607,Gasoline,Automatic,2403.88
+Hyundai,Santa Fe,2019,104681,Gasoline,Automatic,7014.53
+Honda,Civic,2018,85402,Gasoline,Automatic,5535.65
+Ford,Escape,2025,6519,Gasoline,Automatic,20902.68
+Hyundai,Tucson,2023,27069,Gasoline,Automatic,14339.78
+Mazda,CX-9,2020,88578,Gasoline,Automatic,7605.0
+Ford,Escape,2016,108496,Gasoline,Automatic,5119.81
+Nissan,Rogue,2019,52264,Gasoline,Manual,8610.54
+Chevrolet,Silverado,2026,0,Diesel,Automatic,26704.7
+Chevrolet,Tahoe,2013,231350,Diesel,Automatic,2518.08
+Tesla,Model S,2026,0,Electric,Automatic,55031.72
+Nissan,Altima,2023,37531,Gasoline,Automatic,12828.42
+Mercedes-Benz,E-Class,2018,92947,Hybrid,Automatic,11755.74
+BMW,5 Series,2021,48342,Gasoline,Automatic,19137.88
+Nissan,Altima,2023,29589,Gasoline,Automatic,16476.6
+Honda,Civic,2017,59544,Gasoline,Automatic,6457.42
+Mercedes-Benz,GLC,2025,10158,Gasoline,Manual,49406.31
+Mercedes-Benz,E-Class,2021,62205,Gasoline,Manual,24146.63
+Mazda,CX-9,2018,113440,Diesel,Automatic,5070.45
+Tesla,Model Y,2024,19855,Electric,Automatic,37092.73
+Mazda,CX-9,2012,128766,Hybrid,Automatic,2136.16
+Nissan,Rogue,2013,151216,Hybrid,Automatic,2603.45
+Toyota,Camry,2022,45531,Gasoline,Automatic,12849.57
+Mercedes-Benz,C-Class,2013,219912,Gasoline,Automatic,5005.08
+BMW,3 Series,2017,107749,Gasoline,Manual,8669.77
+Mazda,CX-9,2019,73884,Gasoline,Automatic,7432.03
+Nissan,Sentra,2018,93169,Diesel,Manual,6317.31
+Tesla,Model Y,2012,174785,Electric,Automatic,4129.33
+Mercedes-Benz,E-Class,2022,54765,Gasoline,Automatic,30134.13
+Nissan,Sentra,2021,80286,Gasoline,Automatic,10899.24
+Mazda,CX-5,2020,50734,Diesel,Automatic,8560.75
+Toyota,Highlander,2019,94761,Gasoline,Automatic,8242.18
+Chevrolet,Equinox,2018,133319,Gasoline,Automatic,6072.53
+BMW,3 Series,2016,95149,Gasoline,Automatic,9018.07
+Honda,CR-V,2013,136532,Gasoline,Manual,2512.49
+Mercedes-Benz,GLC,2020,99494,Hybrid,Automatic,20495.3
+Honda,Pilot,2025,9444,Gasoline,Automatic,23231.13
+Chevrolet,Equinox,2026,0,Gasoline,Automatic,28282.79
+Toyota,Tacoma,2012,171727,Hybrid,Automatic,2359.73
+Honda,CR-V,2015,84233,Hybrid,Automatic,3345.2
+Honda,Civic,2010,183517,Gasoline,Automatic,1522.12
+Ford,Mustang,2010,151680,Gasoline,Automatic,1772.24
+BMW,5 Series,2022,34964,Gasoline,Automatic,24489.7
+Chevrolet,Malibu,2013,158500,Gasoline,Automatic,2595.79
+Mercedes-Benz,C-Class,2015,115400,Gasoline,Automatic,8410.01
+Chevrolet,Equinox,2023,39959,Gasoline,Manual,18753.0
+Nissan,Altima,2026,3327,Gasoline,Automatic,28173.66
+Toyota,Corolla,2014,158287,Diesel,Automatic,3423.53
+Mercedes-Benz,C-Class,2026,0,Hybrid,Automatic,47805.31
+Toyota,Highlander,2018,111481,Gasoline,Automatic,6165.89
+Mazda,CX-5,2016,105137,Gasoline,Manual,3882.27
+Mercedes-Benz,GLE,2021,73281,Gasoline,Automatic,22983.16
+BMW,X3,2020,61388,Gasoline,Automatic,19351.48
+BMW,X5,2021,40420,Diesel,Automatic,19694.55
+Nissan,Sentra,2015,119009,Gasoline,Automatic,3401.77
+Mazda,CX-5,2021,24670,Gasoline,Manual,10891.53
+Chevrolet,Equinox,2017,92673,Gasoline,Automatic,5698.54
+Ford,F-150,2017,123825,Gasoline,Automatic,5745.66
+BMW,3 Series,2013,195146,Gasoline,Automatic,4236.96
+Toyota,Highlander,2024,30363,Gasoline,Automatic,21465.32
+Mercedes-Benz,C-Class,2022,51258,Diesel,Automatic,27462.94
+Mercedes-Benz,GLE,2025,11510,Hybrid,Automatic,45731.5
+Nissan,Sentra,2019,115620,Gasoline,Automatic,6894.62
+Tesla,Model Y,2016,91200,Electric,Manual,8644.84
+Mazda,Mazda3,2014,143738,Gasoline,Automatic,3130.92
+Tesla,Model 3,2024,24162,Electric,Automatic,39303.25
+Mercedes-Benz,E-Class,2012,184636,Hybrid,Automatic,4380.22
+Mercedes-Benz,C-Class,2023,28924,Gasoline,Automatic,33929.95
+Tesla,Model 3,2023,53527,Electric,Automatic,32044.14
+Mercedes-Benz,C-Class,2010,183742,Gasoline,Manual,3389.95
+BMW,X3,2013,134406,Gasoline,Automatic,4328.61
+Ford,F-150,2010,263406,Gasoline,Manual,1629.73
+Hyundai,Elantra,2016,57505,Gasoline,Automatic,3843.51
+Mercedes-Benz,E-Class,2025,5420,Gasoline,Manual,45071.15
+Tesla,Model S,2012,171016,Electric,Automatic,4330.3
+Toyota,Highlander,2013,126700,Gasoline,Automatic,2380.02
+Chevrolet,Tahoe,2010,204699,Hybrid,Automatic,1931.0
+BMW,5 Series,2019,120974,Hybrid,Automatic,11459.56
+Toyota,Tacoma,2024,26937,Hybrid,Automatic,19412.57
+Chevrolet,Equinox,2018,84161,Diesel,Automatic,7087.54
+Nissan,Sentra,2011,216907,Diesel,Automatic,1864.6
+Toyota,Corolla,2023,44078,Diesel,Automatic,18401.05
+Honda,Pilot,2016,128721,Gasoline,Manual,3957.63
+Chevrolet,Equinox,2024,26529,Gasoline,Automatic,18151.42
+Ford,Escape,2011,166028,Gasoline,Automatic,2081.03
+Ford,F-150,2010,179085,Hybrid,Manual,1838.67
+Nissan,Rogue,2024,13185,Hybrid,Manual,19945.17
+Tesla,Model Y,2010,234948,Electric,Automatic,2884.79
+Mazda,Mazda3,2014,147124,Diesel,Automatic,2849.75
+Chevrolet,Silverado,2021,64599,Hybrid,Manual,12112.07
+Mazda,CX-9,2024,46167,Hybrid,Automatic,19849.72
+Tesla,Model 3,2020,64718,Electric,Automatic,20119.24
+Tesla,Model S,2022,45083,Electric,Manual,26090.55
+Hyundai,Santa Fe,2015,178872,Gasoline,Automatic,2963.04
+Toyota,Tacoma,2011,205049,Gasoline,Manual,2237.77
+Ford,Mustang,2023,19676,Gasoline,Automatic,17331.89
+Mercedes-Benz,GLC,2018,123932,Gasoline,Automatic,10461.8
+Nissan,Rogue,2016,112291,Gasoline,Manual,4145.07
+Toyota,Camry,2013,169396,Hybrid,Automatic,3074.17
+Ford,Escape,2015,175805,Hybrid,Automatic,4118.55
+Toyota,RAV4,2026,16177,Diesel,Automatic,24638.04
+Nissan,Rogue,2011,142796,Gasoline,Automatic,1602.59
+Chevrolet,Malibu,2024,22244,Diesel,Automatic,17538.09
+Tesla,Model 3,2024,30913,Electric,Automatic,37828.03
+Nissan,Rogue,2026,0,Gasoline,Automatic,29547.26
+Honda,Civic,2023,33965,Gasoline,Automatic,17386.09
+Honda,Accord,2026,405,Gasoline,Automatic,23518.31
+Tesla,Model S,2024,30293,Electric,Automatic,31502.58
+Mazda,CX-9,2025,14298,Hybrid,Automatic,21260.32
+Toyota,RAV4,2025,12929,Gasoline,Automatic,20586.21
+BMW,X3,2021,70503,Gasoline,Automatic,21195.15
+Honda,Civic,2015,124052,Gasoline,Automatic,3379.66
+Honda,Civic,2026,1608,Gasoline,Manual,23257.39
+Chevrolet,Tahoe,2020,62500,Gasoline,Automatic,11497.09
+Honda,Pilot,2026,0,Gasoline,Automatic,23462.12
+Ford,Mustang,2011,152881,Diesel,Automatic,2017.91
+Hyundai,Tucson,2020,105478,Gasoline,Manual,7118.06
+Tesla,Model Y,2010,208612,Electric,Automatic,3271.52
+Nissan,Sentra,2024,16000,Gasoline,Manual,19863.57
+Chevrolet,Equinox,2024,35092,Diesel,Automatic,19921.16
+Mercedes-Benz,GLE,2012,199033,Hybrid,Automatic,4724.25
+Tesla,Model Y,2020,95468,Electric,Automatic,19591.92
+Hyundai,Tucson,2015,149614,Hybrid,Automatic,3185.32
+Honda,CR-V,2026,0,Gasoline,Automatic,28648.23
+Tesla,Model S,2015,132686,Electric,Manual,7844.23
+Mazda,Mazda3,2011,189022,Hybrid,Automatic,1876.54
+Chevrolet,Equinox,2025,21960,Gasoline,Automatic,25777.05
+Mercedes-Benz,E-Class,2026,2971,Gasoline,Automatic,56686.44
+BMW,X5,2014,104241,Gasoline,Automatic,5360.51
+Toyota,Corolla,2017,126803,Gasoline,Automatic,4697.35
+BMW,5 Series,2013,122972,Gasoline,Automatic,4478.94
+Honda,Civic,2017,105861,Gasoline,Automatic,5652.72
+Nissan,Sentra,2021,72113,Gasoline,Automatic,11059.08
+Hyundai,Elantra,2023,41255,Diesel,Automatic,15208.93
+Ford,Escape,2014,145127,Gasoline,Automatic,3828.03
+Chevrolet,Silverado,2013,155450,Hybrid,Automatic,2959.04
+Ford,F-150,2017,89500,Gasoline,Automatic,6614.86
+Nissan,Altima,2020,76812,Gasoline,Automatic,7305.94
+Honda,Accord,2019,71086,Hybrid,Automatic,7898.02
+Mazda,CX-5,2012,179606,Gasoline,Manual,1924.6
+Mercedes-Benz,E-Class,2016,85011,Diesel,Automatic,8596.66
+Tesla,Model 3,2025,20177,Electric,Automatic,45040.49
+Mercedes-Benz,GLC,2015,194469,Diesel,Automatic,7877.63
+Toyota,Tacoma,2015,76918,Gasoline,Automatic,3894.72
+Mercedes-Benz,GLC,2024,22072,Gasoline,Automatic,32233.99
+Honda,Accord,2019,83352,Gasoline,Automatic,7597.71
+Mazda,Mazda3,2020,36602,Diesel,Automatic,10545.04
+Mazda,CX-5,2024,16616,Gasoline,Manual,15032.53
+Ford,Escape,2026,0,Gasoline,Automatic,26428.8
+Mazda,CX-5,2022,49025,Gasoline,Automatic,12865.22
+BMW,3 Series,2010,229175,Diesel,Automatic,3048.01
+Tesla,Model S,2012,101314,Electric,Automatic,4003.09
+Mercedes-Benz,GLC,2011,184276,Gasoline,Manual,3962.71
+Honda,Civic,2020,111440,Diesel,Automatic,8808.18
+Ford,F-150,2013,154603,Gasoline,Automatic,2906.79
+Honda,Accord,2016,140812,Hybrid,Automatic,4373.11
+Tesla,Model Y,2011,146056,Electric,Automatic,3835.49
+Honda,CR-V,2010,198136,Gasoline,Automatic,1749.91
+Ford,Explorer,2016,65607,Gasoline,Automatic,6153.08
+Toyota,Corolla,2011,148408,Gasoline,Automatic,1734.28
+Mazda,Mazda3,2018,72249,Gasoline,Automatic,6641.56
+Chevrolet,Equinox,2016,140098,Gasoline,Automatic,4216.01
+Chevrolet,Silverado,2014,151110,Gasoline,Automatic,3233.99
+Toyota,Highlander,2024,35738,Gasoline,Automatic,20568.5
+Mazda,CX-9,2015,144617,Gasoline,Automatic,3486.93
+Toyota,Camry,2021,62743,Gasoline,Automatic,12130.65
+BMW,X3,2011,243520,Gasoline,Automatic,3756.2
+Honda,Pilot,2019,67264,Diesel,Automatic,7569.83
+BMW,3 Series,2019,120484,Gasoline,Automatic,13061.9
+Hyundai,Elantra,2012,133698,Diesel,Automatic,2065.42
+Ford,F-150,2022,26052,Gasoline,Automatic,15350.22
+Mercedes-Benz,E-Class,2010,138663,Gasoline,Automatic,2783.98
+Tesla,Model Y,2023,29614,Electric,Automatic,26778.3
+Honda,Pilot,2015,98019,Diesel,Automatic,4262.02
+Tesla,Model 3,2021,70382,Electric,Manual,23926.01
+BMW,X5,2026,0,Gasoline,Manual,52529.19
+Tesla,Model Y,2011,217547,Electric,Automatic,3459.5
+Ford,F-150,2021,34830,Gasoline,Automatic,11513.57
+Hyundai,Tucson,2025,12759,Gasoline,Automatic,17111.51
+Honda,Pilot,2017,102247,Gasoline,Automatic,5738.24
+Honda,CR-V,2016,69547,Hybrid,Manual,4634.23
+Mercedes-Benz,GLE,2026,1551,Gasoline,Automatic,48520.76
+Chevrolet,Equinox,2016,128772,Gasoline,Automatic,4017.84
+Tesla,Model Y,2010,188230,Electric,Automatic,3031.14
+Ford,F-150,2025,16782,Hybrid,Automatic,27481.37
+Mercedes-Benz,C-Class,2019,97098,Gasoline,Automatic,13904.43
+Honda,Civic,2023,30816,Gasoline,Manual,16542.52
+Honda,Accord,2010,253567,Gasoline,Automatic,1404.49
+Nissan,Sentra,2013,151652,Gasoline,Automatic,2499.33
+Toyota,Corolla,2023,33120,Gasoline,Automatic,16090.84
+Hyundai,Tucson,2023,42164,Gasoline,Automatic,14330.59
+Honda,Civic,2020,85776,Gasoline,Automatic,9071.51
+Chevrolet,Malibu,2016,120297,Diesel,Manual,5093.55
+Honda,Civic,2013,122020,Gasoline,Automatic,2538.56
+Nissan,Sentra,2024,14621,Diesel,Automatic,20297.44
+Mercedes-Benz,E-Class,2026,0,Gasoline,Automatic,53054.79
+Mazda,Mazda3,2020,52126,Gasoline,Manual,9619.33
+Hyundai,Tucson,2014,149807,Gasoline,Manual,2354.71
+Ford,Explorer,2018,97456,Gasoline,Automatic,7689.06
+Mazda,CX-5,2010,201212,Gasoline,Automatic,1652.03
+BMW,3 Series,2016,63774,Gasoline,Automatic,9983.29
+Mazda,Mazda3,2014,174214,Gasoline,Automatic,3258.99
+Mercedes-Benz,E-Class,2012,134793,Gasoline,Automatic,4374.82
+Hyundai,Elantra,2021,93412,Gasoline,Automatic,9206.57
+Mazda,Mazda3,2012,149729,Gasoline,Automatic,2341.52
+Mazda,CX-5,2019,97531,Hybrid,Automatic,7097.83
+Mercedes-Benz,C-Class,2018,90476,Gasoline,Automatic,11708.06
+Honda,CR-V,2015,96054,Gasoline,Automatic,3494.08
+Toyota,RAV4,2025,10141,Gasoline,Automatic,22889.06
+Hyundai,Tucson,2015,135699,Gasoline,Manual,3685.67
+Hyundai,Elantra,2026,14811,Gasoline,Automatic,25520.84
+BMW,3 Series,2025,7206,Hybrid,Automatic,39430.61
+Ford,Mustang,2010,232487,Gasoline,Automatic,2032.82
+Chevrolet,Equinox,2026,3681,Gasoline,Automatic,32532.37
+Mercedes-Benz,GLE,2016,126004,Gasoline,Automatic,8703.0
+Chevrolet,Malibu,2015,124952,Hybrid,Automatic,3318.06
+Toyota,Tacoma,2024,29545,Gasoline,Automatic,20604.09
+Nissan,Rogue,2011,169686,Gasoline,Automatic,1948.76
+Tesla,Model 3,2015,130672,Electric,Automatic,7026.53
+Toyota,RAV4,2024,8578,Gasoline,Automatic,19436.11
+Chevrolet,Tahoe,2015,159301,Gasoline,Automatic,4352.2
+Mercedes-Benz,GLC,2023,28772,Gasoline,Automatic,29824.58
+BMW,5 Series,2015,117247,Gasoline,Automatic,6879.22
+Chevrolet,Malibu,2022,47170,Gasoline,Automatic,13441.46
+Mercedes-Benz,GLE,2016,154821,Diesel,Automatic,8105.46
+Chevrolet,Silverado,2026,2597,Gasoline,Automatic,31112.51
+Toyota,Camry,2012,140960,Gasoline,Automatic,2148.46
+Tesla,Model Y,2013,175197,Electric,Automatic,5027.74
+BMW,X3,2011,187710,Gasoline,Automatic,3068.24
+Honda,Accord,2026,0,Diesel,Automatic,25114.7
+Toyota,Tacoma,2014,213713,Diesel,Automatic,3199.21
+Chevrolet,Malibu,2012,148332,Hybrid,Manual,2288.1
+Nissan,Sentra,2017,69364,Gasoline,Automatic,5167.94
+Honda,Civic,2023,36447,Hybrid,Automatic,15472.74
+Chevrolet,Silverado,2026,3347,Hybrid,Automatic,28680.33
+Chevrolet,Tahoe,2023,29717,Gasoline,Manual,17456.23
+Mazda,CX-9,2022,50172,Hybrid,Automatic,13309.14
+Mazda,Mazda3,2021,76164,Gasoline,Automatic,9962.6
+BMW,X5,2017,131214,Hybrid,Automatic,8245.12
+Mercedes-Benz,GLE,2020,88108,Gasoline,Automatic,20339.02
+Tesla,Model Y,2010,229399,Electric,Automatic,3261.84
+Mazda,CX-9,2022,56942,Gasoline,Automatic,13074.85
+Mazda,Mazda3,2016,85566,Gasoline,Automatic,4689.55
+Honda,Pilot,2020,80642,Gasoline,Manual,8978.0
+Toyota,RAV4,2018,84890,Gasoline,Automatic,7307.45
+Mazda,CX-5,2011,213816,Gasoline,Manual,2023.57
+Toyota,Tacoma,2019,119020,Gasoline,Automatic,6980.6
+Toyota,Tacoma,2010,230149,Gasoline,Automatic,1597.52
+Hyundai,Elantra,2026,0,Gasoline,Automatic,20624.37
+Tesla,Model 3,2026,0,Electric,Automatic,49027.71
+BMW,5 Series,2024,23666,Gasoline,Automatic,34059.1
+Toyota,RAV4,2017,110208,Gasoline,Automatic,4700.69
+Mercedes-Benz,C-Class,2020,59694,Gasoline,Automatic,18747.18
+Mazda,CX-5,2014,195648,Diesel,Automatic,3244.02
+Nissan,Altima,2010,143674,Hybrid,Automatic,1395.68
+Ford,F-150,2025,11692,Gasoline,Manual,22774.76
+Hyundai,Santa Fe,2011,137922,Hybrid,Automatic,1894.41
+BMW,5 Series,2015,174611,Gasoline,Automatic,6444.14
+Chevrolet,Malibu,2016,156007,Gasoline,Automatic,5090.44
+Ford,Escape,2014,165050,Diesel,Automatic,2933.23
+Mercedes-Benz,GLC,2019,63280,Diesel,Automatic,14398.5
+Ford,F-150,2017,60192,Gasoline,Manual,7264.08
+Nissan,Rogue,2021,51761,Gasoline,Automatic,12164.59
+Mercedes-Benz,GLC,2012,187566,Gasoline,Automatic,4762.89
+Honda,Civic,2018,39139,Gasoline,Automatic,6116.48
+BMW,X5,2025,6572,Gasoline,Automatic,34081.78
+BMW,X5,2018,61476,Diesel,Automatic,14210.88
+Honda,Pilot,2014,128467,Gasoline,Automatic,3078.02
+Honda,CR-V,2025,16039,Diesel,Automatic,23921.55
+Hyundai,Tucson,2018,94618,Gasoline,Automatic,6190.36
+Mazda,Mazda3,2024,22568,Gasoline,Automatic,15250.43
+Nissan,Rogue,2015,119500,Gasoline,Automatic,3476.87
+Hyundai,Tucson,2025,14043,Gasoline,Automatic,21654.01
+Toyota,Camry,2026,3449,Gasoline,Automatic,30028.1
+Tesla,Model 3,2023,39751,Electric,Manual,31150.8
+Chevrolet,Equinox,2017,153355,Gasoline,Automatic,5886.33
+Hyundai,Santa Fe,2023,36952,Gasoline,Automatic,12529.66
+Tesla,Model 3,2010,296252,Electric,Automatic,2796.18
+Mercedes-Benz,GLC,2013,147001,Gasoline,Automatic,4829.11
+Hyundai,Elantra,2021,46500,Gasoline,Automatic,10528.53
+Honda,Accord,2017,84105,Gasoline,Automatic,4763.99
+Mercedes-Benz,GLC,2026,6370,Gasoline,Automatic,50204.24
+Honda,Civic,2016,103162,Gasoline,Automatic,4869.14
+Tesla,Model 3,2013,147732,Electric,Automatic,5690.8
+Honda,Pilot,2018,106342,Hybrid,Automatic,6318.75
+Nissan,Sentra,2021,54352,Gasoline,Automatic,11415.81
+Honda,CR-V,2021,82478,Gasoline,Manual,10140.23
+BMW,5 Series,2022,61175,Gasoline,Automatic,25360.71
+BMW,X3,2015,176318,Gasoline,Automatic,5929.08
+Ford,Explorer,2023,30655,Gasoline,Automatic,15206.24
+Chevrolet,Silverado,2012,74785,Gasoline,Automatic,2939.21
+Tesla,Model 3,2016,130190,Electric,Automatic,7536.42
+Ford,Explorer,2015,122457,Gasoline,Manual,4034.0
+Chevrolet,Equinox,2011,221352,Gasoline,Automatic,2290.85
+Nissan,Altima,2021,72516,Gasoline,Automatic,9953.65
+Toyota,RAV4,2024,18688,Gasoline,Automatic,20634.21
+Ford,F-150,2015,60671,Hybrid,Automatic,4311.2
+Ford,Mustang,2022,61959,Gasoline,Manual,13056.46
+Hyundai,Santa Fe,2021,59003,Gasoline,Automatic,9533.94
+Mazda,CX-5,2012,127914,Gasoline,Automatic,1899.1
+Nissan,Altima,2026,0,Gasoline,Manual,24596.04
+Mazda,CX-5,2016,164746,Gasoline,Manual,3735.04
+Mazda,CX-9,2010,257406,Gasoline,Automatic,1758.23
+Mazda,CX-5,2013,129586,Hybrid,Automatic,2482.96
+Mercedes-Benz,GLC,2025,1210,Diesel,Automatic,47932.9
+Ford,Explorer,2025,22032,Gasoline,Automatic,20993.05
+Chevrolet,Malibu,2013,214129,Gasoline,Automatic,2527.97
+Mercedes-Benz,C-Class,2026,7532,Hybrid,Automatic,61672.68
+Ford,F-150,2026,4293,Gasoline,Automatic,30960.73
+Honda,CR-V,2017,125040,Gasoline,Automatic,4915.92
+BMW,X5,2022,65744,Diesel,Automatic,27604.29
+Nissan,Sentra,2020,88567,Hybrid,Automatic,9674.85
+Ford,F-150,2025,19441,Gasoline,Automatic,22147.4
+Honda,Pilot,2020,108350,Diesel,Automatic,9303.55
+Chevrolet,Silverado,2013,171451,Gasoline,Automatic,2539.85
+Nissan,Rogue,2021,93747,Gasoline,Manual,11456.2
+Honda,Pilot,2017,69951,Diesel,Automatic,6520.94
+Tesla,Model 3,2026,11161,Electric,Automatic,51386.78
+BMW,3 Series,2024,27037,Diesel,Automatic,30959.73
+Hyundai,Tucson,2010,191402,Gasoline,Automatic,1559.72
+Ford,Explorer,2019,72595,Hybrid,Automatic,9985.15
+Ford,Escape,2017,76223,Hybrid,Automatic,6103.05
+Toyota,Corolla,2026,2379,Gasoline,Automatic,25402.57
+Ford,F-150,2019,26303,Gasoline,Manual,7995.73
+Honda,Civic,2020,58493,Gasoline,Automatic,10680.1
+Chevrolet,Tahoe,2022,60096,Gasoline,Automatic,12695.77
+Mercedes-Benz,GLE,2018,144921,Diesel,Automatic,13243.37
+Toyota,Highlander,2013,131858,Diesel,Automatic,2909.88
+BMW,X5,2012,133924,Diesel,Automatic,4589.11
+Hyundai,Elantra,2021,53853,Gasoline,Automatic,10275.22
+Chevrolet,Silverado,2024,4768,Gasoline,Automatic,20236.58
+Ford,Explorer,2011,130267,Gasoline,Automatic,2243.03
+Chevrolet,Equinox,2019,46673,Gasoline,Automatic,8708.91
+Hyundai,Elantra,2021,53565,Gasoline,Manual,10703.45
+Tesla,Model S,2015,165866,Electric,Automatic,7176.34
+Ford,Escape,2023,48128,Gasoline,Automatic,16735.22
+Honda,Pilot,2013,91504,Gasoline,Automatic,2989.13
+Mercedes-Benz,C-Class,2012,200046,Gasoline,Automatic,4873.43
+Ford,Escape,2016,128814,Gasoline,Automatic,4882.62
+Toyota,RAV4,2023,45730,Gasoline,Automatic,18446.58
+Mercedes-Benz,GLC,2016,106609,Diesel,Automatic,7601.02
+Ford,Explorer,2013,146270,Gasoline,Automatic,3081.47
+Chevrolet,Equinox,2022,55849,Gasoline,Automatic,14481.53
+Honda,Civic,2010,280450,Hybrid,Automatic,1524.89
+Tesla,Model 3,2018,105441,Electric,Manual,10481.25
+Tesla,Model 3,2023,37510,Electric,Manual,33254.53
+Tesla,Model 3,2023,48180,Electric,Automatic,27422.1
+BMW,3 Series,2016,130391,Gasoline,Automatic,7406.41
+Mercedes-Benz,GLE,2014,134451,Gasoline,Automatic,7188.1
+BMW,3 Series,2012,245184,Gasoline,Automatic,3530.77
+Honda,CR-V,2013,131701,Gasoline,Automatic,2679.54
+Mercedes-Benz,GLE,2022,35444,Gasoline,Manual,29353.8
+Hyundai,Tucson,2026,2409,Gasoline,Automatic,25793.56
+Chevrolet,Equinox,2023,45099,Gasoline,Automatic,15050.48
+Hyundai,Elantra,2020,82793,Gasoline,Automatic,8860.18
+Ford,Mustang,2025,13420,Gasoline,Automatic,21039.41
+Chevrolet,Tahoe,2011,136354,Gasoline,Automatic,1771.76
+Nissan,Sentra,2019,117218,Gasoline,Automatic,5743.74
+BMW,3 Series,2016,58276,Gasoline,Automatic,10343.29
+Toyota,Camry,2013,203613,Diesel,Automatic,3015.13
+Toyota,Camry,2013,195092,Diesel,Automatic,2845.69
+Toyota,Tacoma,2023,39416,Gasoline,Automatic,15497.59
+Toyota,Corolla,2022,48816,Gasoline,Manual,11929.78
+Toyota,Corolla,2024,34065,Gasoline,Automatic,17623.98
+Tesla,Model 3,2021,66038,Electric,Automatic,20729.74
+Honda,CR-V,2013,140529,Gasoline,Automatic,2290.42
+Chevrolet,Silverado,2024,20647,Gasoline,Automatic,18065.22
+Tesla,Model S,2023,22463,Electric,Automatic,27560.1
+BMW,5 Series,2019,140510,Gasoline,Automatic,12435.05
+Tesla,Model Y,2023,23617,Electric,Manual,30340.15
+Hyundai,Tucson,2012,147452,Gasoline,Automatic,1771.24
+Mercedes-Benz,C-Class,2022,37339,Gasoline,Manual,27625.7
+Hyundai,Tucson,2015,100920,Diesel,Automatic,2758.65
+Hyundai,Elantra,2014,143371,Gasoline,Automatic,2953.29
+Mercedes-Benz,E-Class,2011,216525,Gasoline,Automatic,4010.07
+Tesla,Model Y,2019,54748,Electric,Automatic,15856.92
+Honda,Pilot,2010,252655,Gasoline,Manual,1669.56
+Nissan,Sentra,2017,75534,Gasoline,Automatic,5869.44
+Chevrolet,Silverado,2012,160927,Gasoline,Automatic,2200.94
+Mercedes-Benz,GLE,2015,128051,Gasoline,Automatic,7699.11
+Honda,CR-V,2022,41991,Gasoline,Automatic,14947.16
+BMW,X3,2015,103110,Gasoline,Automatic,6401.27
+Mazda,CX-5,2012,115511,Gasoline,Manual,1928.88
+Toyota,Corolla,2013,131854,Gasoline,Automatic,3030.38
+Toyota,Highlander,2019,160403,Gasoline,Automatic,8139.45
+Chevrolet,Malibu,2017,90496,Diesel,Automatic,5335.33
+Nissan,Rogue,2014,162621,Hybrid,Manual,3378.43
+BMW,5 Series,2014,146534,Hybrid,Automatic,4904.22
+Mazda,CX-9,2021,60548,Gasoline,Automatic,12387.57
+Toyota,Corolla,2015,98863,Diesel,Automatic,3561.49
+Toyota,RAV4,2019,93946,Gasoline,Automatic,8134.03
+Ford,Mustang,2023,30123,Hybrid,Automatic,18645.07
+Ford,F-150,2019,55807,Gasoline,Automatic,10284.72
+Chevrolet,Malibu,2021,39751,Gasoline,Automatic,11580.58
+Mercedes-Benz,GLE,2016,132180,Gasoline,Automatic,8350.9
+Honda,Civic,2019,82338,Diesel,Automatic,6444.11
+Honda,Civic,2026,3878,Hybrid,Automatic,26090.71
+Mazda,CX-9,2017,120981,Gasoline,Manual,4841.87
+BMW,X5,2022,65425,Gasoline,Automatic,22052.07
+Mazda,CX-9,2024,42236,Diesel,Automatic,18735.41
+Toyota,RAV4,2025,11056,Gasoline,Automatic,19516.7
+Toyota,Camry,2020,85815,Gasoline,Automatic,7960.95
+Honda,Civic,2023,46821,Gasoline,Automatic,16619.84
+BMW,X3,2013,158314,Gasoline,Automatic,4460.05
+Mercedes-Benz,E-Class,2011,246958,Diesel,Automatic,4059.69
+Toyota,RAV4,2014,205850,Diesel,Automatic,3247.3
+Mazda,CX-9,2020,70684,Gasoline,Automatic,8777.72
+Chevrolet,Malibu,2024,31134,Gasoline,Automatic,17083.05
+Ford,Mustang,2015,163389,Gasoline,Automatic,3569.9
+Hyundai,Tucson,2025,0,Gasoline,Automatic,21213.85
+Hyundai,Elantra,2011,26876,Gasoline,Automatic,1891.36
+Mazda,CX-5,2013,223551,Gasoline,Automatic,2242.44
+Ford,F-150,2016,135520,Diesel,Automatic,4904.14
+Nissan,Sentra,2010,209075,Gasoline,Manual,1457.29
+Toyota,Camry,2012,152473,Hybrid,Automatic,2057.21
+Chevrolet,Silverado,2026,3476,Gasoline,Manual,25031.47
+BMW,X5,2023,11940,Gasoline,Automatic,27122.36
+Chevrolet,Malibu,2016,122220,Gasoline,Automatic,4987.53
+Tesla,Model S,2024,29219,Electric,Manual,32146.29
+Tesla,Model 3,2020,67492,Electric,Automatic,18179.34
+Toyota,Corolla,2016,82225,Diesel,Manual,5396.19
+Hyundai,Tucson,2017,119273,Gasoline,Automatic,4289.0
+Nissan,Altima,2019,77383,Gasoline,Manual,7360.58
+Chevrolet,Equinox,2016,123479,Gasoline,Manual,4372.63
+Toyota,Camry,2018,128261,Gasoline,Automatic,6685.23
+Toyota,Corolla,2010,279877,Gasoline,Automatic,1716.83
+Tesla,Model 3,2024,18548,Electric,Automatic,32831.83
+BMW,X3,2013,142930,Diesel,Automatic,4487.23
+Hyundai,Elantra,2011,226757,Gasoline,Automatic,1907.71
+Hyundai,Elantra,2023,34959,Diesel,Automatic,14796.49
+Nissan,Rogue,2018,59406,Diesel,Automatic,5693.26
+Tesla,Model Y,2013,160651,Electric,Automatic,4831.04
+Chevrolet,Tahoe,2016,110009,Gasoline,Manual,4698.41
+Hyundai,Tucson,2021,77138,Gasoline,Automatic,9809.66
+Toyota,RAV4,2026,5299,Hybrid,Automatic,25247.62
+Chevrolet,Malibu,2011,202091,Gasoline,Automatic,2284.8
+Honda,CR-V,2014,154952,Hybrid,Automatic,3380.81
+Tesla,Model Y,2013,174968,Electric,Automatic,4842.72
+Mazda,Mazda3,2016,117844,Gasoline,Automatic,4619.45
+Nissan,Rogue,2011,144622,Gasoline,Manual,1828.84
+Honda,Civic,2015,109382,Gasoline,Automatic,3334.66
+Toyota,Camry,2022,42573,Gasoline,Automatic,14649.03
+Tesla,Model Y,2010,185013,Electric,Automatic,3047.31
+Tesla,Model 3,2011,164399,Electric,Automatic,3738.47
+Hyundai,Tucson,2016,142139,Gasoline,Manual,3370.32
+Honda,Civic,2014,139026,Gasoline,Manual,3516.25
+Toyota,Highlander,2011,197883,Hybrid,Automatic,2048.62
+Chevrolet,Equinox,2021,30265,Gasoline,Automatic,13525.07
+Tesla,Model Y,2018,83783,Electric,Automatic,11543.77
+Honda,CR-V,2025,23796,Gasoline,Manual,21014.02
+Hyundai,Tucson,2024,7626,Diesel,Automatic,16844.16
+Toyota,Tacoma,2021,44830,Hybrid,Automatic,11736.14
+Hyundai,Tucson,2016,88760,Hybrid,Automatic,3606.08
+Nissan,Rogue,2022,35894,Diesel,Automatic,13685.69
+Chevrolet,Silverado,2017,111621,Gasoline,Automatic,5768.71
+Honda,CR-V,2026,0,Hybrid,Automatic,28817.34
+Mazda,CX-5,2014,163291,Gasoline,Automatic,3105.8
+Mazda,CX-5,2018,109177,Gasoline,Automatic,5693.81
+Tesla,Model Y,2020,78637,Electric,Automatic,16380.78
+BMW,X5,2011,166181,Gasoline,Automatic,3431.74
+Hyundai,Tucson,2014,183169,Gasoline,Automatic,2768.74
+Nissan,Altima,2010,184236,Gasoline,Automatic,1337.31
+BMW,5 Series,2015,173239,Gasoline,Automatic,6206.97
+Mazda,Mazda3,2017,144741,Gasoline,Automatic,4966.51
+Nissan,Altima,2025,19330,Gasoline,Manual,20527.38
+BMW,3 Series,2020,43276,Hybrid,Manual,16604.37
+Nissan,Altima,2011,267291,Hybrid,Automatic,1998.77
+Nissan,Rogue,2026,8753,Gasoline,Manual,26876.33
+Mercedes-Benz,E-Class,2012,187294,Gasoline,Automatic,4359.98
+Chevrolet,Malibu,2015,96475,Gasoline,Manual,4665.89
+Honda,Pilot,2014,99284,Gasoline,Automatic,3362.61
+Chevrolet,Silverado,2025,6944,Hybrid,Automatic,23221.09
+Mercedes-Benz,GLE,2012,157094,Gasoline,Automatic,3901.57
+Hyundai,Santa Fe,2023,36614,Gasoline,Automatic,12898.8
+Honda,Accord,2016,127465,Gasoline,Automatic,4206.9
+Chevrolet,Malibu,2014,114008,Gasoline,Automatic,3202.78
+Chevrolet,Equinox,2016,68832,Gasoline,Automatic,5001.21
+Chevrolet,Malibu,2018,80001,Gasoline,Automatic,7317.76
+Hyundai,Elantra,2022,31775,Gasoline,Automatic,10910.58
+Toyota,Tacoma,2022,44605,Gasoline,Manual,14566.77
+Tesla,Model Y,2014,119512,Electric,Automatic,6163.09
+Toyota,Highlander,2021,32900,Gasoline,Automatic,12308.63
+Mazda,CX-5,2011,217845,Hybrid,Automatic,2083.25
+Nissan,Sentra,2011,195443,Gasoline,Manual,1875.64
+Hyundai,Tucson,2024,22811,Gasoline,Automatic,17042.67
+Nissan,Sentra,2016,104731,Gasoline,Automatic,4213.34
+Tesla,Model S,2012,197666,Electric,Automatic,3975.04
+Hyundai,Elantra,2026,2816,Diesel,Automatic,20530.39
+Hyundai,Elantra,2013,142561,Gasoline,Automatic,2060.85
+Mercedes-Benz,E-Class,2015,169606,Gasoline,Automatic,8233.97
+BMW,X5,2015,97333,Gasoline,Manual,7556.68
+Mercedes-Benz,GLC,2018,120091,Hybrid,Automatic,10366.38
+Tesla,Model S,2016,165729,Electric,Manual,8817.38
+Honda,Civic,2023,36991,Diesel,Automatic,13520.61
+Tesla,Model S,2026,0,Electric,Automatic,54190.24
+Mazda,CX-9,2019,100960,Hybrid,Automatic,7074.3
+Toyota,Tacoma,2020,101131,Diesel,Automatic,8082.3
+Mercedes-Benz,GLC,2026,9262,Hybrid,Automatic,48452.02
+Honda,Accord,2024,20379,Gasoline,Manual,19724.18
+Honda,CR-V,2012,143417,Gasoline,Automatic,2067.01
+BMW,3 Series,2012,154887,Gasoline,Automatic,3566.23
+Mazda,CX-5,2025,16106,Diesel,Automatic,18319.24
+Ford,F-150,2026,0,Gasoline,Automatic,27073.27
+Toyota,Camry,2020,69375,Gasoline,Manual,9229.63
+BMW,5 Series,2014,118909,Diesel,Automatic,5205.59
+Mercedes-Benz,E-Class,2026,0,Gasoline,Automatic,63106.38
+Ford,Escape,2025,4103,Gasoline,Automatic,23870.98
+Honda,Pilot,2016,126279,Gasoline,Automatic,4885.88
+Hyundai,Elantra,2020,136939,Gasoline,Automatic,8116.69
+BMW,5 Series,2012,135203,Gasoline,Automatic,3852.25
+Honda,CR-V,2016,87283,Gasoline,Manual,5156.68
+Chevrolet,Tahoe,2026,4933,Diesel,Automatic,27604.26
+Hyundai,Tucson,2013,155050,Gasoline,Automatic,2535.57
+Toyota,RAV4,2010,186744,Gasoline,Automatic,1777.99
+Chevrolet,Silverado,2022,44046,Gasoline,Automatic,14836.62
+Ford,Escape,2017,88486,Gasoline,Automatic,5691.29
+Nissan,Sentra,2018,91430,Gasoline,Automatic,6958.49
+Tesla,Model Y,2023,36925,Electric,Automatic,30509.76
+Hyundai,Tucson,2018,107492,Gasoline,Automatic,5333.48
+Hyundai,Santa Fe,2018,110249,Gasoline,Manual,4518.08
+Nissan,Altima,2022,62475,Gasoline,Automatic,14271.37
+Chevrolet,Equinox,2016,139632,Gasoline,Automatic,5205.78
+Ford,F-150,2014,156333,Gasoline,Automatic,3665.35
+Nissan,Rogue,2023,17558,Gasoline,Automatic,15454.49
+Honda,Accord,2014,118486,Gasoline,Automatic,3164.22
+BMW,3 Series,2016,76805,Gasoline,Automatic,8437.16
+Chevrolet,Tahoe,2019,74767,Gasoline,Automatic,9921.66
+Toyota,Tacoma,2017,73015,Gasoline,Automatic,6803.92
+Chevrolet,Silverado,2016,177108,Gasoline,Automatic,4335.88
+Ford,Explorer,2017,140140,Hybrid,Manual,5651.73
+Chevrolet,Silverado,2024,21129,Gasoline,Automatic,17056.89
+Mazda,Mazda3,2019,103061,Gasoline,Manual,7635.88
+Tesla,Model S,2014,128572,Electric,Automatic,6347.23
+Chevrolet,Malibu,2025,11233,Gasoline,Manual,24171.93
+Nissan,Sentra,2023,36346,Gasoline,Automatic,16884.04
+Mercedes-Benz,E-Class,2022,47194,Gasoline,Automatic,29511.26
+Mazda,CX-9,2024,25947,Gasoline,Automatic,18123.42
+Honda,Accord,2017,79034,Hybrid,Automatic,6084.27
+Honda,Pilot,2012,140120,Diesel,Automatic,1921.05
+Toyota,Highlander,2024,24514,Diesel,Automatic,16786.42
+Toyota,RAV4,2023,31602,Gasoline,Automatic,17969.3
+Ford,F-150,2026,0,Gasoline,Automatic,26309.49
+Honda,CR-V,2016,159959,Gasoline,Automatic,4357.89
+Chevrolet,Equinox,2017,121827,Diesel,Automatic,5250.92
+Toyota,RAV4,2018,116737,Diesel,Automatic,5214.42
+Chevrolet,Malibu,2022,49150,Gasoline,Automatic,14973.61
+Honda,Pilot,2016,73559,Diesel,Automatic,5503.76
+Mercedes-Benz,GLC,2013,175474,Gasoline,Manual,5336.48
+BMW,X3,2015,158225,Gasoline,Automatic,6819.21
+Hyundai,Santa Fe,2019,80525,Diesel,Automatic,5995.48
+Mazda,CX-9,2020,86722,Gasoline,Automatic,9522.16
+Toyota,Corolla,2010,212496,Hybrid,Automatic,1623.56
+BMW,X5,2020,88024,Gasoline,Automatic,17177.32
+Nissan,Sentra,2021,64603,Diesel,Manual,11252.4
+Nissan,Sentra,2016,125047,Gasoline,Automatic,3952.89
+Ford,Explorer,2024,21583,Hybrid,Automatic,20404.77
+Mazda,CX-5,2021,42889,Gasoline,Automatic,11168.96
+BMW,X3,2011,229146,Gasoline,Automatic,2975.35
+Tesla,Model 3,2018,88420,Electric,Automatic,11256.89
+Honda,CR-V,2019,57100,Gasoline,Manual,7203.87
+Chevrolet,Malibu,2015,90759,Hybrid,Automatic,4530.52
+Mazda,CX-5,2013,137993,Gasoline,Automatic,2142.76
+Mazda,CX-5,2013,150476,Gasoline,Manual,2409.13
+Chevrolet,Malibu,2019,89101,Diesel,Automatic,8237.74
+Ford,Mustang,2013,179989,Gasoline,Automatic,2568.82
+Chevrolet,Equinox,2014,201640,Gasoline,Manual,3580.78
+Mazda,Mazda3,2025,10121,Gasoline,Automatic,19207.42
+Chevrolet,Tahoe,2015,93636,Diesel,Manual,4695.12
+BMW,5 Series,2021,63664,Gasoline,Automatic,20992.61
+Nissan,Sentra,2010,139960,Diesel,Automatic,1595.16
+Mazda,Mazda3,2011,197075,Gasoline,Automatic,1966.58
+Honda,Pilot,2010,146269,Hybrid,Automatic,1399.13
+Honda,Pilot,2012,229720,Gasoline,Automatic,1984.83
+BMW,5 Series,2019,93684,Gasoline,Automatic,11940.81
+Chevrolet,Tahoe,2017,155720,Gasoline,Automatic,6063.93
+Nissan,Rogue,2013,207015,Gasoline,Automatic,2288.94
+Mazda,Mazda3,2011,133980,Gasoline,Automatic,1599.22
+BMW,X5,2025,14052,Gasoline,Automatic,42965.4
+Tesla,Model 3,2021,59418,Electric,Automatic,21606.0
+Toyota,Corolla,2010,270136,Gasoline,Automatic,1516.6
+Hyundai,Tucson,2014,59550,Gasoline,Manual,3453.31
+Hyundai,Tucson,2020,53364,Hybrid,Automatic,9388.25
+Nissan,Sentra,2017,111497,Gasoline,Automatic,4701.91
+Honda,Civic,2015,93743,Gasoline,Automatic,4369.18
+Nissan,Altima,2010,193350,Diesel,Automatic,1328.64
+Nissan,Rogue,2023,46431,Hybrid,Automatic,13882.54
+Chevrolet,Equinox,2021,51668,Gasoline,Automatic,10459.36
+Chevrolet,Tahoe,2019,94191,Gasoline,Automatic,8263.73
+Chevrolet,Tahoe,2010,195843,Gasoline,Automatic,1817.8
+Hyundai,Tucson,2018,105107,Gasoline,Automatic,5078.0
+Mercedes-Benz,GLE,2019,119043,Gasoline,Automatic,12695.47
+Hyundai,Elantra,2025,4859,Gasoline,Manual,21910.95
+Nissan,Altima,2026,1030,Gasoline,Automatic,23287.81
+BMW,X3,2015,95812,Gasoline,Manual,7455.65
+Toyota,Highlander,2010,109190,Gasoline,Automatic,1821.89
+Mazda,Mazda3,2013,144570,Hybrid,Automatic,2675.28
+BMW,3 Series,2020,101411,Gasoline,Automatic,14052.31
+Chevrolet,Tahoe,2022,26897,Gasoline,Automatic,12936.19
+Mercedes-Benz,GLC,2016,155236,Gasoline,Automatic,7904.34
+Hyundai,Santa Fe,2015,164686,Hybrid,Automatic,2849.53
+Mercedes-Benz,GLE,2012,186704,Gasoline,Automatic,4757.03
+Mazda,CX-9,2023,25130,Diesel,Automatic,14428.96
+Toyota,RAV4,2019,63061,Gasoline,Automatic,8872.14
+BMW,X5,2013,189484,Gasoline,Automatic,5430.4
+Mercedes-Benz,GLE,2013,188472,Gasoline,Automatic,5989.9
+Hyundai,Santa Fe,2016,83596,Hybrid,Automatic,4682.16
+Tesla,Model S,2012,162479,Electric,Automatic,4077.3
+Tesla,Model 3,2017,96370,Electric,Automatic,11556.91
+Mazda,CX-5,2022,51481,Gasoline,Automatic,14200.99
+Mercedes-Benz,E-Class,2020,78391,Gasoline,Automatic,20317.96
+Mercedes-Benz,GLE,2025,13319,Gasoline,Automatic,40213.22
+BMW,5 Series,2022,33623,Gasoline,Automatic,27203.83
+Ford,F-150,2018,57714,Gasoline,Automatic,7183.79
+Hyundai,Tucson,2019,75378,Gasoline,Manual,7304.63
+Mazda,CX-9,2025,8806,Hybrid,Automatic,20972.88
+Tesla,Model S,2018,108027,Electric,Automatic,10501.84
+BMW,3 Series,2022,42509,Diesel,Automatic,27028.19
+BMW,X3,2013,162642,Gasoline,Automatic,4773.64
+Ford,F-150,2014,179906,Gasoline,Automatic,3453.0
+Toyota,Highlander,2026,0,Gasoline,Automatic,23813.46
+Chevrolet,Tahoe,2011,180047,Gasoline,Automatic,1850.08
+Mazda,CX-9,2013,162948,Gasoline,Automatic,2866.93
+BMW,X3,2018,96263,Gasoline,Automatic,12335.2
+Mazda,CX-9,2011,158248,Hybrid,Automatic,2087.92
+Chevrolet,Equinox,2021,54791,Gasoline,Automatic,13919.74
+Chevrolet,Tahoe,2016,150297,Gasoline,Automatic,4494.65
+Chevrolet,Tahoe,2018,81171,Gasoline,Manual,6310.56
+Hyundai,Santa Fe,2026,9606,Gasoline,Automatic,20498.02
+BMW,5 Series,2013,169042,Gasoline,Automatic,4972.3
+Mercedes-Benz,GLC,2010,185125,Diesel,Automatic,2949.43
+Chevrolet,Equinox,2026,0,Gasoline,Automatic,32370.94
+Tesla,Model 3,2025,11450,Electric,Manual,43737.0
+Nissan,Sentra,2021,61939,Hybrid,Automatic,9283.5
+Tesla,Model 3,2025,8015,Electric,Automatic,48040.02
+BMW,5 Series,2023,23628,Hybrid,Manual,27796.84
+Chevrolet,Tahoe,2017,149081,Gasoline,Automatic,4598.17
+Toyota,RAV4,2014,149426,Hybrid,Automatic,3202.83
+Nissan,Rogue,2015,132966,Diesel,Automatic,3033.19
+Mazda,Mazda3,2021,48272,Gasoline,Automatic,10147.94
+BMW,X5,2013,159822,Hybrid,Automatic,5098.05
+Tesla,Model S,2021,56425,Electric,Automatic,23526.19
+Mazda,CX-5,2014,118374,Gasoline,Automatic,2522.54
+Mercedes-Benz,E-Class,2017,75064,Gasoline,Automatic,11105.1
+Chevrolet,Silverado,2025,6467,Gasoline,Automatic,25679.57
+Tesla,Model Y,2019,114493,Electric,Automatic,12288.32
+Ford,F-150,2017,128354,Hybrid,Automatic,5998.35
+Toyota,Highlander,2015,67548,Diesel,Manual,4696.51
+Mercedes-Benz,C-Class,2012,151889,Diesel,Automatic,4206.37
+BMW,5 Series,2013,121205,Gasoline,Automatic,5165.89
+Nissan,Altima,2019,48795,Gasoline,Manual,8717.45
+Hyundai,Tucson,2018,95891,Gasoline,Automatic,5749.25
+Mercedes-Benz,GLE,2022,31050,Gasoline,Automatic,26047.03
+Hyundai,Elantra,2025,2527,Gasoline,Automatic,17777.46
+Nissan,Altima,2025,18846,Gasoline,Automatic,23765.12
+Hyundai,Tucson,2019,75044,Hybrid,Automatic,5807.6
+Nissan,Altima,2016,128946,Gasoline,Automatic,3658.89
+Ford,F-150,2021,56012,Gasoline,Automatic,10868.72
+Nissan,Rogue,2019,85509,Gasoline,Automatic,6655.74
+BMW,X3,2023,28105,Diesel,Automatic,29689.69
+Mercedes-Benz,GLC,2026,344,Diesel,Automatic,52336.2
+Mercedes-Benz,GLC,2020,103696,Diesel,Automatic,18945.28
+Chevrolet,Tahoe,2020,112926,Gasoline,Automatic,9468.84
+Hyundai,Santa Fe,2016,128618,Gasoline,Automatic,3819.83
+Honda,Accord,2026,2032,Gasoline,Automatic,26654.29
+Honda,Civic,2011,198739,Gasoline,Automatic,1800.63
+Chevrolet,Malibu,2017,58620,Gasoline,Automatic,5494.59
+Ford,Escape,2011,194841,Gasoline,Manual,2324.19
+Nissan,Sentra,2018,118523,Hybrid,Automatic,5054.01
+Tesla,Model S,2022,61799,Electric,Automatic,23708.98
+Hyundai,Santa Fe,2010,156226,Gasoline,Automatic,1461.0
+Chevrolet,Equinox,2023,35452,Hybrid,Manual,18630.97
+Nissan,Rogue,2021,45363,Gasoline,Automatic,10245.81
+Ford,Escape,2016,122321,Gasoline,Automatic,4359.66
+Chevrolet,Equinox,2011,169093,Gasoline,Automatic,2025.96
+Tesla,Model 3,2020,60838,Electric,Automatic,20901.22
+Chevrolet,Malibu,2020,68615,Gasoline,Automatic,9861.24
+Honda,Civic,2022,44436,Hybrid,Automatic,13777.99
+Ford,F-150,2016,129612,Gasoline,Automatic,5008.94
+Honda,Accord,2017,148957,Gasoline,Automatic,5076.05
+Mazda,CX-5,2020,55447,Diesel,Automatic,10186.39
+BMW,3 Series,2018,114898,Gasoline,Automatic,10263.57
+Hyundai,Elantra,2025,7124,Diesel,Automatic,17936.81
+BMW,5 Series,2025,15735,Diesel,Automatic,43160.18
+Chevrolet,Silverado,2023,33588,Diesel,Manual,16695.84
+Mazda,CX-9,2017,128802,Gasoline,Automatic,5483.06
+Ford,Mustang,2023,38392,Gasoline,Automatic,19779.08
+Hyundai,Santa Fe,2022,51768,Gasoline,Automatic,13240.64
+BMW,3 Series,2023,27670,Gasoline,Automatic,31120.35
+Tesla,Model Y,2010,245348,Electric,Manual,3454.81
+Tesla,Model Y,2019,56063,Electric,Automatic,16418.71
+Tesla,Model S,2025,6214,Electric,Automatic,48214.15
+Nissan,Altima,2011,117040,Gasoline,Automatic,1843.1
+Mercedes-Benz,E-Class,2019,80167,Diesel,Automatic,13335.57
+Mazda,CX-9,2014,217578,Gasoline,Automatic,3286.55
+Mercedes-Benz,GLC,2015,132142,Gasoline,Automatic,8124.24
+Honda,CR-V,2022,37382,Gasoline,Automatic,15077.7
+Tesla,Model 3,2014,152703,Electric,Automatic,6635.49
+Tesla,Model Y,2017,115903,Electric,Automatic,11135.84
+Tesla,Model 3,2023,22312,Electric,Automatic,33290.69
+Toyota,Highlander,2015,180691,Gasoline,Automatic,3869.3
+Mazda,Mazda3,2015,145849,Diesel,Manual,3581.37
+Tesla,Model S,2021,71252,Electric,Automatic,19844.9
+BMW,5 Series,2010,99843,Hybrid,Automatic,3535.58
+Hyundai,Tucson,2022,32411,Gasoline,Automatic,12546.01
+Ford,F-150,2012,222865,Diesel,Automatic,2663.47
+Toyota,Tacoma,2019,108902,Gasoline,Automatic,6245.93
+Ford,Escape,2022,67558,Gasoline,Automatic,12620.94
+Toyota,Highlander,2025,21236,Hybrid,Automatic,20691.47
+Nissan,Altima,2025,20214,Diesel,Automatic,22230.53
+Toyota,Highlander,2017,114843,Gasoline,Manual,4896.64
+Nissan,Altima,2026,0,Gasoline,Automatic,24949.49
+Mazda,CX-9,2018,97877,Gasoline,Automatic,5441.2
+BMW,3 Series,2026,0,Gasoline,Automatic,50193.55
+Mazda,CX-9,2015,93609,Gasoline,Manual,3327.29
+BMW,3 Series,2011,300258,Hybrid,Automatic,3173.0
+Hyundai,Santa Fe,2013,165256,Gasoline,Automatic,2516.1
+Tesla,Model 3,2025,9484,Electric,Automatic,39461.99
+Chevrolet,Silverado,2016,125635,Gasoline,Automatic,5179.06
+Nissan,Sentra,2018,66978,Gasoline,Manual,6016.28
+Mercedes-Benz,E-Class,2012,165084,Gasoline,Automatic,4900.36
+Nissan,Altima,2025,17347,Hybrid,Automatic,22619.93
+Mercedes-Benz,GLE,2021,48946,Hybrid,Automatic,24044.9
+Ford,Escape,2023,42870,Gasoline,Automatic,19096.19
+Honda,Accord,2025,1243,Diesel,Manual,18928.69
+Hyundai,Elantra,2022,44830,Gasoline,Automatic,12376.25
+BMW,3 Series,2023,45273,Gasoline,Automatic,31274.36
+Nissan,Sentra,2015,198294,Gasoline,Manual,3145.18
+Honda,Pilot,2023,25796,Gasoline,Automatic,17871.87
+Mazda,Mazda3,2023,36600,Gasoline,Automatic,15690.4
+Toyota,Highlander,2023,42874,Gasoline,Automatic,17581.71
+Tesla,Model S,2020,77003,Electric,Automatic,16519.01
+Ford,Escape,2024,37437,Gasoline,Manual,17838.12
+Chevrolet,Equinox,2017,97784,Gasoline,Automatic,5447.15
+Mazda,Mazda3,2016,96237,Diesel,Automatic,5094.61
+Chevrolet,Tahoe,2025,5873,Hybrid,Automatic,25956.55
+Toyota,Tacoma,2017,138657,Diesel,Manual,4888.22
+Nissan,Altima,2012,153147,Diesel,Automatic,2318.48
+Nissan,Sentra,2012,40051,Gasoline,Automatic,2387.73
+Nissan,Altima,2016,103339,Gasoline,Manual,4421.94
+Ford,Escape,2010,196702,Gasoline,Automatic,1866.26
+Nissan,Altima,2017,104439,Hybrid,Manual,4686.11
+Hyundai,Tucson,2015,108222,Gasoline,Manual,3286.58
+BMW,3 Series,2015,149761,Gasoline,Automatic,7531.92
+Mazda,Mazda3,2010,238033,Hybrid,Manual,1671.71
+Chevrolet,Malibu,2021,62349,Gasoline,Automatic,13868.74
+Honda,Pilot,2010,190820,Hybrid,Manual,1818.11
+Chevrolet,Silverado,2010,244569,Gasoline,Automatic,1522.97
+Chevrolet,Equinox,2010,130820,Gasoline,Automatic,1767.96
+BMW,3 Series,2014,88401,Hybrid,Automatic,5371.76
+Honda,Accord,2013,202808,Gasoline,Automatic,2726.56
+Chevrolet,Equinox,2011,159988,Gasoline,Automatic,1918.24
+Tesla,Model 3,2026,0,Electric,Manual,45695.37
+Honda,CR-V,2016,61885,Gasoline,Automatic,5495.7
+Mercedes-Benz,C-Class,2014,140599,Gasoline,Automatic,6313.96
+BMW,X5,2013,151144,Gasoline,Automatic,4329.41
+BMW,X3,2021,73399,Gasoline,Manual,19712.61
+BMW,X5,2022,26835,Gasoline,Automatic,26676.72
+Ford,F-150,2023,40250,Gasoline,Manual,18590.53
+Toyota,Highlander,2018,116272,Gasoline,Manual,5296.51
+Tesla,Model S,2024,23099,Electric,Automatic,31614.54
+Hyundai,Elantra,2018,22798,Gasoline,Automatic,6986.8
+Nissan,Rogue,2021,42769,Diesel,Automatic,10054.93
+Ford,Explorer,2026,0,Hybrid,Automatic,29477.69
+Tesla,Model 3,2022,38103,Electric,Automatic,24320.79
+Mazda,CX-5,2023,28655,Gasoline,Manual,14920.67
+Mercedes-Benz,GLC,2018,87580,Gasoline,Automatic,12377.54
+Honda,Pilot,2026,0,Gasoline,Manual,27408.1
+Mercedes-Benz,GLE,2018,81097,Gasoline,Automatic,13341.34
+Toyota,Corolla,2023,31040,Gasoline,Automatic,17673.63
+Ford,Mustang,2015,99510,Gasoline,Manual,4982.8
+Mazda,CX-5,2023,18982,Gasoline,Automatic,16953.44
+Tesla,Model Y,2021,52947,Electric,Automatic,21997.53
+Nissan,Sentra,2026,4590,Gasoline,Automatic,23514.28
+Mercedes-Benz,E-Class,2021,15115,Hybrid,Automatic,24917.6
+Honda,Civic,2013,156819,Gasoline,Automatic,2244.6
+Chevrolet,Tahoe,2024,20270,Diesel,Automatic,22441.7
+Toyota,Camry,2016,140358,Diesel,Automatic,4117.88
+Ford,Mustang,2018,107222,Gasoline,Automatic,6488.82
+Toyota,Camry,2015,127275,Gasoline,Automatic,4284.96
+Honda,Civic,2021,56174,Gasoline,Manual,9841.23
+Chevrolet,Silverado,2016,81216,Gasoline,Manual,4835.58
+Mercedes-Benz,E-Class,2026,0,Gasoline,Manual,54284.18
+Tesla,Model 3,2025,6230,Electric,Manual,38419.9
+Toyota,RAV4,2021,47880,Hybrid,Automatic,13293.87
+Tesla,Model S,2019,74099,Electric,Automatic,15112.56
+Toyota,Camry,2025,14136,Gasoline,Automatic,24832.85
+Mazda,Mazda3,2025,20329,Gasoline,Automatic,22738.1
+Tesla,Model Y,2020,80440,Electric,Automatic,18343.73
+BMW,X5,2017,143624,Hybrid,Manual,10268.06
+Mazda,CX-5,2021,71423,Diesel,Automatic,9893.19
+Tesla,Model 3,2023,34509,Electric,Manual,30524.6
+Nissan,Altima,2023,13450,Gasoline,Automatic,13720.9
+Mazda,CX-9,2019,88560,Gasoline,Automatic,7931.94
+Ford,F-150,2016,107327,Gasoline,Automatic,4891.21
+Tesla,Model 3,2010,111007,Electric,Automatic,2709.22
+Tesla,Model Y,2012,174299,Electric,Automatic,3841.91
+Mercedes-Benz,C-Class,2019,58928,Gasoline,Automatic,16541.17
+Toyota,Corolla,2010,282371,Gasoline,Automatic,1877.77
+Toyota,Highlander,2024,27651,Diesel,Manual,17619.49
+Mazda,CX-5,2018,75771,Gasoline,Automatic,5638.0
+Hyundai,Elantra,2012,95352,Gasoline,Manual,2206.96
+Nissan,Rogue,2018,88989,Gasoline,Automatic,6176.53
+BMW,X5,2013,134558,Gasoline,Automatic,5400.27
+Hyundai,Santa Fe,2011,217261,Gasoline,Automatic,1610.44
+Hyundai,Santa Fe,2021,55176,Gasoline,Automatic,9603.98
+Tesla,Model Y,2014,152803,Electric,Manual,6750.86
+Chevrolet,Silverado,2025,19695,Diesel,Automatic,22056.95
+BMW,5 Series,2022,64490,Hybrid,Automatic,27523.37
+Toyota,Tacoma,2014,141021,Gasoline,Automatic,3134.56
+BMW,X3,2021,44133,Gasoline,Automatic,20982.39
+Hyundai,Elantra,2022,44422,Diesel,Automatic,10917.31
+Chevrolet,Tahoe,2021,69912,Gasoline,Manual,12046.96
+BMW,X3,2023,50389,Hybrid,Automatic,24435.82
+Ford,Mustang,2010,211959,Diesel,Automatic,1967.49
+Nissan,Rogue,2015,189373,Gasoline,Automatic,3837.19
+Mazda,Mazda3,2025,15326,Diesel,Automatic,23709.68
+Toyota,RAV4,2022,45571,Gasoline,Automatic,12863.11
+Ford,Mustang,2010,255144,Diesel,Automatic,1690.61
+BMW,3 Series,2019,82338,Gasoline,Automatic,14384.08
+Hyundai,Santa Fe,2020,38712,Diesel,Automatic,9586.08
+Toyota,Camry,2026,883,Gasoline,Automatic,28838.54
+Mazda,Mazda3,2018,120470,Gasoline,Automatic,4977.74
+Tesla,Model 3,2010,244792,Electric,Manual,3433.46
+Chevrolet,Malibu,2022,49311,Gasoline,Automatic,15278.88
+Toyota,Tacoma,2025,5650,Gasoline,Manual,19102.19
+Ford,F-150,2015,105866,Diesel,Manual,3903.32
+BMW,X3,2014,115795,Gasoline,Automatic,4925.06
+Mazda,CX-5,2016,85988,Gasoline,Automatic,4143.02
+Ford,F-150,2011,187780,Gasoline,Automatic,2208.41
+Mercedes-Benz,GLC,2012,83364,Gasoline,Automatic,4636.52
+Nissan,Altima,2026,4753,Gasoline,Automatic,27859.46
+Chevrolet,Equinox,2015,145447,Hybrid,Automatic,3631.46
+Tesla,Model Y,2012,105803,Electric,Automatic,3807.54
+Tesla,Model S,2018,69535,Electric,Automatic,14137.98
+Chevrolet,Malibu,2014,142283,Gasoline,Automatic,3558.9
+BMW,5 Series,2018,144518,Diesel,Automatic,9371.08
+Tesla,Model 3,2015,170088,Electric,Manual,7341.73
+Mercedes-Benz,GLC,2012,175844,Gasoline,Automatic,4791.25
+Tesla,Model 3,2021,55737,Electric,Automatic,23792.3
+Tesla,Model S,2010,214034,Electric,Automatic,3249.8
+Hyundai,Santa Fe,2018,77726,Gasoline,Automatic,6483.03
+Ford,Escape,2020,70141,Diesel,Automatic,11518.91
+Honda,CR-V,2018,127776,Gasoline,Automatic,5275.66
+Mercedes-Benz,GLE,2010,254159,Gasoline,Automatic,3699.42
+Mazda,CX-5,2022,83173,Hybrid,Manual,11484.06
+Tesla,Model S,2018,115682,Electric,Automatic,10750.98
+BMW,X3,2024,20174,Diesel,Manual,37425.42
+BMW,3 Series,2021,78869,Gasoline,Manual,20231.86
+BMW,5 Series,2015,80058,Hybrid,Automatic,7522.01
+BMW,X5,2012,215441,Gasoline,Automatic,4182.01
+Honda,Pilot,2021,72355,Gasoline,Automatic,10968.83
+Mercedes-Benz,GLE,2024,17212,Gasoline,Automatic,39483.93
+Nissan,Sentra,2017,128932,Gasoline,Manual,5291.4
+Hyundai,Tucson,2011,169928,Gasoline,Automatic,1771.04
+Toyota,Highlander,2012,168476,Gasoline,Automatic,2434.72
+Nissan,Altima,2017,108371,Gasoline,Automatic,4490.03
+Nissan,Sentra,2019,82942,Gasoline,Automatic,6424.87
+Mazda,Mazda3,2026,5130,Gasoline,Automatic,24916.62
+BMW,X5,2022,48422,Gasoline,Automatic,24441.63
+Nissan,Sentra,2011,157377,Gasoline,Automatic,1679.11
+Ford,Escape,2012,206422,Gasoline,Automatic,2748.65
+Ford,F-150,2012,175656,Gasoline,Automatic,2663.11
+BMW,3 Series,2023,49311,Hybrid,Automatic,31382.17
+Tesla,Model 3,2016,121468,Electric,Automatic,7467.42
+Mercedes-Benz,C-Class,2010,174678,Gasoline,Automatic,3556.12
+Mazda,CX-9,2024,34454,Hybrid,Automatic,17057.17
+Honda,Pilot,2013,121357,Gasoline,Manual,2934.92
+Tesla,Model S,2026,0,Electric,Automatic,51033.26
+Tesla,Model 3,2020,38325,Electric,Automatic,20577.81
+Mercedes-Benz,C-Class,2011,158218,Diesel,Automatic,4103.0
+Mercedes-Benz,GLC,2013,108339,Gasoline,Manual,5593.59
+Toyota,Corolla,2026,11799,Gasoline,Manual,25859.24
+Mercedes-Benz,C-Class,2012,262215,Gasoline,Manual,4295.61
+Tesla,Model S,2022,51992,Electric,Automatic,22135.57
+Honda,CR-V,2023,37322,Hybrid,Manual,15603.67
+Chevrolet,Malibu,2018,77759,Gasoline,Automatic,6421.04
+Nissan,Rogue,2026,3255,Gasoline,Automatic,28860.31
+Mercedes-Benz,GLC,2017,144816,Gasoline,Automatic,8943.09
+Chevrolet,Malibu,2025,18870,Hybrid,Automatic,23222.23
+Ford,Escape,2025,18299,Gasoline,Automatic,23805.02
+BMW,X5,2026,0,Gasoline,Automatic,46462.03
+Hyundai,Elantra,2010,202385,Diesel,Automatic,1528.01
+Chevrolet,Silverado,2023,29311,Gasoline,Automatic,14771.3
+Hyundai,Elantra,2013,130239,Hybrid,Manual,2409.34
+BMW,X3,2024,25708,Gasoline,Automatic,34248.31
+BMW,X5,2011,151299,Diesel,Automatic,3054.15
+Tesla,Model S,2020,48508,Electric,Automatic,17634.72
+Mazda,CX-9,2013,204956,Gasoline,Automatic,2606.78
+Honda,Civic,2019,86977,Diesel,Manual,7929.47
+Honda,Accord,2012,170705,Gasoline,Automatic,1959.73
+BMW,X5,2023,34887,Gasoline,Automatic,26382.55
+Ford,Escape,2024,22024,Hybrid,Manual,18783.85
+Hyundai,Tucson,2021,63049,Gasoline,Automatic,9533.37
+Chevrolet,Malibu,2020,70948,Gasoline,Automatic,9535.78
+Chevrolet,Malibu,2022,29376,Gasoline,Automatic,14231.48
+Mazda,Mazda3,2019,74277,Hybrid,Manual,8122.19
+Ford,Explorer,2011,168040,Gasoline,Automatic,2150.33
+Nissan,Altima,2025,5950,Hybrid,Automatic,19792.63
+Mazda,Mazda3,2024,15053,Hybrid,Manual,16348.22
+Ford,F-150,2025,9648,Gasoline,Manual,24646.05
+Nissan,Rogue,2015,154100,Gasoline,Automatic,3045.94
+Toyota,Highlander,2015,99092,Diesel,Automatic,3738.79
+Tesla,Model Y,2014,104711,Electric,Automatic,6827.48
+Ford,Explorer,2019,107548,Gasoline,Automatic,6548.12
+Mazda,Mazda3,2025,13507,Gasoline,Automatic,21557.26
+Mercedes-Benz,GLE,2021,86555,Gasoline,Automatic,23835.27
+Honda,Civic,2022,30095,Gasoline,Automatic,13669.83
+Honda,CR-V,2025,6800,Gasoline,Automatic,19933.21
+Hyundai,Elantra,2026,0,Gasoline,Automatic,23354.27
+Hyundai,Elantra,2013,124050,Hybrid,Manual,2114.11
+Hyundai,Elantra,2021,46237,Gasoline,Automatic,11314.95
+Nissan,Rogue,2017,158038,Gasoline,Automatic,5403.77
+Chevrolet,Equinox,2018,116301,Gasoline,Automatic,6409.54
+Nissan,Sentra,2019,63302,Gasoline,Automatic,8717.17
+Toyota,Tacoma,2023,51620,Gasoline,Automatic,17588.22
+BMW,X5,2021,65792,Gasoline,Automatic,23294.85
+Nissan,Rogue,2018,86271,Diesel,Automatic,5703.59
+BMW,X5,2014,104939,Diesel,Manual,5701.35
+Ford,Escape,2024,22311,Diesel,Automatic,17654.63
+Tesla,Model S,2022,38725,Electric,Automatic,25778.52
+Honda,CR-V,2014,126832,Gasoline,Automatic,2622.6
+Ford,Escape,2014,121016,Gasoline,Manual,3464.47
+Tesla,Model 3,2014,173384,Electric,Automatic,5815.83
+Chevrolet,Malibu,2020,100237,Gasoline,Automatic,8474.34
+Mazda,CX-9,2025,2257,Hybrid,Automatic,22467.88
+Chevrolet,Silverado,2019,82454,Diesel,Automatic,8752.43
+Chevrolet,Equinox,2024,22409,Gasoline,Automatic,18044.42
+BMW,X3,2024,28735,Gasoline,Automatic,33252.95
+Chevrolet,Silverado,2020,77744,Gasoline,Automatic,9944.4
+Ford,F-150,2020,100728,Gasoline,Automatic,8323.86
+Toyota,Camry,2019,107313,Gasoline,Automatic,7477.67
