@@ -1,4 +1,4 @@
-# Python
+#Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,16 +8,16 @@ venv/
 env/
 ENV/
 
-# Model files (optional - you can commit these if they're small)
+# Model files (optional but you can commit if its small)
 *.pkl
 
 # Data files
 *.csv
 
-# Jupyter
+#jupyter
 .ipynb_checkpoints
 
-# IDE
+#IDE
 .vscode/
 .idea/
 *.swp
