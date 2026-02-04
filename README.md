@@ -82,7 +82,7 @@ The app also adjusts predictions based on how old the training data is, since ca
 
 ## Deployment
 
-I deployed this on Streamlit Cloud - it's free and pretty easy:
+I deployed this on Streamlit Cloud
 
 1. Push to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
@@ -102,7 +102,7 @@ You can also use Render or Heroku if you want.
 
 Things I might add:
 - Car condition as a feature
-- Location-based pricing (cars cost different amounts by state)
+- Location based pricing (cars cost different amounts by state)
 - More brands and models
 - Comparison with actual KBB values
 
